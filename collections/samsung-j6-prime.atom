@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-j6-prime.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-04-22T13:03:59-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489215316067</id>
+    <published>2019-04-22T13:03:59-07:00</published>
+    <updated>2019-04-22T13:03:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-sam-j6-prime"/>
+    <title>BLACK BLUEVISION WLT SAM J6 PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_fb9fbf3f-5242-404e-a8c4-6e04012e187f.png?v=1609367963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT SAM J6 PRIME</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J6 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489215316067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573767708771</id>
+    <published>2019-04-02T15:25:46-07:00</published>
+    <updated>2019-04-02T15:25:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-c-hybrid-sam-j6-prime"/>
+    <title>BLACK C-HYBRID SAM J6 PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1_109097c9-8b63-4ff6-8131-385c2d1426b3.jpg?v=1554243969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK C-HYBRID SAM J6 PRIME</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J6 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573767708771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

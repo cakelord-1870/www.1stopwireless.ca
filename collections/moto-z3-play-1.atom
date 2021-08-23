@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/moto-z3-play-1.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-02-27T15:43:55-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442359476323</id>
+    <published>2019-02-27T15:43:55-08:00</published>
+    <updated>2019-02-27T15:43:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-shiny-moto-z3-play"/>
+    <title>TEAL SHINY WLT MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_b5544b5f-70fc-4cac-a51d-04d65a972039.jpg?v=1542067062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SHINY WLT MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442359476323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442359279715</id>
+    <published>2019-02-27T15:43:55-08:00</published>
+    <updated>2019-02-27T15:43:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-shiny-moto-z3-play"/>
+    <title>BLACK SHINY WLT MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_ce3dc274-2819-4dc8-9a70-f999d8ea20e2.jpg?v=1611163070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SHINY WLT MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442359279715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433654198371</id>
+    <published>2019-02-11T08:03:39-08:00</published>
+    <updated>2019-02-11T08:03:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-slim-rugged-moto-z3-play"/>
+    <title>GREY SAR MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-06_3fdb1995-b82e-43d6-9df9-27cf32ac7716.jpg?v=1611163098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SLIM RUGGED MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433654198371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492061978723</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-moto-z3-play"/>
+    <title>PINK SAR MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_z3_play.jpg?v=1555447565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SLIM RUGGED MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492061978723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442362163299</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-shiny-moto-z3-play"/>
+    <title>BROWN SHINY WLT MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_176ca202-a47f-459b-857d-67c9ecad17e9.jpg?v=1611163074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BROWN SHINY MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442362163299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442362130531</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-blue-shiny-moto-z3-play"/>
+    <title>N BLUE SHINY WLT MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_BLUE_4b60f212-57fb-4db6-8aa9-73bb701f4ec2.jpg?v=1542060359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">NAVY BLUE SHINY WLT MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442362130531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442359345251</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-shiny-moto-z3-play"/>
+    <title>PINK SHINY WLT MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_099c8463-c343-4826-9830-77468eca3be7.jpg?v=1542061039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SHINY WLT MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442359345251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442359312483</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-shiny-moto-z3-play"/>
+    <title>R GOLD SHINY WLT MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_ee0d8ccc-9825-4be6-b0bd-92df77f6b7df.jpg?v=1542061234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SHINY WLT MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442359312483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433654591587</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-slim-rugged-moto-z3-play"/>
+    <title>PURPLE SAR MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/moto_z3_play_purple.jpg?v=1555447582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SLIM RUGGED MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433654591587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433654558819</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-slim-rugged-moto-z3-play"/>
+    <title>TEAL SAR MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/moto_z3_play_teal.jpg?v=1555447598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SLIM RUGGED MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433654558819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433654329443</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-gold-slim-rugged-moto-z3-play"/>
+    <title>ROSE GOLD SAR MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-04_e5721995-33c9-406e-bb25-aa507c306aea.jpg?v=1611163106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD SLIM RUGGED MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433654329443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433654100067</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-slim-rugged-moto-z3-play"/>
+    <title>RED SAR MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-01_43822f98-6037-4602-a979-f2e5d5b4e151.jpg?v=1611163103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SLIM RUGGED MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433654100067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433654067299</id>
+    <published>2018-09-27T16:07:44-07:00</published>
+    <updated>2018-09-27T16:07:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-slim-rugged-moto-z3-play"/>
+    <title>BLACK SAR MOTO Z3 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-03_fe406606-bc7a-4d3e-b14e-cfb355d69416.jpg?v=1611163094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SLIM RUGGED MOTO Z3 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOZ3PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433654067299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

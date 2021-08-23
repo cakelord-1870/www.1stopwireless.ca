@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/moto-g-power.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-08-18T09:32:12-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682647339107</id>
+    <published>2020-08-18T09:32:12-07:00</published>
+    <updated>2020-08-18T09:32:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-moto-g-power"/>
+    <title>TEAL BLUEVISION WLT MOTO G POWER</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_65ee902d-2345-4de7-81a5-91a0915f5d26.png?v=1609369235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682647339107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682647306339</id>
+    <published>2020-08-18T09:32:03-07:00</published>
+    <updated>2020-08-18T09:32:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-moto-g-power"/>
+    <title>R GOLD BLUEVISION WLT MOTO G POWER</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_72309f01-90ce-42a0-9845-5e24996382c7.png?v=1609368299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682647306339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682647109731</id>
+    <published>2020-08-18T09:32:03-07:00</published>
+    <updated>2020-08-18T09:32:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-moto-g-power"/>
+    <title>RED BLUEVISION WLT MOTO G POWER</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_9a277394-e627-405b-adcc-447252f1f5d0.png?v=1609369506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682647109731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682646978659</id>
+    <published>2020-08-18T09:32:03-07:00</published>
+    <updated>2020-08-18T09:32:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-moto-g-power"/>
+    <title>PURPLE BLUEVISION WLT MOTO G POWER</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_a64b4532-7201-4754-a0ea-bda0b5ed8a48.png?v=1609369056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682646978659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682646880355</id>
+    <published>2020-08-18T09:32:03-07:00</published>
+    <updated>2020-08-18T09:32:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-moto-g-power"/>
+    <title>PINK BLUEVISION WLT MOTO G POWER</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_b8957a29-a60f-4284-ace6-14b21cdb679c.png?v=1609368842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682646880355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682646650979</id>
+    <published>2020-08-18T09:32:02-07:00</published>
+    <updated>2020-08-18T09:32:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-moto-g-power"/>
+    <title>BROWN BLUEVISION WLT MOTO G POWER</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_eb099739-8075-490b-91a6-682ea3f220da.png?v=1609368593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682646650979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682646192227</id>
+    <published>2020-08-18T09:32:02-07:00</published>
+    <updated>2020-08-18T09:32:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-moto-g-power"/>
+    <title>BLACK BLUEVISION WLT MOTO G POWER</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_6c731f09-306e-4e93-994c-96f1d28cb393.png?v=1609367838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682646192227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667102920803</id>
+    <published>2020-07-24T14:15:09-07:00</published>
+    <updated>2020-07-24T14:15:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/moto-g-power-tempered-glass-loose"/>
+    <title>MOTO G POWER TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/277072e4-e22e-45a0-bdf8-59a14938e4d6.fafe3e8683c3386eb39f2e157e648c4f.jpg?v=1611169310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:tag>MOTOROLA TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667102920803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646400327779</id>
+    <published>2020-07-15T07:32:31-07:00</published>
+    <updated>2020-07-15T07:32:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-defend-moto-g-power"/>
+    <title>PINK DEFEND MOTO G POWER / G8 POWER / G STYLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1034_09ced018-0599-4960-8cd5-57a588ba7f65.png?v=1595089077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G POWER</s:tag>
+    <s:tag>MOTO G8 POWER / G STYLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646400327779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

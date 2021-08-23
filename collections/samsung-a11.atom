@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-a11.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T15:35:27-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682612375651</id>
+    <published>2021-07-23T15:35:27-07:00</published>
+    <updated>2021-07-23T15:35:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-a11"/>
+    <title>R GOLD BLUEVISION WLT SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_526562c6-0498-4a58-b8b2-5f8c939e448f.png?v=1609368383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682612375651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682612244579</id>
+    <published>2021-07-23T15:35:27-07:00</published>
+    <updated>2021-07-23T15:35:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-sam-a11"/>
+    <title>RED BLUEVISION WLT SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_adc2f003-e301-499e-8803-10fea17fa7d3.png?v=1609369595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682612244579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682612047971</id>
+    <published>2021-07-23T15:35:26-07:00</published>
+    <updated>2021-07-23T15:35:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-sam-a11"/>
+    <title>BLACK BLUEVISION WLT SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_c6307407-011c-4ea1-94a0-11a05ee44661.png?v=1609367996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682612047971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6169495797952</id>
+    <published>2021-01-28T08:44:36-08:00</published>
+    <updated>2021-01-28T08:44:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-sam-a11"/>
+    <title>BLACK TPU SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61bM8s_2BOB9L._AC_SL1200.jpg?v=1611852304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6169495797952</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720264413283</id>
+    <published>2020-12-18T14:18:46-08:00</published>
+    <updated>2020-12-18T14:18:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-robot-ring-sam-a11"/>
+    <title>GREY ROBOT RING SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grey_0f3cf6f8-9b86-46dc-8dea-b7b1fc32251c.png?v=1610572724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720264413283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6118319358144</id>
+    <published>2020-12-18T14:18:28-08:00</published>
+    <updated>2020-12-18T14:18:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-robot-ring-sam-a11"/>
+    <title>TEAL ROBOT RING SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_8a3d7aed-b22d-4755-a927-e37c3b3d7870.png?v=1610572752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6118319358144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720198418531</id>
+    <published>2020-12-15T13:11:37-08:00</published>
+    <updated>2020-12-15T13:11:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/a11-tempered-glass-loose"/>
+    <title>A11 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Tempered-Glass-Screen-Protector-for-Samsung-Galaxy-M11-Galaxy-A11-Clear-21072020-p.jpg?v=1610643480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720198418531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6072308203712</id>
+    <published>2020-11-21T12:22:47-08:00</published>
+    <updated>2020-11-21T12:22:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-a11"/>
+    <title>PINK BLUEVISION WLT SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_e85dd9b6-350d-4e13-b090-ee30d003b26c.png?v=1609368928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6072308203712</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682612539491</id>
+    <published>2020-11-21T12:22:47-08:00</published>
+    <updated>2020-11-21T12:22:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-a11"/>
+    <title>TEAL BLUEVISION WLT SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_68cc4f2d-bd2a-4ca2-adbf-7f78bcd01888.png?v=1609789354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682612539491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682612441187</id>
+    <published>2020-11-21T12:22:46-08:00</published>
+    <updated>2020-11-21T12:22:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-a11"/>
+    <title>PURPLE BLUEVISION WLT SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_f655c6f9-b3e6-41ef-8854-297497597ad9.png?v=1609369137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682612441187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682612211811</id>
+    <published>2020-11-21T12:22:46-08:00</published>
+    <updated>2020-11-21T12:22:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-sam-a11"/>
+    <title>BROWN BLUEVISION WLT SAM A11</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_4b71277a-2222-4aa0-8dec-c0c28190ac6f.png?v=1609368656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A11</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682612211811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

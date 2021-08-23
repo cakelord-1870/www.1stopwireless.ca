@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/ipad-silicon-cases.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-01-27T15:06:58-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839072867</id>
+    <published>2021-01-27T15:06:58-08:00</published>
+    <updated>2021-01-27T15:06:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>YELLOW 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/YELLOW.png?v=1611788646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839072867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514877018211</id>
+    <published>2021-01-27T14:20:40-08:00</published>
+    <updated>2021-01-27T14:20:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-3d-silicon-kids-case-tab-e-t560"/>
+    <title>PURPLE 3D SILICON KID&apos;S CASE SAM TAB E 9.6/T560NU</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/560purple.png?v=1611790579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB E 9.6/T560NU</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514877018211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839367779</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>GREEN 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_3285728e-66ef-4f63-ae81-d3e113f363f9.png?v=1611788601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839367779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839203939</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/orange-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>ORANGE 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ORANGE_47dc07a4-2bfe-40a7-9969-4f53a374b721.png?v=1611788627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839203939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514877411427</id>
+    <published>2019-04-26T17:42:30-07:00</published>
+    <updated>2019-04-26T17:42:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-3d-silicon-kids-case-tab-e-t560"/>
+    <title>GREEN 3D SILICON KID&apos;S CASE SAM TAB E 9.6/T560NU</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/560green.png?v=1611790792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB E 9.6/T560NU</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514877411427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514877247587</id>
+    <published>2019-04-26T17:41:58-07:00</published>
+    <updated>2019-04-26T17:41:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/orange-3d-silicon-kids-case-tab-e-t560"/>
+    <title>ORANGE 3D SILICON KID&apos;S CASE SAM TAB E 9.6/T560NU</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/560ornage.png?v=1611790937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB E 9.6/T560NU</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514877247587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514876166243</id>
+    <published>2019-04-26T17:40:20-07:00</published>
+    <updated>2019-04-26T17:40:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-3d-silicon-kids-case-tab-e-t560"/>
+    <title>BLUE 3D SILICON KID&apos;S CASE SAM TAB E 9.6/T560NU</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/560blue.jpg?v=1611790620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB E 9.6/T560NU</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514876166243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514875674723</id>
+    <published>2019-04-26T17:39:47-07:00</published>
+    <updated>2019-04-26T17:39:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-3d-silicon-kids-case-tab-e-t560"/>
+    <title>PINK 3D SILICON KID&apos;S CASE SAM TAB E 9.6/T560NU</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/560pink.png?v=1611790553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB E 9.6/T560NU</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514875674723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

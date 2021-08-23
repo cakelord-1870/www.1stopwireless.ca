@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/moto-g4-plus.atom"/>
+  <title>1StopWireless</title>
+  <updated>2018-09-18T08:12:08-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430563913827</id>
+    <published>2018-09-18T08:12:08-07:00</published>
+    <updated>2018-09-18T08:12:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-moto-g5-tempered-glass-loose"/>
+    <title>MOTO G4 PLUS TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Tempered-Glass-Screen-Protector-for-Motorola-Moto-G4-Plus-2016-27062016-01-p_large_30592a29-bb45-46eb-93bc-0e02db0ea8bc.jpg?v=1611165465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MOTO G4 PLUS TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G4 PLUS</s:tag>
+    <s:tag>MOTOROLA TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430563913827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744598110307</id>
+    <published>2018-04-06T12:14:59-07:00</published>
+    <updated>2018-04-06T12:14:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/motog4plus_slimarmor_black"/>
+    <title>BLACK SAR MOTO G4 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-03_900x_c7f2486e-1b78-45f6-942a-c1d9a30f9e4f.jpg?v=1611165649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SAR MOTO G4 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G4 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744598110307</id>
+      <title>Precision Cut / MOTO G4 PLUS / MOTO G4 PLUS</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>motog4plus_slimarmor_black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

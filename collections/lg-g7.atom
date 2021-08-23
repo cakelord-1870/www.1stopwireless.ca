@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-g7.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-08-01T07:35:42-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489268760675</id>
+    <published>2020-08-01T07:35:42-07:00</published>
+    <updated>2020-08-01T07:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-lg-g7"/>
+    <title>RED BLUEVISION WLT LG G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_24e9f293-50b9-4f94-b523-fc020037aeea.png?v=1609369465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT LG G7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489268760675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489269186659</id>
+    <published>2019-10-12T10:59:25-07:00</published>
+    <updated>2019-10-12T10:59:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-lg-g7"/>
+    <title>PURPLE BLUEVISION WLT LG G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_1a26b588-b3f0-4317-91c0-fadb66135cf5.png?v=1609369016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT LG G7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489269186659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489268301923</id>
+    <published>2019-08-12T10:14:15-07:00</published>
+    <updated>2019-08-12T10:14:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-lg-g7"/>
+    <title>BLACK BLUEVISION WLT LG G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_a67460f7-3963-4ee0-a0fc-146d5e03dcdc.png?v=1609367805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT LG G7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489268301923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485655498851</id>
+    <published>2019-04-12T14:35:53-07:00</published>
+    <updated>2019-04-12T14:35:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-huawei-p20-lite-tempered-glass-packed"/>
+    <title>LG G7 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_8750fd29-0897-4342-9720-258b4683981a.jpeg?v=1558995166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G7 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485655498851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430760226915</id>
+    <published>2019-04-12T12:27:18-07:00</published>
+    <updated>2019-04-12T12:27:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-huawei-gr5-tempered-glass-loose"/>
+    <title>LG G7 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_9c2dec8a-18ce-4a66-8fa3-91faeb794ecf.jpg?v=1611004782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G7 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430760226915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492059553891</id>
+    <published>2018-09-25T19:23:48-07:00</published>
+    <updated>2018-09-25T19:23:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-lg-g7"/>
+    <title>PINK SAR LG G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/g7_pink.jpg?v=1555447016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK HARD RUGGED FOR LG G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492059553891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRLGG7PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481608396899</id>
+    <published>2018-09-25T19:23:48-07:00</published>
+    <updated>2018-09-25T19:23:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-lg-g7"/>
+    <title>BLACK TPU LG G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tpu_black.JPG?v=1560971912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK TPU LG G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481608396899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432812716131</id>
+    <published>2018-09-25T19:23:48-07:00</published>
+    <updated>2018-09-25T19:23:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-hard-rugged-for-lg-g7"/>
+    <title>TEAL SAR LG G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/g7_teal.jpg?v=1555447035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL HARD RUGGED FOR LG G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432812716131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRLGG7TL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432811962467</id>
+    <published>2018-09-25T19:23:48-07:00</published>
+    <updated>2018-09-25T19:23:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-gold-hard-rugged-for-lg-g7"/>
+    <title>ROSE GOLD SAR LG G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/G7_-12.jpg?v=1555446785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD HARD RUGGED FOR LG G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432811962467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRLGG7RGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

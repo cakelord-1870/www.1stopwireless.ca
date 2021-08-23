@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-a21.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T15:41:53-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4691532611683</id>
+    <published>2021-07-23T15:41:53-07:00</published>
+    <updated>2021-07-23T15:41:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/a71-tempered-glass-loose"/>
+    <title>A71/A21 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SAMA71TEMPERED.jpg?v=1610147515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:tag>SAM A71</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4691532611683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646362808419</id>
+    <published>2021-05-21T08:29:44-07:00</published>
+    <updated>2021-05-21T08:29:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-ring-sam-a21"/>
+    <title>BLACK RUGGED RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A21.jpg?v=1621028634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646362808419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6071730569408</id>
+    <published>2021-01-14T11:51:38-08:00</published>
+    <updated>2021-01-14T11:51:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-c-hybrid-sam-a21"/>
+    <title>TEAL C-HYBRID SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_65439d90-6230-4238-afa2-118755703e2c.png?v=1610655792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6071730569408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4714401693795</id>
+    <published>2021-01-14T11:51:37-08:00</published>
+    <updated>2021-01-14T11:51:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-c-hybrid-sam-a21"/>
+    <title>PURPLE C-HYBRID SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_512eca41-839e-40b4-9662-025cd6665da7.png?v=1610655675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4714401693795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682671030371</id>
+    <published>2021-01-14T11:51:37-08:00</published>
+    <updated>2021-01-14T11:51:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-c-hybrid-sam-a21"/>
+    <title>N BLUE C-HYBRID SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_ed06e4b0-0b2d-49ce-ab72-96b26f288e26.png?v=1610655663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682671030371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682670866531</id>
+    <published>2021-01-14T11:51:37-08:00</published>
+    <updated>2021-01-14T11:51:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-c-hybrid-sam-a21"/>
+    <title>R GOLD C-HYBRID SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_28f02eda-c0c8-44b5-9887-5ba21083456d.png?v=1610655770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682670866531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682670735459</id>
+    <published>2021-01-14T11:51:36-08:00</published>
+    <updated>2021-01-14T11:51:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-c-hybrid-sam-a21"/>
+    <title>RED C-HYBRID SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_71684dec-49fd-4f6c-b85e-1a924764df43.png?v=1610655776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682670735459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682670375011</id>
+    <published>2021-01-14T11:51:36-08:00</published>
+    <updated>2021-01-14T11:51:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-c-hybrid-sam-a21"/>
+    <title>PINK C-HYBRID SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_c7cb32c5-27ff-4889-a96a-d5c16a1eb535.png?v=1610655668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682670375011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6118320373952</id>
+    <published>2020-12-18T14:20:15-08:00</published>
+    <updated>2020-12-18T14:20:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-robot-ring-sam-a21"/>
+    <title>TEAL ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_94c03c21-12cd-40d1-95dd-ab19eda4f34d.png?v=1610572410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6118320373952</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6072479154368</id>
+    <published>2020-11-12T12:35:59-08:00</published>
+    <updated>2020-11-12T12:35:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-a71-full-tempered-glass"/>
+    <title>SAM A71/A21 FULL TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SAMA71FULLTEMPERED.jpg?v=1610147522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL GLUE TEMPERED GLASS</s:tag>
+    <s:tag>SAM A21</s:tag>
+    <s:tag>SAM A71</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6072479154368</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6041942819008</id>
+    <published>2020-11-12T11:18:53-08:00</published>
+    <updated>2020-11-12T11:18:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-pink-puff-wlt-sam-a21"/>
+    <title>ROSE PINK PUFF WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINKROSEFINAL_21be9f52-983d-4682-8d78-280dd6b4834b.png?v=1604357193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6041942819008</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6041942065344</id>
+    <published>2020-11-06T15:47:03-08:00</published>
+    <updated>2020-11-06T15:47:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/peach-flower-puff-wlt-sam-a21"/>
+    <title>PEACH FLOWER PUFF WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWNFLOWERS_00121c0f-192d-429c-ba16-4a2c770a1152.png?v=1604357016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6041942065344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6041941770432</id>
+    <published>2020-11-06T15:47:03-08:00</published>
+    <updated>2020-11-06T15:47:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flower-puff-wlt-sam-a21-1"/>
+    <title>PINK FLOWER PUFF WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINKFLOWERS_3d24b66a-4f5a-4157-840a-08441c677206.png?v=1604356965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6041941770432</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6041940361408</id>
+    <published>2020-11-06T15:46:10-08:00</published>
+    <updated>2020-11-06T15:46:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flower-puff-wlt-sam-a21"/>
+    <title>GREY FLOWER PUFF WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREYFLOWERS_790ac1db-a4e7-45c9-8de1-3c876522cef1.png?v=1604356755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6041940361408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6041941999808</id>
+    <published>2020-11-06T15:45:18-08:00</published>
+    <updated>2020-11-06T15:45:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-flower-puff-wlt-sam-a21"/>
+    <title>BLUE FLOWER PUFF WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLUEFLOWERS_bc8e7fcf-211c-40c0-a5a4-5a1f42cd65ae.png?v=1604356992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6041941999808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720262611043</id>
+    <published>2020-10-09T11:28:04-07:00</published>
+    <updated>2020-10-09T11:28:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-robot-ring-sam-a21"/>
+    <title>NAVY ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_8dd87101-c8b3-4b35-a054-cda2ebb46615.png?v=1610572379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720262611043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720262381667</id>
+    <published>2020-10-09T11:27:51-07:00</published>
+    <updated>2020-10-09T11:27:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-robot-ring-sam-a21"/>
+    <title>RED ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_5228dbf7-ff51-4bc7-bdf6-57433a2d0fa5.png?v=1610572524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720262381667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720262185059</id>
+    <published>2020-10-09T11:27:36-07:00</published>
+    <updated>2020-10-09T11:27:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-robot-ring-sam-a21"/>
+    <title>GREY ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grey_61f5e985-30c2-4045-bdf2-33e0bd29b657.png?v=1610572370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720262185059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720262021219</id>
+    <published>2020-10-09T11:27:22-07:00</published>
+    <updated>2020-10-09T11:27:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-robot-ring-sam-a21"/>
+    <title>PINK ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_79cc4356-05ad-4e39-94e0-d2b24f283118.png?v=1610572384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720262021219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720261890147</id>
+    <published>2020-10-09T11:27:07-07:00</published>
+    <updated>2020-10-09T11:27:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-robot-ring-sam-a21"/>
+    <title>GREEN ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/green_c513a7f1-0bd9-401c-a9e4-7e753ffff5ab.png?v=1610572363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720261890147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720261791843</id>
+    <published>2020-10-09T11:26:53-07:00</published>
+    <updated>2020-10-09T11:26:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-robot-ring-sam-a21"/>
+    <title>R GOLD ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_32cc2da1-8d9c-4690-a518-1580a68cdd6c.png?v=1610572394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720261791843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720254779491</id>
+    <published>2020-10-09T11:11:55-07:00</published>
+    <updated>2020-10-09T11:11:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-robot-ring-sam-a21"/>
+    <title>BLACK ROBOT RING SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_dd6ecc9b-5fe8-4fbb-a218-68f1be42e423.png?v=1610572354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720254779491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4716920897635</id>
+    <published>2020-10-03T14:14:33-07:00</published>
+    <updated>2020-10-03T14:14:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-a21"/>
+    <title>TEAL BLUEVISION WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_32443eb9-e495-436d-92d1-865dcb163854.png?v=1609789386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4716920897635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4716920766563</id>
+    <published>2020-10-03T14:14:20-07:00</published>
+    <updated>2020-10-03T14:14:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-a21-1"/>
+    <title>PINK BLUEVISION WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_43fea53b-062d-4603-a470-866377641633.png?v=1609368925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4716920766563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4716920733795</id>
+    <published>2020-10-03T14:14:06-07:00</published>
+    <updated>2020-10-03T14:14:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-a21-1"/>
+    <title>R GOLD BLUEVISION WLT SAM A21</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_cb066d5c-4ca0-4edc-86ca-e7b4059c0380.png?v=1609368386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Arrival</s:tag>
+    <s:tag>SAM A21</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4716920733795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-s8-plus.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-11-15T12:15:10-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744532148323</id>
+    <published>2019-11-15T12:15:10-08:00</published>
+    <updated>2019-11-15T12:15:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8p_caseology_gold"/>
+    <title>R GOLD C-HYBRID SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/2_501e2671-3379-4d92-ac83-7db4b0121861.jpg?v=1537393732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD HARD RUGGED CASEOLOGY CASE FOR SAMSUNG GALAXY S8 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744532148323</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744534966371</id>
+    <published>2019-11-15T12:13:23-08:00</published>
+    <updated>2019-11-15T12:13:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8p_mercurysnapon_rosegold"/>
+    <title>R GOLD SLIM MQRY SNAP ON SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/466627299687066177_grande_e3e31f83-a949-4d12-9af3-b57fe577a259.jpg?v=1550515405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD MERCURY HARD SNAP ON CASE FOR SAMSUNG S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744534966371</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429741731939</id>
+    <published>2019-11-15T12:13:05-08:00</published>
+    <updated>2019-11-15T12:13:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-pink-hard-clear-case-for-samsung-galaxy-s8-plus"/>
+    <title>BLACK DEF SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/371356254887063645_1024x1024_2x_40b2adc6-020c-4ea7-b650-04155b5f3ebc.jpg?v=1610557353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK DEF SAM S8 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429741731939</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>s8p_ballisticdimd_black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429738520675</id>
+    <published>2019-11-15T12:12:40-08:00</published>
+    <updated>2019-11-15T12:12:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-silver-horizontal-slider-rugged-card-inserter-for-samsung-galaxy-s8-plus"/>
+    <title>BLACK CARD INSRTR-DOWN SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9413_1024x1024_2x_e5d7f350-e986-4bb0-a072-1b54d89b8dec.jpg?v=1550182035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK HORIZONTAL SLIDER RUGGED CARD INSERTER FOR SAMSUNG GALAXY S8 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429738520675</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481568059491</id>
+    <published>2019-11-15T12:11:32-08:00</published>
+    <updated>2019-11-15T12:11:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-sar-sam-s8-plus"/>
+    <title>BLUE SAR SAM S8 PLUS (MATTE)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLUE_SAR.png?v=1560893134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLUE SAR SAM S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481568059491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRS8PlusBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432474583139</id>
+    <published>2019-11-15T12:11:31-08:00</published>
+    <updated>2019-11-15T12:11:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-slim-rugged-for-samsung-s8"/>
+    <title>GOLD SAR SAM S8 PLUS (MATTE)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/S8-PLUS_032105.jpg?v=1610565719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SLIM RUGGED FOR SAMSUNG S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432474583139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRS8PlusGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744534802531</id>
+    <published>2019-11-15T12:10:57-08:00</published>
+    <updated>2019-11-15T12:10:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8p_wltgusbrymetalflp_teal"/>
+    <title>MEHROON METAL FLAP WLT SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MAROON_grande_9581503b-0df8-42c4-9ac0-87551e6e2790.jpg?v=1610557582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MAROON GOOSEBERRY STYLE METAL FLIP WALLET FOR SAMSUNG GALAXY S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744534802531</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744534769763</id>
+    <published>2019-11-15T12:10:57-08:00</published>
+    <updated>2019-11-15T12:10:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8p_wltgusbrymetalflp_black"/>
+    <title>BLACK METAL FLAP WLT SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_grande_6f2dfbb5-40c7-4eeb-8165-1e12f0c6464b.jpg?v=1610557371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK GOOSEBERRY STYLE METAL FLIP WALLET FOR SAMSUNG GALAXY S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744534769763</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744532672611</id>
+    <published>2019-11-15T12:10:56-08:00</published>
+    <updated>2019-11-15T12:10:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8p_wltgusbrymetalflp_rosegold"/>
+    <title>R GOLD METAL FLAP WLT SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_grande_0328781a-a559-4f21-a881-e21b9231c575.jpg?v=1610557120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD GOOSEBERRY STYLE METAL FLIP WALLET FOR SAMSUNG GALAXY S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744532672611</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744533360739</id>
+    <published>2019-11-15T12:09:47-08:00</published>
+    <updated>2019-11-15T12:09:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8p_hardglitter_silver"/>
+    <title>SILVER HARD GLTR SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/silver_238fb0d6-ed2e-4f1e-9fe1-8b6f3b506dfd.jpg?v=1610565341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER HARD GLITTER CASE FOR SAMSUNG S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744533360739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744533295203</id>
+    <published>2019-11-15T12:09:47-08:00</published>
+    <updated>2019-11-15T12:09:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8p_hardglitter_gold"/>
+    <title>GOLD HARD GLTR SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/gold_511bbb77-afc7-4d36-972b-89f7bfb86d83.jpg?v=1610565311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD HARD GLITTER CASE FOR SAMSUNG GALAXY S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744533295203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481564880995</id>
+    <published>2019-11-15T12:08:47-08:00</published>
+    <updated>2019-11-15T12:08:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-for-sam-s8-plus"/>
+    <title>CLEAR TPU SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_TPU_SAM_S8_a77ecdad-da0f-4b7b-ba7a-3f34ce77324b.jpg?v=1550518563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR TPU FOR SAM S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481564880995</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429715714147</id>
+    <published>2019-11-15T12:08:46-08:00</published>
+    <updated>2019-11-15T12:08:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-baby-pink-tpu-for-samsung-s8-plus"/>
+    <title>CLEAR THICK CORNER TPU SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/THICK_CORNER_76c6e21e-13a8-4fac-9a84-aa3189469586.JPG?v=1550517512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR THICK CORNOR TPU FOR SAM S8 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429715714147</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744533655651</id>
+    <published>2019-11-15T12:08:17-08:00</published>
+    <updated>2019-11-15T12:08:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s8p_shinywalletgusbry_black"/>
+    <title>BLACK SHINY WLT SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_9980623d-47b7-410e-b71d-74f8f2b507ab.jpg?v=1610557393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SHINY WLT SAM S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744533655651</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744532574307</id>
+    <published>2019-11-15T12:08:17-08:00</published>
+    <updated>2019-11-15T12:08:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s8p_shinywalletgusbry_rosegold"/>
+    <title>R GOLD SHINY WLT SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_3392d383-096f-4d94-ad0f-4badad745571.jpg?v=1610557123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD SHINY WLT SAM S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744532574307</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744532541539</id>
+    <published>2019-11-15T12:08:17-08:00</published>
+    <updated>2019-11-15T12:08:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s8p_shinywalletgusbry_pink"/>
+    <title>PINK SHINY WLT SAM S8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_35ce8049-2046-4a7f-ad36-e12c6c747bf9.jpg?v=1610557612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SHINY WLT SAM S8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744532541539</id>
+      <title>Precision Cut / SAMSUNG S8 PLUS / SAMSUNG S8 PLUS</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485288595555</id>
+    <published>2019-04-12T12:07:39-07:00</published>
+    <updated>2019-04-12T12:07:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-s8-plus-tpu-screen-protector"/>
+    <title>SAM S8 PLUS TPU SCREEN PROTECTOR</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tpu_screen_b0a746d6-41ad-46f3-beaa-c7ff27735c26.jpg?v=1560891881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAM S8 PLUS TPU SCREEN PROTECTOR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:tag>TPU SCREEN PROTECTOR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485288595555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/sam-tab-a-7-0-t285.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-10-07T08:15:58-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167274791011</id>
+    <published>2019-10-07T08:15:58-07:00</published>
+    <updated>2019-10-07T08:15:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/baby-blue-sam-tab-a-7-0-t280-285-cover"/>
+    <title>BABY BLUE SAM TAB A 7.0/(T280/285) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51zN8vGF4cL._AC_SL1000.jpg?v=1615328832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 7.0/T285</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167274791011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489621352547</id>
+    <published>2019-02-08T14:51:26-08:00</published>
+    <updated>2019-02-08T14:51:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sam-tab-a-7-0-t280-285-cover"/>
+    <title>RED SAM TAB A 7.0/(T280/285) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_ef17559f-bba3-4f27-baf3-f6c5ead7b55d.jpg?v=1615500798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 7.0/T285</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489621352547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489618436195</id>
+    <published>2019-02-08T14:51:26-08:00</published>
+    <updated>2019-02-08T14:51:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sam-tab-a-7-0-t280-285-cover"/>
+    <title>N BLUE SAM TAB A 7.0/(T280/285) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51_B-vlgEUL._AC_SL1000.jpg?v=1615328860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 7.0/T285</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489618436195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489617944675</id>
+    <published>2019-02-08T14:51:26-08:00</published>
+    <updated>2019-02-08T14:51:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sam-tab-a-7-0-t280-285-cover"/>
+    <title>R GOLD SAM TAB A 7.0/(T280/285) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_3e438fa2-d72d-4250-b6c8-c3223daf603d.jpg?v=1615500790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 7.0/T285</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489617944675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489616830563</id>
+    <published>2019-02-08T14:51:26-08:00</published>
+    <updated>2019-02-08T14:51:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sam-tab-a-7-0-t280-285-cover"/>
+    <title>PURPLE SAM TAB A 7.0/(T280/285) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51ZU4-d_MZL._AC_SL1000.jpg?v=1615328881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 7.0/T285</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489616830563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489616339043</id>
+    <published>2019-02-08T14:51:26-08:00</published>
+    <updated>2019-02-08T14:51:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sam-tab-a-7-0-t280-285-cover"/>
+    <title>PINK SAM TAB A 7.0/(T280/285) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51Nsl0du1EL._AC_SL1000.jpg?v=1615328872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 7.0/T285</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489616339043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1428920631395</id>
+    <published>2019-02-08T14:51:26-08:00</published>
+    <updated>2019-02-08T14:51:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-sam-tab-3-8-0-t310-cover-3"/>
+    <title>BLACK SAM TAB A 7.0/(T280/285) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/6105TMqNZFL._AC_SL1000.jpg?v=1615328851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 7.0/T285</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1428920631395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

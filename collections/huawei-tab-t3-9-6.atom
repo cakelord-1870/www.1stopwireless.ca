@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/huawei-tab-t3-9-6.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-03-08T13:41:54-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667430666339</id>
+    <published>2021-03-08T13:41:54-08:00</published>
+    <updated>2021-03-08T13:41:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/b-blue-huawei-tab-t5-10-1-cover"/>
+    <title>B BLUE HUAWEI TAB T3 9.6 360 ROTATING COVER</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/T3BLUE.jpg?v=1615239801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667430666339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4482349138019</id>
+    <published>2021-03-08T13:35:08-08:00</published>
+    <updated>2021-03-08T13:35:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-huawei-tab-t3-9-6-cover"/>
+    <title>BLACK HUAWEI TAB T3 9.6 360 ROTATING COVER</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/T3B.jpg?v=1615239181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4482349138019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667436105827</id>
+    <published>2021-03-08T13:35:00-08:00</published>
+    <updated>2021-03-08T13:35:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-huawei-tab-t3-9-6-cover"/>
+    <title>NAVY HUAWEI TAB T3 9.6 360 ROTATING COVER</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/T3NAVY.jpg?v=1615239201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667436105827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667435974755</id>
+    <published>2021-03-08T13:34:59-08:00</published>
+    <updated>2021-03-08T13:34:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-huawei-tab-t3-9-6-cover"/>
+    <title>R GOLD HUAWEI TAB T3 9.6 360 ROTATING COVER</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/T3GOLD.jpg?v=1615239224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667435974755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4027306737763</id>
+    <published>2020-11-05T07:48:33-08:00</published>
+    <updated>2020-11-05T07:48:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/huawei-tab-t3-10-5-tempered-glass"/>
+    <title>HUAWEI TAB T3 (10.0) TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SAM_TABLET_54a40d5a-54dc-48ae-9b4a-790f4f98d0cf.jpg?v=1568396459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">HUAWEI TAB T3 (10.0) TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:tag>HUAWEI TAB TEMPERED</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4027306737763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667435778147</id>
+    <published>2020-08-29T12:04:57-07:00</published>
+    <updated>2020-08-29T12:04:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-huawei-tab-t3-9-6-cover"/>
+    <title>PINK HUAWEI TAB T3 9.6 360 ROTATING COVER</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/T3PINK.jpg?v=1615239209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667435778147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667435581539</id>
+    <published>2020-08-29T12:04:57-07:00</published>
+    <updated>2020-08-29T12:04:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-huawei-tab-t3-9-6-cover"/>
+    <title>PURPLE HUAWEI TAB T3 9.6 360 ROTATING COVER</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/T3PURPLE.jpg?v=1615239215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667435581539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667435483235</id>
+    <published>2020-08-29T12:04:56-07:00</published>
+    <updated>2020-08-29T12:04:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-huawei-tab-t3-9-6-cover"/>
+    <title>RED HUAWEI TAB T3 9.6 360 ROTATING COVER</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/T3RED.jpg?v=1615239234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI TAB T3 9.6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667435483235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

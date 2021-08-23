@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/alcatel-tempered-glass.atom"/>
+  <title>1StopWireless</title>
+  <updated>2018-09-19T11:08:13-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495740973155</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pixi-3-tempered-glass-loose"/>
+    <title>PIXI 3 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/HUAWEI_0b6ce14d-8daa-4c22-a5b4-2000127416ac.jpg?v=1550256681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PIXI 3 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALCATEL TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495740973155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495740907619</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pixi-4-tempered-glass-loose"/>
+    <title>PIXI 4 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/HUAWEI_7360a4eb-c262-444b-9290-ae95fcda000c.jpg?v=1550256663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PIXI 4 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALCATEL TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495740907619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495740285027</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/idol-4-tempered-glass-loose"/>
+    <title>IDOL 4 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/HUAWEI_70f59540-2554-4e0e-a090-bdc6776cec79.jpg?v=1550256568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IDOL 4 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALCATEL TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495740285027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

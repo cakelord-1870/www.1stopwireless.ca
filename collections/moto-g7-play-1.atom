@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/moto-g7-play-1.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-10-09T09:07:55-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491309715555</id>
+    <published>2020-10-09T09:07:55-07:00</published>
+    <updated>2020-10-09T09:07:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sar-moto-g7-play"/>
+    <title>BLACK SAR MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/G7-POWER_-02.jpg?v=1555434318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SAR MOTO G7 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491309715555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682671456355</id>
+    <published>2020-09-03T16:00:16-07:00</published>
+    <updated>2020-09-03T16:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-c-hybrid-moto-g7-play"/>
+    <title>N BLUE C-HYBRID MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Navy_blue_blue_1024x1024_2x_d36aa0cd-bda5-4669-8ea4-63ed9050265b.jpg?v=1603295135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682671456355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682671325283</id>
+    <published>2020-09-03T16:00:06-07:00</published>
+    <updated>2020-09-03T16:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-c-hybrid-moto-g7-play"/>
+    <title>BLACK C-HYBRID MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/5_meitu_5_1024x1024_2x_e3cc48c1-3b1e-4614-8372-22fee87c9755.jpg?v=1603295092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682671325283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646401310819</id>
+    <published>2020-07-15T07:32:49-07:00</published>
+    <updated>2020-07-15T07:32:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-defend-moto-g7-play"/>
+    <title>PINK DEFEND MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1034_3d11d975-1e1c-414e-980b-aa7938e28384.png?v=1595089080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646401310819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646401212515</id>
+    <published>2020-07-15T07:32:49-07:00</published>
+    <updated>2020-07-15T07:32:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-defend-moto-g7-play"/>
+    <title>N BLUE DEFEND MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1039_0945c204-75a0-440e-a38b-8162ee8fdae2.png?v=1595089051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646401212515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646401114211</id>
+    <published>2020-07-15T07:32:48-07:00</published>
+    <updated>2020-07-15T07:32:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-defend-moto-g7-play"/>
+    <title>RED DEFEND MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1040_9fbe0614-1e07-4107-9828-f242a6588ac9.png?v=1595089175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646401114211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646400983139</id>
+    <published>2020-07-15T07:32:48-07:00</published>
+    <updated>2020-07-15T07:32:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-defend-moto-g7-play"/>
+    <title>BLACK DEFEND MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1037_8f47ad22-8b6f-408b-9e8a-d202e8385da3.png?v=1595088958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646400983139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510752346211</id>
+    <published>2020-05-29T18:26:13-07:00</published>
+    <updated>2020-05-29T18:26:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-moto-g7-play"/>
+    <title>R GOLD BLUEVISION WLT MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_d5e10c55-d719-4289-824c-9d81dd974b6a.png?v=1609368264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT MOTO G7 PLAY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510752346211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510751854691</id>
+    <published>2020-05-29T18:26:13-07:00</published>
+    <updated>2020-05-29T18:26:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-moto-g7-play"/>
+    <title>BROWN BLUEVISION WLT MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_81189c42-c386-4a84-8892-107d269d47cd.png?v=1609368559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT MOTO G7 PLAY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510751854691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510742483043</id>
+    <published>2020-05-29T18:26:13-07:00</published>
+    <updated>2020-05-29T18:26:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-moto-g7-play"/>
+    <title>BLACK BLUEVISION WLT MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_883ab843-0fca-4f6b-b753-e1a6e324b875.png?v=1609367809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT MOTO G7 PLAY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510742483043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488704397411</id>
+    <published>2020-05-21T11:13:17-07:00</published>
+    <updated>2020-05-21T11:13:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-moto-g7-play"/>
+    <title>BLACK TPU MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/afd978d0-6ddc-4190-9e23-ca38b67104be_1.f32165253f0b9d168dc5a8a9eaf3ec0f_3971fbef-d450-43b5-8e31-f7c32bfa3310.jpg?v=1611157501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK TPU MOTO G7 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488704397411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491310108771</id>
+    <published>2020-05-19T13:55:26-07:00</published>
+    <updated>2020-05-19T13:55:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-moto-g7-play"/>
+    <title>PINK SAR MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_g7.jpg?v=1555441216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR MOTO G7 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491310108771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491311386723</id>
+    <published>2020-05-19T13:54:40-07:00</published>
+    <updated>2020-05-19T13:54:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sar-moto-g7-play"/>
+    <title>PURPLE SAR MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_d1a0d03e-6fcf-4afe-8a8c-4e31c425d1e9.jpg?v=1555441348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SAR MOTO G7 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491311386723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491311091811</id>
+    <published>2020-05-19T13:54:40-07:00</published>
+    <updated>2020-05-19T13:54:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-moto-g7-play"/>
+    <title>TEAL SAR MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/G7-POWER_-11_52376d24-5368-4ca6-b07e-eea80ce7002d.jpg?v=1555441420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SAR MOTO G7 PLAY</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491311091811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485359210595</id>
+    <published>2019-12-26T11:52:57-08:00</published>
+    <updated>2019-12-26T11:52:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/moto-g7-play-tempered-glass-loose"/>
+    <title>MOTO G7 PLAY TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Moto_G7_Play_Tempered_large_e905b955-c1ed-474f-b70e-356c843a4bfd.jpg?v=1611157959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MOTO G7 PLAY TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:tag>MOTOROLA TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485359210595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510752575587</id>
+    <published>2019-04-29T15:38:40-07:00</published>
+    <updated>2019-04-29T15:38:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-moto-g7-play"/>
+    <title>TEAL BLUEVISION WLT MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_86a9c792-a8fe-46a1-a719-9410d076f4fc.png?v=1609369206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT MOTO G7 PLAY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510752575587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510741893219</id>
+    <published>2019-04-29T15:28:39-07:00</published>
+    <updated>2019-04-29T15:28:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-moto-g7-play"/>
+    <title>RED BLUEVISION WLT MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_771e41ee-9fd4-46f5-83a2-7efa0e5b5733.png?v=1609369471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT MOTO G7 PLAY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510741893219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510742351971</id>
+    <published>2019-04-29T15:21:37-07:00</published>
+    <updated>2019-04-29T15:21:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-moto-g7-play"/>
+    <title>PURPLE BLUEVISION WLT MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_e53252bf-b369-4853-a4c4-ed62f4c151cd.png?v=1609369022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT MOTO G7 PLAY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510742351971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510742122595</id>
+    <published>2019-04-29T15:01:56-07:00</published>
+    <updated>2019-04-29T15:01:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-moto-g7-play"/>
+    <title>PINK BLUEVISION WLT MOTO G7 PLAY</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_6dd2cbea-2b87-4c83-90e2-494d33f7c8e7.png?v=1609368806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT MOTO G7 PLAY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7 PLAY</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510742122595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

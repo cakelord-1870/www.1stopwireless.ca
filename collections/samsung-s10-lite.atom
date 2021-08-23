@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-s10-lite.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-09-08T13:36:45-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4699922497635</id>
+    <published>2020-09-08T13:36:45-07:00</published>
+    <updated>2020-09-08T13:36:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s10e-full-glue-tempered-glass"/>
+    <title>SAMSUNG S10E FULL GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/908ec2a5-f302-4b5a-bc8d-3fb0d313689a_1_cd221947-839d-4705-b808-78ed8d599ba5.jpg?v=1599597406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL GLUE TEMPERED GLASS</s:tag>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:tag>SAM S10E</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4699922497635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583035875427</id>
+    <published>2020-08-12T14:03:30-07:00</published>
+    <updated>2020-08-12T14:03:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s10-lite-black-full-glue-tempered-glass-1"/>
+    <title>SAMSUNG S10E SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MPSG0703B_540x_1a6fa39a-8086-4a39-a1e7-a6ac1508ce03.jpg?v=1610493555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583035875427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1520306290787</id>
+    <published>2020-02-15T10:02:34-08:00</published>
+    <updated>2020-02-15T10:02:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluemoon-wlt-sam-s10-lite"/>
+    <title>R GOLD BLUEMOON WLT SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_80725b8a-64bf-4638-8abd-a07f23b0c467.jpg?v=1609793468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD BLUEMOON WLT SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1520306290787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364194316387</id>
+    <published>2019-11-22T17:05:46-08:00</published>
+    <updated>2019-11-22T17:05:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-feeling-tpu-sam-s10e"/>
+    <title>TEAL LIKE SOFT FEELING TPU SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_f935f01e-e45f-4af0-b07b-38f4929963f6.png?v=1610214238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364194316387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364194218083</id>
+    <published>2019-11-22T17:04:59-08:00</published>
+    <updated>2019-11-22T17:04:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-feeling-tpu-sam-s10e"/>
+    <title>RED LIKE SOFT FEELING TPU SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_c57e5bb6-7c80-4a1c-9abe-070ddd623a78.png?v=1610214279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364194218083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364193792099</id>
+    <published>2019-11-22T17:04:59-08:00</published>
+    <updated>2019-11-22T17:04:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-like-soft-feeling-tpu-sam-s10e"/>
+    <title>R GOLD LIKE SOFT FEELING TPU SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_b939b89f-d524-4c24-be46-d1afd43c0aeb.png?v=1610214217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD LIKE SOFT FEELING TPU SAM S10E</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364193792099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364194381923</id>
+    <published>2019-11-22T16:59:22-08:00</published>
+    <updated>2019-11-22T16:59:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-feeling-tpu-sam-s10e"/>
+    <title>PURPLE LIKE SOFT FEELING TPU SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_151f7697-37ca-411f-a6fe-d625e1233bb8.png?v=1610214206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364194381923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364194021475</id>
+    <published>2019-11-22T16:59:22-08:00</published>
+    <updated>2019-11-22T16:59:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-like-soft-feeling-tpu-sam-s10e"/>
+    <title>PINK LIKE SOFT FEELING TPU SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_ac8d1104-1355-4bcb-aff6-2c0b71392a6c.png?v=1610214196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364194021475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364194119779</id>
+    <published>2019-11-22T16:52:11-08:00</published>
+    <updated>2019-11-22T16:52:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-like-soft-feeling-tpu-sam-s10e"/>
+    <title>N BLUE LIKE SOFT FEELING TPU SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_5f99391f-8b6f-4836-b317-95f3889d3b2c.png?v=1610214163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364194119779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364193693795</id>
+    <published>2019-11-22T16:52:11-08:00</published>
+    <updated>2019-11-22T16:52:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-like-soft-feeling-tpu-sam-s10e"/>
+    <title>BLACK LIKE SOFT FEELING TPU SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_c95707df-72ab-4e1e-b919-82116c88c2f8.png?v=1610214147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK LIKE SOFT FEELING TPU SAM S10E</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364193693795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165497421923</id>
+    <published>2019-10-23T08:27:04-07:00</published>
+    <updated>2019-10-23T08:27:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-feather-puff-wlt-sam-s10e"/>
+    <title>PURPLE FEATHER PUFF WLT SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/123PURPLE_EDIT_5ea7f4ff-1c00-4d5e-be77-3bef9d6e603c.jpg?v=1572468380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE FEATHER PUFF WLT SAM S10E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165497421923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165492080739</id>
+    <published>2019-10-23T08:27:04-07:00</published>
+    <updated>2019-10-23T08:27:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flower-puff-wlt-sam-s10e"/>
+    <title>PINK FLOWER PUFF WLT SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_FLOWERS_e3073ddb-b3df-4dc7-b2e7-acfc53ebf1d2.PNG?v=1569612058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK FLOWER PUFF WLT SAM S10E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165492080739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165496242275</id>
+    <published>2019-10-23T08:26:37-07:00</published>
+    <updated>2019-10-23T08:26:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/peach-flower-puff-wlt-sam-s10e"/>
+    <title>ROSE PINK PUFF WLT SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_ROSE_FINAL_7bb9f837-5a73-4c30-bf0a-6bb4e0184ffe.png?v=1572472913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK ROSE PUFF WLT SAM S10E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165496242275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165489229923</id>
+    <published>2019-10-23T08:26:37-07:00</published>
+    <updated>2019-10-23T08:26:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-flower-puff-wlt-sam-s10e"/>
+    <title>PEACH FLOWER PUFF WLT SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_FLOWERS_f1ce9498-78da-4893-9877-dc2c5f178d32.PNG?v=1569611972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>PEACH</span> FLOWER PUFF WLT SAM S10E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165489229923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165486248035</id>
+    <published>2019-10-23T08:26:36-07:00</published>
+    <updated>2019-10-23T08:26:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flower-puff-wlt-sam-s10e"/>
+    <title>GREY FLOWER PUFF WLT SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_FLOWERS_7accebf5-fc48-4694-9086-bae1f1825b57.PNG?v=1569611877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREY FLOWER PUFF WLT SAM S10E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165486248035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165494014051</id>
+    <published>2019-10-23T08:25:38-07:00</published>
+    <updated>2019-10-23T08:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flower-puff-wlt-sam-s10e"/>
+    <title>BLACK ROSE PUFF WLT SAM S10E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_FLOWER_e7199ffd-34e0-43af-826c-6c5caeda8290.PNG?v=1569612094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK ROSE PUFF WLT SAM S10E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10E</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165494014051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3827955597411</id>
+    <published>2019-06-15T14:13:50-07:00</published>
+    <updated>2019-06-15T14:13:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/orng-grass-camo-def-sam-s10-lite-1"/>
+    <title>ORNG GRASS CAMO DEF SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/S10ORANGEGRASS.jpg?v=1610490428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ORNG GRASS CAMO DEF SAM S10 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3827955597411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3584666730595</id>
+    <published>2019-05-27T08:06:01-07:00</published>
+    <updated>2019-05-27T08:06:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/white-hybrid-tpu-sam-s10-lite"/>
+    <title>WHITE HYBRID TPU SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WHITE_grande_e68326c0-e21d-4863-b385-f8b3e0161a27.jpg?v=1558969583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">WHITE HYBRID TPU SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3584666730595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3584666435683</id>
+    <published>2019-05-27T08:04:27-07:00</published>
+    <updated>2019-05-27T08:04:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-hybrid-tpu-sam-s10-lite"/>
+    <title>BLUE HYBRID TPU SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLUEE_grande_a8e9c7ba-977b-4745-b62d-7dc929c16255.jpg?v=1558969483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLUE HYBRID TPU SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3584666435683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3584666337379</id>
+    <published>2019-05-27T08:04:03-07:00</published>
+    <updated>2019-05-27T08:04:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-hybrid-tpu-sam-s10-lite"/>
+    <title>PINK HYBRID TPU SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/HOTPINKTPU_grande_d0bd16ba-3b75-4bed-b017-b2ec7e65b94f.jpg?v=1558969453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK HYBRID TPU SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3584666337379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3584666042467</id>
+    <published>2019-05-27T08:02:49-07:00</published>
+    <updated>2019-05-27T08:02:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-hybrid-tpu-sam-s10-lite"/>
+    <title>RED HYBRID TPU SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_grande_91618dd9-8871-4fc1-9032-c943fbee2ee5.jpg?v=1558969382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED HYBRID TPU SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3584666042467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505153704035</id>
+    <published>2019-05-09T10:12:18-07:00</published>
+    <updated>2019-05-09T10:12:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/butrfly-rose-natr-wlt-sam-s10-lite"/>
+    <title>MULTI FLWR NATR WLT SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/flowerR_99fd0ab1-4ae0-4335-9a70-c9c272c6691b.jpg?v=1557421931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MULTI FLWR NATR WLT SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505153704035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505188175971</id>
+    <published>2019-05-04T17:33:23-07:00</published>
+    <updated>2019-05-04T17:33:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/stamp-eiffel-natr-wlt-sam-s10-lite"/>
+    <title>STAMP EIFFEL NATR WLT SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/stamp_effiel1_daeb7f56-0a35-4ab8-ba75-8e8dee7c9fd8.jpg?v=1557421195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">STAMP EIFFEL NATR WLT SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505188175971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505189159011</id>
+    <published>2019-05-04T17:31:41-07:00</published>
+    <updated>2019-05-04T17:31:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/la-tour-eiffel-natr-wlt-sam-s10-lite"/>
+    <title>LA TOUR NATR WLT SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/la_tour1_84774695-612d-4c80-a649-83c8cf26192c.jpg?v=1557421036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LA TOUR EIFFEL NATR WLT SAM S10 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505189159011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555764994147</id>
+    <published>2019-05-04T16:19:57-07:00</published>
+    <updated>2019-05-04T16:19:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-detach-wlt-sam-s10-lite"/>
+    <title>BLACK DETACH WLT SAM S10 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_e60a921d-a8f5-45d3-a64a-ab986ef773b7.png?v=1610386491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">BLACK DETACH WLT SAM S10 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555764994147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

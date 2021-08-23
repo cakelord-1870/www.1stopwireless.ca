@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/iphone-11-pro-max-6-5.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-08-14T14:04:42-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834814746816</id>
+    <published>2021-08-14T14:04:42-07:00</published>
+    <updated>2021-08-14T14:04:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-lthr-tpu-ip-11-pro-max"/>
+    <title>NAVY LTHR TPU IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834814746816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834814910656</id>
+    <published>2021-08-14T14:03:07-07:00</published>
+    <updated>2021-08-14T14:03:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-lthr-tpu-ip-11-pro-max"/>
+    <title>R GOLD LTHR TPU IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834814910656</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834814681280</id>
+    <published>2021-08-14T14:03:06-07:00</published>
+    <updated>2021-08-14T14:03:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-lthr-tpu-ip-11-pro-max"/>
+    <title>RED LTHR TPU IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834814681280</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834808324288</id>
+    <published>2021-08-14T14:02:50-07:00</published>
+    <updated>2021-08-14T14:02:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-lthr-tpu-ip-11-pro-max"/>
+    <title>BROWN LTHR TPU IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834808324288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834807963840</id>
+    <published>2021-08-14T14:02:49-07:00</published>
+    <updated>2021-08-14T14:02:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-lthr-tpu-ip-11-pro-max"/>
+    <title>PURPLE LTHR TPU IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834807963840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834807832768</id>
+    <published>2021-08-14T14:02:49-07:00</published>
+    <updated>2021-08-14T14:02:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-lthr-tpu-ip-11-pro-max"/>
+    <title>PINK LTHR TPU IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834807832768</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834806915264</id>
+    <published>2021-08-14T14:02:48-07:00</published>
+    <updated>2021-08-14T14:02:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-lthr-tpu-ip-11-pro-max"/>
+    <title>BLACK LTHR TPU IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834806915264</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732458819776</id>
+    <published>2021-07-23T15:33:50-07:00</published>
+    <updated>2021-07-23T15:33:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-detach-wlt-ip-11-pro-max"/>
+    <title>PURPLE DETACH WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_3374801d-1a0e-45fc-a777-f21c9622f476.jpg?v=1624401431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732458819776</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167462518883</id>
+    <published>2021-07-23T15:33:47-07:00</published>
+    <updated>2021-07-23T15:33:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-detach-wlt-ip-11-pro-max"/>
+    <title>RED DETACH WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_76467cee-aeb5-4e63-b876-5762c5c6c509.png?v=1583005722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED DETACH WLT IP 11 PRO MAX</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167462518883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167437942883</id>
+    <published>2021-07-23T15:33:46-07:00</published>
+    <updated>2021-07-23T15:33:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-detach-wlt-ip-11-pro-max"/>
+    <title>R GOLD DETACH WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSE_GOLD_ee81b4a7-8dec-407f-8f91-5161916ae2f0.png?v=1583005705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD DETACH WLT IP 11 PRO MAX</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167437942883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732459212992</id>
+    <published>2021-07-23T15:31:33-07:00</published>
+    <updated>2021-07-23T15:31:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-detach-wlt-ip-11-pro-max"/>
+    <title>NAVY DETACH WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVYBLUE_1e0a12ae-0d0e-4057-a3f2-bf84ea5f3db4.jpg?v=1624401407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732459212992</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167440662627</id>
+    <published>2021-07-23T15:30:24-07:00</published>
+    <updated>2021-07-23T15:30:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-detach-wlt-ip-11-pro-max"/>
+    <title>BROWN DETACH WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_03f1916c-c60a-40dd-a864-b78e983e1e12.png?v=1583005654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN DETACH WLT IP 11 PRO MAX</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167440662627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167435747427</id>
+    <published>2021-07-23T15:30:24-07:00</published>
+    <updated>2021-07-23T15:30:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-detach-wlt-ip-11-pro-max"/>
+    <title>BLACK DETACH WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_3852b3a0-0c97-4618-a5c5-1d62e9b3fb9a.png?v=1583005640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK DETACH WLT IP 11 PRO MAX</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167435747427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6089025159360</id>
+    <published>2021-06-19T16:01:29-07:00</published>
+    <updated>2021-06-19T16:01:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rugged-sym-red-ip-11-pro-max-6-5"/>
+    <title>RUGGED SYM RED IP 11 PRO MAX (6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED11_6a270bed-3d93-4054-8eee-651744a080f1.jpg?v=1606511728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6089025159360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732381880512</id>
+    <published>2021-06-19T15:49:14-07:00</published>
+    <updated>2021-06-19T15:49:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-pink-rose-ip-11-pro-max6-5"/>
+    <title>CLR 2PC PINK ROSE IP 11 Pro Max(6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pinkrose.png?v=1624308482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732381880512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732381421760</id>
+    <published>2021-06-19T15:49:13-07:00</published>
+    <updated>2021-06-19T15:49:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-red-flwr-ip-11-pro-max6-5"/>
+    <title>CLR 2PC RED FLWR IP 11 Pro Max(6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/redflower.png?v=1624308576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732381421760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732381225152</id>
+    <published>2021-06-19T15:49:13-07:00</published>
+    <updated>2021-06-19T15:49:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-wht-bck-ip-11-pro-max6-5"/>
+    <title>CLR 2PC WHT BCK IP 11 Pro Max(6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/whtbck_ce05da93-0f78-403f-9f1f-465bb411d39c.png?v=1624308675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732381225152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732380799168</id>
+    <published>2021-06-19T15:49:12-07:00</published>
+    <updated>2021-06-19T15:49:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-blk-bck-ip-11-pro-max6-5"/>
+    <title>CLR 2PC BLK BCK IP 11 Pro Max(6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/blackbck.png?v=1624307563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732380799168</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6096795140288</id>
+    <published>2021-06-19T15:49:12-07:00</published>
+    <updated>2021-06-19T15:49:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-marble-ip-11-pro-max6-5"/>
+    <title>CLR 2PC MARBLE IP 11 Pro Max(6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/marble3_44e316a2-490f-471d-a091-6be7d09c5bc3.png?v=1624308293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6096795140288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6096792649920</id>
+    <published>2021-06-19T15:49:12-07:00</published>
+    <updated>2021-06-19T15:49:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-et-ip-11-pro-max6-5"/>
+    <title>CLR 2PC ET IP 11 Pro Max(6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/eiffel_c212bfae-391d-40cc-a258-462b89765d59.png?v=1624308983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6096792649920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6096791470272</id>
+    <published>2021-06-19T15:49:11-07:00</published>
+    <updated>2021-06-19T15:49:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-chry-blosom-ip-11-pro-max6-5"/>
+    <title>CLR 2PC CHRY BLOSOM IP 11 Pro Max(6.5)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/chryblosom_dd998784-f51c-49d5-9084-045c791095db.png?v=1624307687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6096791470272</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6730181378240</id>
+    <published>2021-06-19T13:21:37-07:00</published>
+    <updated>2021-06-19T13:21:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-flower-natr-wlt-ip-11-pro-max"/>
+    <title>BLUE FLOWER NATR WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Untitled-1_c76e4213-e397-48a7-b05e-e9c701397906.png?v=1624139767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6730181378240</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6730181181632</id>
+    <published>2021-06-19T13:21:36-07:00</published>
+    <updated>2021-06-19T13:21:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-flower-natr-wlt-ip-11-pro-max"/>
+    <title>RED FLOWER NATR WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACKFLOWER_c2362e17-d747-48d0-97b7-a095f14232b9.jpg?v=1624139940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6730181181632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6730180886720</id>
+    <published>2021-06-19T13:21:36-07:00</published>
+    <updated>2021-06-19T13:21:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/yellow-rose-natr-wlt-ip-11-pro-max"/>
+    <title>YELLOW ROSE NATR WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/YELLOWNATR_13328a82-dc83-45c3-a80e-01132dd7d193.jpg?v=1624140012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6730180886720</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6730180231360</id>
+    <published>2021-06-19T13:21:35-07:00</published>
+    <updated>2021-06-19T13:21:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/eiffel-natr-wlt-ip-11-pro-max"/>
+    <title>EIFFEL NATR WLT IP 11 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/EIFFEL_1c81afae-e9b8-4147-9323-7ecc5fe478f7.jpg?v=1624139834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 Pro Max (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6730180231360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

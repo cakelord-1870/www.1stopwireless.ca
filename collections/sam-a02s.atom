@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/sam-a02s.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-06-05T11:15:02-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668459671744</id>
+    <published>2021-06-05T11:15:02-07:00</published>
+    <updated>2021-06-05T11:15:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-triangle-sam-a02s"/>
+    <title>NAVY TRIANGLE SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_ae0018e1-aacc-4674-b247-f8582ec15448.jpg?v=1621104111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668459671744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668460392640</id>
+    <published>2021-05-21T08:27:13-07:00</published>
+    <updated>2021-05-21T08:27:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-triangle-sam-a02s"/>
+    <title>PINK TRIANGLE SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/samsung-A02s-EU_1_pink.jpg?v=1621104153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668460392640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668460359872</id>
+    <published>2021-05-21T08:27:12-07:00</published>
+    <updated>2021-05-21T08:27:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-triangle-sam-a02s"/>
+    <title>SILVER TRIANGLE SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/samsung-A02s-EU_1_silver.jpg?v=1621104142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668460359872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668460228800</id>
+    <published>2021-05-21T08:27:12-07:00</published>
+    <updated>2021-05-21T08:27:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-triangle-sam-a02s"/>
+    <title>TEAL TRIANGLE SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/samsung-A02s-EU_1_mint.jpg?v=1621104129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668460228800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668459540672</id>
+    <published>2021-05-21T08:27:11-07:00</published>
+    <updated>2021-05-21T08:27:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-triangle-sam-a02s"/>
+    <title>RED TRIANGLE SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/samsung-A02s-EU_1_red.jpg?v=1621104045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668459540672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668459376832</id>
+    <published>2021-05-21T08:27:11-07:00</published>
+    <updated>2021-05-21T08:27:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-triangle-sam-a02s"/>
+    <title>R GOLD TRIANGLE SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/samsung-A02s-EU_1_rosegold.jpg?v=1621104033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668459376832</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668458787008</id>
+    <published>2021-05-21T08:27:10-07:00</published>
+    <updated>2021-05-21T08:27:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-triangle-sam-a02s"/>
+    <title>BLACK TRIANGLE SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/samsung-A02s-EU_1_black.jpg?v=1621103966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668458787008</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668401803456</id>
+    <published>2021-05-21T08:27:10-07:00</published>
+    <updated>2021-05-21T08:27:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-hard-gltr-sam-a02s"/>
+    <title>BLACK HARD GLTR SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_d9cea8a3-b942-4f6f-b548-62222d3a37a5.png?v=1621444279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668401803456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668401737920</id>
+    <published>2021-05-21T08:27:09-07:00</published>
+    <updated>2021-05-21T08:27:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-hard-gltr-sam-a02s"/>
+    <title>GOLD HARD GLTR SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_89b34e3e-f8c4-40ab-98f8-00a361f1addf.png?v=1621444283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668401737920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668401705152</id>
+    <published>2021-05-21T08:27:09-07:00</published>
+    <updated>2021-05-21T08:27:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-hard-gltr-sam-a02s"/>
+    <title>RED HARD GLTR SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_0145837a-bdd1-4fe7-a2f9-1d69d1c27097.png?v=1621444288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668401705152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668401606848</id>
+    <published>2021-05-21T08:27:09-07:00</published>
+    <updated>2021-05-21T08:27:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-hard-gltr-sam-a02s"/>
+    <title>SILVER HARD GLTR SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SILVER_df38b080-ed22-4f3f-ae65-aa539043a2fc.png?v=1621444291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668401606848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6668401410240</id>
+    <published>2021-05-21T08:27:08-07:00</published>
+    <updated>2021-05-21T08:27:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-hard-gltr-sam-a02s"/>
+    <title>PINK HARD GLTR SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_2ceeea3f-669c-477c-b7b6-7ddcd417fe4e.png?v=1621444287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6668401410240</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6667805917376</id>
+    <published>2021-05-21T08:27:06-07:00</published>
+    <updated>2021-05-21T08:27:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-rugged-ring-sam-a02s"/>
+    <title>GREEN RUGGED RING SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_46b587bd-fb06-441f-9084-83c543c590da.jpg?v=1621028108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6667805917376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6667726913728</id>
+    <published>2021-05-21T08:27:03-07:00</published>
+    <updated>2021-05-21T08:27:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-rugged-ring-sam-a02s"/>
+    <title>R GOLD RUGGED RING SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_1f799a10-2f15-43d6-b3de-a00cc02d6603.jpg?v=1621023389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6667726913728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6667725799616</id>
+    <published>2021-05-21T08:27:02-07:00</published>
+    <updated>2021-05-21T08:27:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-rugged-ring-sam-a02s"/>
+    <title>NAVY RUGGED RING SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_8ca0feb8-c726-430a-958b-e8f121e7b5e0.jpg?v=1621023377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6667725799616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6667722293440</id>
+    <published>2021-05-21T08:27:02-07:00</published>
+    <updated>2021-05-21T08:27:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-rugged-ring-sam-a02s"/>
+    <title>SILVER RUGGED RING SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SILVER_fd5c5438-f65f-44db-ae36-463ed5135352.png?v=1621023338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6667722293440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6667721212096</id>
+    <published>2021-05-21T08:27:02-07:00</published>
+    <updated>2021-05-21T08:27:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-rugged-ring-sam-a02s"/>
+    <title>RED RUGGED RING SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_6ef8b45c-8e31-42e8-899d-36b9bf09792b.jpg?v=1621023326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6667721212096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6667719409856</id>
+    <published>2021-05-21T08:27:01-07:00</published>
+    <updated>2021-05-21T08:27:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-ring-sam-a02s"/>
+    <title>BLACK RUGGED RING SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_2105df22-e856-4187-a058-0458ac1649a4.jpg?v=1621023314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6667719409856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6646131622080</id>
+    <published>2021-04-30T14:07:34-07:00</published>
+    <updated>2021-04-30T14:07:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-a02s"/>
+    <title>PINK BLUEVISION WLT SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_b1978257-5473-4b76-bde8-c0b18689f960.png?v=1619816870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6646131622080</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6644145750208</id>
+    <published>2021-04-30T14:06:47-07:00</published>
+    <updated>2021-04-30T14:06:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-a02s"/>
+    <title>TEAL BLUEVISION WLT SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_d56f75d1-7af4-49d4-954b-e2e8f0eecdd2.png?v=1619711104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6644145750208</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6644145258688</id>
+    <published>2021-04-30T14:06:47-07:00</published>
+    <updated>2021-04-30T14:06:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-a02s"/>
+    <title>PURPLE BLUEVISION WLT SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_ce2e1352-bb94-46b3-9b1b-f96e8afb6e56.png?v=1619711094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6644145258688</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6644144701632</id>
+    <published>2021-04-30T14:06:47-07:00</published>
+    <updated>2021-04-30T14:06:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-sam-a02s"/>
+    <title>RED BLUEVISION WLT SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_99bd8115-91fa-4907-956e-cd7530804e6f.png?v=1619711082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6644144701632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6644144144576</id>
+    <published>2021-04-30T14:06:46-07:00</published>
+    <updated>2021-04-30T14:06:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-sam-a02s"/>
+    <title>BROWN BLUEVISION WLT SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_d690c773-510a-4b87-a807-e6bbb26b78e8.png?v=1619711071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6644144144576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6644143489216</id>
+    <published>2021-04-30T14:06:46-07:00</published>
+    <updated>2021-04-30T14:06:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-a02s"/>
+    <title>R GOLD BLUEVISION WLT SAM A02S</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_81a367fe-911b-4cce-af16-d59f2c7ae92b.png?v=1619711054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6644143489216</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6178936291520</id>
+    <published>2021-02-04T14:15:27-08:00</published>
+    <updated>2021-02-04T14:15:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-a02s-tempered-glass-loose"/>
+    <title>A02S TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A12TEMPEREDGLASS.jpg?v=1612484737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A02S</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6178936291520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

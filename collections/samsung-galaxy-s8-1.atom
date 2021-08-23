@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-s8-1.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-09-18T15:18:00-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4657775214691</id>
+    <published>2020-09-18T15:18:00-07:00</published>
+    <updated>2020-09-18T15:18:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pmma-nano-sam-s9-loose"/>
+    <title>PMMA NANO SAM S8/S9 LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Hd81ffad2d76e489f9bd6e22f50d56e74F_4b9eee0d-5bad-46ea-b501-be94b1f33ddd.jpg?v=1608674572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PMMA NANO SAM S10 LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>POLYMER NANO TEMPERED GLASS</s:tag>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4657775214691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430519840867</id>
+    <published>2020-09-08T10:50:52-07:00</published>
+    <updated>2020-09-08T10:50:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-samsung-s9-plus-black-full-tempered-glass"/>
+    <title>SAMSUNG S8/S9 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture_426ff47a-4661-4aa5-8708-a870045cd215.png?v=1610473962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:tag>samsung s8</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430519840867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432679153763</id>
+    <published>2020-05-19T14:34:58-07:00</published>
+    <updated>2020-05-19T14:34:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-slim-rugged-for-samsung-s8"/>
+    <title>TEAL SAR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/S8-PLUS_032104_ee3fbdc1-1c05-4ede-9a9f-59a7f745eb32.jpg?v=1610564827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SLIM RUGGED FOR SAMSUNG S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432679153763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRS8TL</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432673779811</id>
+    <published>2020-05-19T14:34:58-07:00</published>
+    <updated>2020-05-19T14:34:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-slim-rugged-for-samsung-s8-1"/>
+    <title>PURPLE SAR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_7e214a46-d236-453b-8d4e-2f0acbc2e119.jpg?v=1566421258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE SLIM RUGGED FOR SAMSUNG S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432673779811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRS8PU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364183076963</id>
+    <published>2019-11-22T17:05:45-08:00</published>
+    <updated>2019-11-22T17:05:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-feeling-tpu-sam-s8"/>
+    <title>TEAL LIKE SOFT FEELING TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_c84c13a8-5bfd-4578-bf87-9940f0b6735d.png?v=1610557221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364183076963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364183240803</id>
+    <published>2019-11-22T17:04:57-08:00</published>
+    <updated>2019-11-22T17:04:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-feeling-tpu-sam-s8"/>
+    <title>RED LIKE SOFT FEELING TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_5b26b263-9fd4-4485-826f-4168e16daa02.png?v=1610557215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364183240803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182847587</id>
+    <published>2019-11-22T17:04:57-08:00</published>
+    <updated>2019-11-22T17:04:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-like-soft-feeling-tpu-sam-s8"/>
+    <title>R GOLD LIKE SOFT FEELING TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_cb63ba7b-fbcc-4360-96bb-50ae7f463db3.png?v=1610557211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182847587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364183142499</id>
+    <published>2019-11-22T16:59:20-08:00</published>
+    <updated>2019-11-22T16:59:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-feeling-tpu-sam-s8"/>
+    <title>PURPLE LIKE SOFT FEELING TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_3704219f-503d-4a4a-9676-97d41afc37ce.png?v=1610557205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364183142499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182945891</id>
+    <published>2019-11-22T16:59:20-08:00</published>
+    <updated>2019-11-22T16:59:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-like-soft-feeling-tpu-sam-s8"/>
+    <title>PINK LIKE SOFT FEELING TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_e8852f9b-7d8b-4f35-9746-7981a3d844b8.png?v=1610557201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182945891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364183044195</id>
+    <published>2019-11-22T16:52:09-08:00</published>
+    <updated>2019-11-22T16:52:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-like-soft-feeling-tpu-sam-s8"/>
+    <title>N BLUE LIKE SOFT FEELING TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_f6bd9f69-dd84-4204-b8ee-fa49594a9944.png?v=1610557195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364183044195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182749283</id>
+    <published>2019-11-22T16:52:09-08:00</published>
+    <updated>2019-11-22T16:52:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-like-soft-feeling-tpu-sam-s8"/>
+    <title>BLACK LIKE SOFT FEELING TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_cd0c91ae-48c5-4d77-a469-648e5fa6682f.png?v=1610557189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182749283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331751374947</id>
+    <published>2019-10-30T10:23:52-07:00</published>
+    <updated>2019-10-30T10:23:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-hard-gltr-sam-s8"/>
+    <title>PURPLE HARD GLTR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_d18a58fb-fd33-4692-9737-e055da1b882b.jpg?v=1610565328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE HARD GLTR SAM S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331751374947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331749179491</id>
+    <published>2019-10-30T10:22:50-07:00</published>
+    <updated>2019-10-30T10:22:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-hard-gltr-sam-s8-1"/>
+    <title>BLACK HARD GLTR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_b01f9fdb-656f-4eaa-a9e8-8595f7da23a4.jpg?v=1610565295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK HARD GLTR SAM S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331749179491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331747541091</id>
+    <published>2019-10-30T10:22:09-07:00</published>
+    <updated>2019-10-30T10:22:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-hard-gltr-sam-s8"/>
+    <title>RED HARD GLTR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_2e135ae5-461c-4216-a4b5-925c88c5fc84.jpg?v=1610565335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED HARD GLTR SAM S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331747541091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430016327779</id>
+    <published>2019-10-30T10:06:12-07:00</published>
+    <updated>2019-10-30T10:06:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-hard-rugged-caseology-case-for-samsung-galaxy-s8"/>
+    <title>PURPLE C-HYBRID SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3_61692019-a590-4bc9-a08b-ab8052f6606a.jpg?v=1537393518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE HARD RUGGED CASEOLOGY CASE FOR SAMSUNG GALAXY S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430016327779</id>
+      <title>Precision Cut / SAMSUNG S8 / SAMSUNG S8</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483227922531</id>
+    <published>2019-10-12T11:04:06-07:00</published>
+    <updated>2019-10-12T11:04:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-detach-wlt-sam-s8"/>
+    <title>PINK DETACH WLT SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9189_b5be0b20-87c8-4e1e-a0eb-725ed468e5c1.jpg?v=1549067108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK DETACH WLT SAM S8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483227922531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583155806307</id>
+    <published>2019-07-03T07:38:37-07:00</published>
+    <updated>2019-07-03T07:38:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-sam-s8"/>
+    <title>PINK SAR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/S8-PLUS_032106_1024x1024_2x_grande_86301fd5-192b-48bc-af2c-85e4a9d9626d.jpg?v=1566421275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SAR SAM S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583155806307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRS8PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432675221603</id>
+    <published>2019-07-03T07:38:36-07:00</published>
+    <updated>2019-07-03T07:38:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-gold-slim-rugged-for-samsung-s8-1"/>
+    <title>ROSE GOLD SAR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/r_gold_e7d43cf0-0023-4657-800e-ae3237d30358.jpg?v=1566421212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SLIM RUGGED FOR SAMSUNG S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432675221603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRS8RGL</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430016557155</id>
+    <published>2019-06-12T08:29:02-07:00</published>
+    <updated>2019-06-12T08:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-purple-hard-rugged-caseology-case-for-samsung-galaxy-s8"/>
+    <title>TEAL C-HYBRID SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teals8.jpg?v=1566424051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL HARD RUGGED CASEOLOGY CASE FOR SAMSUNG GALAXY S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430016557155</id>
+      <title>Precision Cut / SAMSUNG S8 / SAMSUNG S8</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488720126051</id>
+    <published>2019-04-15T08:28:03-07:00</published>
+    <updated>2019-04-15T08:28:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-c-hybrid-sam-s8"/>
+    <title>PINK C-HYBRID SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/5_0ae7bd13-65cd-4e45-ad90-5a68285ce875.jpg?v=1555342644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK C-HYBRID SAM S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488720126051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430016196707</id>
+    <published>2019-04-15T08:26:58-07:00</published>
+    <updated>2019-04-15T08:26:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-silver-hard-rugged-caseology-case-for-samsung-galaxy-s8"/>
+    <title>RED C-HYBRID SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/8_20ef7bea-11f3-480c-aef8-29e84d467e9f.jpg?v=1537393569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED HARD RUGGED CASEOLOGY CASE FOR SAMSUNG GALAXY S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430016196707</id>
+      <title>Precision Cut / SAMSUNG S8 / SAMSUNG S8</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>7000181309008</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485286629475</id>
+    <published>2019-04-12T12:07:01-07:00</published>
+    <updated>2019-04-12T12:07:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-s8-tpu-screen-protector"/>
+    <title>SAM S8 TPU SCREEN PROTECTOR</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tpu_screen_15be65c1-4839-45b6-beb2-210335755c93.jpg?v=1560891894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAM S8 TPU SCREEN PROTECTOR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:tag>TPU SCREEN PROTECTOR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485286629475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744537915491</id>
+    <published>2019-02-11T09:39:52-08:00</published>
+    <updated>2019-02-11T09:39:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s8_hardglitter_gold"/>
+    <title>GOLD HARD GLTR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/gold.jpg?v=1610565305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD HARD GLITTER CASE FOR SAMSUNG GALAXY S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744537915491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429852684387</id>
+    <published>2018-04-06T11:49:39-07:00</published>
+    <updated>2018-04-06T11:49:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-teal-matte-tpu-for-samsung-galaxy-s8"/>
+    <title>CLEAR TPU SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_TPU_SAM_S8.jpg?v=1550518558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR TPU FOR SAMSUNG GALAXY S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429852684387</id>
+      <title>Precision Cut / SAMSUNG S8 / SAMSUNG S8</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430500638819</id>
+    <published>2018-04-06T11:49:17-07:00</published>
+    <updated>2018-04-06T11:49:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-hard-clear-clear-for-samsung-galaxy-s8"/>
+    <title>HARD CLEAR CLEAR SAM S8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_965f3630-fef3-4538-ad6a-4c075c1c9523.jpg?v=1550514117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FULL HARD CLEAR CLEAR FOR SAMSUNG GALAXY S8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430500638819</id>
+      <title>Precision Cut / SAMSUNG S8 / SAMSUNG S8</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

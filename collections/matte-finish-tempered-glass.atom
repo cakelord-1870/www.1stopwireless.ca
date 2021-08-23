@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/matte-finish-tempered-glass.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-02-05T13:10:40-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6172273770688</id>
+    <published>2021-02-05T13:10:40-08:00</published>
+    <updated>2021-02-05T13:10:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-12-mini-matte-tempered-glass"/>
+    <title>IPHONE 12 MINI MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_2da94cab-c92f-4175-8665-f406072ee631.jpg?v=1612041720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Mini (5.4)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6172273770688</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6172273410240</id>
+    <published>2021-02-05T13:10:40-08:00</published>
+    <updated>2021-02-05T13:10:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-12-pro-max-matte-tempered-glass"/>
+    <title>IPHONE 12 PRO MAX MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_e32e035d-f7e3-4df7-a4ac-68ba51654ed6.jpg?v=1612041683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6172273410240</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6172272558272</id>
+    <published>2021-02-05T13:10:39-08:00</published>
+    <updated>2021-02-05T13:10:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-12-12-pro-matte-tempered-glass"/>
+    <title>IPHONE 12/12 PRO MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_280fa607-80d4-49ac-974e-dfde9b004412.jpg?v=1612041597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 / 12 Pro (6.1)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6172272558272</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464191451235</id>
+    <published>2020-11-12T11:11:16-08:00</published>
+    <updated>2020-11-12T11:11:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-x-xs-black-full-matte-tempered-glass"/>
+    <title>IPHONE X/11 PRO MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/glass-1.jpg?v=1609867470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE X/XS BLACK FULL MATTE TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:tag>IPHONE 11 PRO (5.8)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>IPHONE X/XS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464191451235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464191680611</id>
+    <published>2020-08-12T14:03:03-07:00</published>
+    <updated>2020-08-12T14:03:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-x-xs-max-black-full-matte-tempered-glass"/>
+    <title>IPHONE XS MAX/11 PRO MAX MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_482e4ab0-ea08-484f-9402-c6164ce3d8f9.jpg?v=1609887174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 11 PRO MAX (6.5)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>IPHONE XS MAX</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464191680611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464180736099</id>
+    <published>2020-08-12T14:03:03-07:00</published>
+    <updated>2020-08-12T14:03:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-6-7-8-black-matte-finish-tempered-glass-loose"/>
+    <title>IPHONE 6/7/8 BLACK MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IP_7_BLACK.jpg?v=1544210370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE 6/7/8 BLACK FULL MATTE TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S</s:tag>
+    <s:tag>IPHONE 7/8</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464180736099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464191975523</id>
+    <published>2020-02-01T15:45:09-08:00</published>
+    <updated>2020-02-01T15:45:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-xr-full-matte-tempered-glass"/>
+    <title>IPHONE XR/11 MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/glass-1_648f5522-cb3e-4b01-9f65-1ec4893d36db.jpg?v=1609887083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 11 (6.1)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>IPHONE XR</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464191975523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464191123555</id>
+    <published>2019-09-19T08:25:50-07:00</published>
+    <updated>2019-09-19T08:25:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-6-7-8-plus-white-full-matte-tempered-glass"/>
+    <title>IPHONE 6/7/8 PLUS WHITE MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IP_7_WHITE_bc02ea9a-5158-458b-9046-8bc1eb7b0339.jpg?v=1544210681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>iphone 7 plus</s:tag>
+    <s:tag>IPHONE 7/8 PLUS</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464191123555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464181129315</id>
+    <published>2019-09-19T08:25:49-07:00</published>
+    <updated>2019-09-19T08:25:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-6-7-8-white-matte-finish-tempered-glass-loose"/>
+    <title>IPHONE 6/7/8 WHITE MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IP_7_WHITE.jpg?v=1544210438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S</s:tag>
+    <s:tag>IPHONE 7/8</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464181129315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464190435427</id>
+    <published>2018-09-18T08:37:16-07:00</published>
+    <updated>2018-09-18T08:37:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-6-7-8-plus-black-full-matte-tempered-glass"/>
+    <title>IPHONE 6/7/8 PLUS BLACK MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IP_7_BLACK_639a6638-a541-4464-bc45-9b744c69aad4.jpg?v=1544210589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE 6/7/8 PLUS BLACK FULL MATTE TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>iphone 7 plus</s:tag>
+    <s:tag>IPHONE 7/8 PLUS</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464190435427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

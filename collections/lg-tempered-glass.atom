@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-tempered-glass.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-04-30T14:27:15-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6644308443328</id>
+    <published>2021-04-30T14:27:15-07:00</published>
+    <updated>2021-04-30T14:27:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-g8x-tempered-glass-loose"/>
+    <title>LG G8X TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3c328aa5-28cf-4c38-bc7d-f2e191f748db.ad90498e50a47eb5b008b250658ebd3d.jpg?v=1619716967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8X</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6644308443328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6644322271424</id>
+    <published>2021-04-30T13:58:09-07:00</published>
+    <updated>2021-04-30T13:58:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-k22-k32-tempered-glass-loose"/>
+    <title>LG K22 / K32 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/LG_20K22_20_K32_20Tempered_20Glass-1500x1500_large_94a6086f-f311-4bef-b18e-2f7982729901.png?v=1619717946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K22 / K32</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6644322271424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6119275233472</id>
+    <published>2020-12-19T09:56:21-08:00</published>
+    <updated>2020-12-19T09:56:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-k31-tempered-glass-loose"/>
+    <title>LG K30 2020 / K31 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/lgk31.jpg?v=1611461308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K30 2020 / K31</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6119275233472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4691534446691</id>
+    <published>2020-12-15T13:12:11-08:00</published>
+    <updated>2020-12-15T13:12:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-k61-tempered-glass-loose"/>
+    <title>LG K61 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_87936e9a-7e2a-4459-b5aa-33ff4969ebc5.jpg?v=1611004829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K61</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4691534446691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4636653289571</id>
+    <published>2020-10-09T09:30:06-07:00</published>
+    <updated>2020-10-09T09:30:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-k20-2019-tempered-glass-loose"/>
+    <title>LG K20 2019 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_ce9fd20b-8a5b-47b1-944c-63851b436ecc.jpg?v=1611004797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K20 2019</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4636653289571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646430343267</id>
+    <published>2020-07-15T08:24:11-07:00</published>
+    <updated>2020-07-15T08:24:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-stylo-6-tempered-glass-loose"/>
+    <title>LG STYLO 6 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_6b0605ec-afae-42e8-a2e6-16d3a893f1ce.jpg?v=1611007846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 6</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646430343267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4444706799715</id>
+    <published>2019-12-26T11:53:08-08:00</published>
+    <updated>2019-12-26T11:53:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-k30-tempered-glass-loose"/>
+    <title>LG K30 2019 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/lgk30.jpg?v=1611461404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K30</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4444706799715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4444704833635</id>
+    <published>2019-12-26T11:51:46-08:00</published>
+    <updated>2019-12-26T11:51:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-q60-k50-tempered-glass-loose"/>
+    <title>LG Q60/K50 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1.jpg?v=1610996616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG Q60/K50</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4444704833635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430760915043</id>
+    <published>2019-11-15T11:26:30-08:00</published>
+    <updated>2019-11-15T11:26:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-lg-g4-tempered-glass-loose"/>
+    <title>LG G3 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_c36c4879-21e2-4651-b5c3-0f59ce6d7f7e.jpg?v=1611078394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G3 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G3</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430760915043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430760783971</id>
+    <published>2019-11-15T11:26:29-08:00</published>
+    <updated>2019-11-15T11:26:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-lg-g6-tempered-glass-loose"/>
+    <title>LG G4 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_4c1e65aa-94b3-4fc4-9e71-8e47b3ad7854.jpg?v=1611078400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G4 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G4</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430760783971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485356359779</id>
+    <published>2019-07-31T14:02:54-07:00</published>
+    <updated>2019-07-31T14:02:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-g8-tempered-glass-loose"/>
+    <title>LG G8 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_94499917-16eb-4b20-a66d-0f0ed2af6a27.jpg?v=1611004791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G8 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485356359779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485672800355</id>
+    <published>2019-04-12T14:42:35-07:00</published>
+    <updated>2019-04-12T14:42:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-xpower-3-tempered-glass-packed"/>
+    <title>LG XPOWER 3 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_41451175-83d9-4e72-a030-e489fdc9a0be.jpeg?v=1558995185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER 3 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485672800355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485671489635</id>
+    <published>2019-04-12T14:42:08-07:00</published>
+    <updated>2019-04-12T14:42:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-xpower-2-3-tempered-glass-packed"/>
+    <title>LG XPOWER 2 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_ffcd2811-169b-4a74-aca0-c6e116f07635.jpeg?v=1558995182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER 2 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG XPOWER2</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485671489635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485661528163</id>
+    <published>2019-04-12T14:38:37-07:00</published>
+    <updated>2019-04-12T14:38:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-q6-tempered-glass-packed"/>
+    <title>LG Q6 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_1be5a172-a529-4cb2-9f8a-18524e03fe14.jpeg?v=1558995173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG Q6 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG Q6</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485661528163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485660348515</id>
+    <published>2019-04-12T14:38:06-07:00</published>
+    <updated>2019-04-12T14:38:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-k4-2017-tempered-glass-packed"/>
+    <title>LG K4 2017 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_5c02165e-00c9-4d75-996d-e86862ca59c2.jpeg?v=1558995170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG K4 2017 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K4 2017</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485660348515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485658185827</id>
+    <published>2019-04-12T14:37:03-07:00</published>
+    <updated>2019-04-12T14:37:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-g6-tempered-glass-packed"/>
+    <title>LG G6 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_1b1202b2-2c42-4d5e-a5ba-bc7d2e29f475.jpeg?v=1558995162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485658185827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485655498851</id>
+    <published>2019-04-12T14:35:53-07:00</published>
+    <updated>2019-04-12T14:35:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-huawei-p20-lite-tempered-glass-packed"/>
+    <title>LG G7 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_8750fd29-0897-4342-9720-258b4683981a.jpeg?v=1558995166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G7 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485655498851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430786244707</id>
+    <published>2019-04-12T12:27:37-07:00</published>
+    <updated>2019-04-12T12:27:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-lg-g3-tempered-glass-loose"/>
+    <title>LG K4 2017 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_7007bec8-7c77-4ba7-b601-4816700a67fb.jpg?v=1611007427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG K4 2017 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K4 (2017)</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430786244707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430760226915</id>
+    <published>2019-04-12T12:27:18-07:00</published>
+    <updated>2019-04-12T12:27:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-huawei-gr5-tempered-glass-loose"/>
+    <title>LG G7 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_9c2dec8a-18ce-4a66-8fa3-91faeb794ecf.jpg?v=1611004782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G7 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G7</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430760226915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495731044451</id>
+    <published>2019-02-15T10:26:23-08:00</published>
+    <updated>2019-02-15T10:26:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-xpower-3-tempered-glass-loose"/>
+    <title>LG XPOWER 3 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_95b6772d-294b-4755-8d98-856947da2eea.jpg?v=1611078470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER 3 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495731044451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430787227747</id>
+    <published>2019-02-15T10:26:23-08:00</published>
+    <updated>2019-02-15T10:26:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-copy-of-lg-q6-tempered-glass-loose"/>
+    <title>LG XPOWER 2 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_3214a691-e112-4693-b2f4-6562cca020f1.jpg?v=1611078464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER 2 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:tag>LG XPOWER2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430787227747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495667769443</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-k4-2016-tempered-glass-loose"/>
+    <title>LG K4 2016 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_de76c52f-9eab-4e28-bc8b-ea9b3dbb43ff.jpg?v=1611078410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG K4 2016 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG K4 2016</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495667769443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495667605603</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-stylo-3-tempered-glass-loose"/>
+    <title>LG STYLO 3 PLUS TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_1dc84fca-cf2f-4c1d-b992-477408bbc9be.jpg?v=1611078429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG STYLO 3 PLUS TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495667605603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430787358819</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-lg-xpower-tempered-glass-loose"/>
+    <title>LG STYLO 2  TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_e7890a7c-87e1-4a98-a360-00f17194defc.jpg?v=1611078422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG STYLO 2 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430787358819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430787293283</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-lg-xpower-2-tempered-glass-loose"/>
+    <title>LG XPOWER  TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_afef0b00-53e5-4cac-bc6b-2155f2314b4b.jpg?v=1611078457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER  TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG X POWER</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430787293283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

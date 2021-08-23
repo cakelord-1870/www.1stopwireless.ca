@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-note-20.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-04-30T14:53:53-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720188227683</id>
+    <published>2021-04-30T14:53:53-07:00</published>
+    <updated>2021-04-30T14:53:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-sar-sam-note-20"/>
+    <title>GREY SAR SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note20_-_3.jpg?v=1603575053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720188227683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720187965539</id>
+    <published>2021-04-30T14:53:53-07:00</published>
+    <updated>2021-04-30T14:53:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sar-sam-note-20"/>
+    <title>RED SAR SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note20_-_1.jpg?v=1603575082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720187965539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720187342947</id>
+    <published>2021-04-30T14:53:52-07:00</published>
+    <updated>2021-04-30T14:53:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sar-sam-note-20"/>
+    <title>BLACK SAR SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note20_-_2.jpg?v=1603575048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720187342947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682619650147</id>
+    <published>2021-02-18T14:11:56-08:00</published>
+    <updated>2021-02-18T14:11:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-note-20"/>
+    <title>R GOLD BLUEVISION WLT NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_d61fe9ce-5988-4e9d-873e-11823d88a63c.png?v=1609368291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682619650147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682619027555</id>
+    <published>2021-02-18T14:11:33-08:00</published>
+    <updated>2021-02-18T14:11:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-note-20"/>
+    <title>BROWN BLUEVISION WLT NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_42b11468-adef-4217-8344-72ee57c4157c.png?v=1609368587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682619027555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4682618798179</id>
+    <published>2021-02-18T14:07:23-08:00</published>
+    <updated>2021-02-18T14:07:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-note-20"/>
+    <title>BLACK BLUEVISION WLT NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_3920b516-dd2d-427b-8aae-6c9f15bcc9f4.png?v=1609367997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4682618798179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4714413785187</id>
+    <published>2020-12-15T13:07:44-08:00</published>
+    <updated>2020-12-15T13:07:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pmma-nano-sam-note-20-loose"/>
+    <title>PMMA NANO SAM NOTE 20 LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Hd81ffad2d76e489f9bd6e22f50d56e74F_85e272ed-6adc-42a5-bd90-161751868d71.jpg?v=1608674531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>POLYMER NANO TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4714413785187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4704311246947</id>
+    <published>2020-11-24T15:48:17-08:00</published>
+    <updated>2020-11-24T15:48:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/camera-tempered-lens-sam-note-20"/>
+    <title>CAMERA TEMPERED LENS SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture3.png?v=1603574770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera lens</s:tag>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4704311246947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6071704912064</id>
+    <published>2020-11-21T10:38:51-08:00</published>
+    <updated>2020-11-21T10:38:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-defend-note-20"/>
+    <title>PURPLE DEFEND NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1029_1024x1024_2x_5c64421e-9fb6-443f-a2cf-22dde031dac3.png?v=1608665057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6071704912064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6071704813760</id>
+    <published>2020-11-21T10:38:50-08:00</published>
+    <updated>2020-11-21T10:38:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-defend-note-20"/>
+    <title>GREY DEFEND NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1033_1024x1024_2x_a455a3d2-c927-4d1c-947f-5c3652aad950.png?v=1608664994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6071704813760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6071704518848</id>
+    <published>2020-11-21T10:38:50-08:00</published>
+    <updated>2020-11-21T10:38:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-orange-defend-note-20"/>
+    <title>BLK/ORANGE DEFEND NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1027_1024x1024_2x_2796587a-1424-4da4-9b1b-c6be1fad732f.png?v=1608664973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6071704518848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6071704289472</id>
+    <published>2020-11-21T10:38:50-08:00</published>
+    <updated>2020-11-21T10:38:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-defend-note-20"/>
+    <title>BLACK DEFEND NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1026_1024x1024_2x_f758fbc2-38e5-4161-8679-486a2a4d3cb5.png?v=1608664928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6071704289472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6040434802880</id>
+    <published>2020-10-31T14:26:01-07:00</published>
+    <updated>2020-10-31T14:26:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note-20-tpu-screen-protector"/>
+    <title>NOTE 20 TPU SCREEN PROTECTOR</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tpu_screen_1024x1024_2x_c6e659fa-5d97-4ca7-8ddf-1a5b5a0a68d2.jpg?v=1604179563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:tag>TPU SCREEN PROTECTOR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6040434802880</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720267886691</id>
+    <published>2020-10-09T11:38:08-07:00</published>
+    <updated>2020-10-09T11:38:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-robot-ring-note-20"/>
+    <title>NAVY ROBOT RING NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_9632f66a-a635-45ac-b164-5a742be48a08.png?v=1610745456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720267886691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720267755619</id>
+    <published>2020-10-09T11:37:54-07:00</published>
+    <updated>2020-10-09T11:37:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-robot-ring-note-20"/>
+    <title>RED ROBOT RING NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_5baff8eb-d510-41bb-84db-6287f5864aa9.png?v=1610745498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720267755619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720267559011</id>
+    <published>2020-10-09T11:37:33-07:00</published>
+    <updated>2020-10-09T11:37:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-robot-ring-note-20"/>
+    <title>PINK ROBOT RING NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink.png?v=1610745473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720267559011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720267362403</id>
+    <published>2020-10-09T11:37:23-07:00</published>
+    <updated>2020-10-09T11:37:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-robot-ring-note-20"/>
+    <title>GREY ROBOT RING NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grey_0c1da4eb-a747-413c-afda-e2c8af2ec71e.png?v=1610745433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720267362403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720267198563</id>
+    <published>2020-10-09T11:37:10-07:00</published>
+    <updated>2020-10-09T11:37:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-robot-ring-note-20"/>
+    <title>GREEN ROBOT RING NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/green_ea45988c-d6ab-4159-a871-12a036cd1c6a.png?v=1610744801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720267198563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720267034723</id>
+    <published>2020-10-09T11:36:58-07:00</published>
+    <updated>2020-10-09T11:36:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-robot-ring-note-20"/>
+    <title>R GOLD ROBOT RING NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rosegold_2d1b48b0-7578-453b-ae32-bd18423fbce5.png?v=1610745486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720267034723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720266936419</id>
+    <published>2020-10-09T11:36:47-07:00</published>
+    <updated>2020-10-09T11:36:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-robot-ring-note-20"/>
+    <title>BLACK ROBOT RING NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_894e24ad-eae0-41a9-94fb-a09acb1da99f.png?v=1610744593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720266936419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720215588963</id>
+    <published>2020-10-09T10:03:41-07:00</published>
+    <updated>2020-10-09T10:03:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-thick-cornr-tpu-note-20"/>
+    <title>CLEAR THICK CORNR TPU NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/THICKCORNERTPUS20_1024x1024_2x_3daa5922-728a-4a71-bea8-b606df707be0.jpg?v=1602263018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720215588963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720190816355</id>
+    <published>2020-10-09T09:13:59-07:00</published>
+    <updated>2020-10-09T09:13:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/space-clear-sam-note-20"/>
+    <title>SPACE CLEAR SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SPACES20_dde32474-9686-4ce0-bc4b-789262d5c4e7.png?v=1629213784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720190816355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720188424291</id>
+    <published>2020-10-09T09:11:39-07:00</published>
+    <updated>2020-10-09T09:11:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sar-sam-note-20"/>
+    <title>PURPLE SAR SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note20_-_10.jpg?v=1603575074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720188424291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720188293219</id>
+    <published>2020-10-09T09:11:38-07:00</published>
+    <updated>2020-10-09T09:11:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-sam-note-20"/>
+    <title>TEAL SAR SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note20_-_11.jpg?v=1603576549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720188293219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720188129379</id>
+    <published>2020-10-09T09:11:38-07:00</published>
+    <updated>2020-10-09T09:11:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-sam-note-20"/>
+    <title>PINK SAR SAM NOTE 20</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note20_-_12.jpg?v=1603575066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720188129379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/apple-iphone-6-6s-plus.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T12:28:00-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483941642339</id>
+    <published>2021-07-23T12:28:00-07:00</published>
+    <updated>2021-07-23T12:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/space-clear-ip-7-plus"/>
+    <title>SPACE CLEAR  IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/space7plus.jpg?v=1627070824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SPACE CLEAR  IP 7 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483941642339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ELSPiP66S78PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432440438883</id>
+    <published>2021-06-19T16:07:20-07:00</published>
+    <updated>2021-06-19T16:07:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-purple-slim-rugged-case-iphone-7-8-plus"/>
+    <title>RED SAR IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/iPhone7_070806_a5598b4a-e022-48ba-9909-b8e976d1fd22.jpg?v=1595631037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED SLIM RUGGED CASE IPHONE 7/8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432440438883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRiP66S78(Plus)RD</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432440307811</id>
+    <published>2021-01-27T15:30:13-08:00</published>
+    <updated>2021-01-27T15:30:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-slim-rugged-case-iphone-7-8-plus"/>
+    <title>PURPLE SAR IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLEIP7.jpg?v=1595630987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE SLIM RUGGED CASE IPHONE 7/8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432440307811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRiP66S78(Plus)PU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109863116992</id>
+    <published>2020-12-11T15:20:14-08:00</published>
+    <updated>2020-12-11T15:20:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-yellow-rose-ip-6-7-8-plus"/>
+    <title>CLR 2PC YELLOW ROSE IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/yellowrose_cb390cb1-2007-44eb-97ec-b17a5b43eb48.png?v=1624308860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109863116992</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109861937344</id>
+    <published>2020-12-11T15:19:05-08:00</published>
+    <updated>2020-12-11T15:19:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-rose-b-ip-6-7-8-plus"/>
+    <title>CLR 2PC ROSE B IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CaptuDFDre_457249e0-553f-4314-9f33-ce8f3fc55804.png?v=1612294104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109861937344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109861347520</id>
+    <published>2020-12-11T15:18:22-08:00</published>
+    <updated>2020-12-11T15:18:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-nt-sky-ip-6-7-8-plus"/>
+    <title>CLR 2PC NT SKY IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Cap23ture_eec54ad0-2e50-4dba-b742-fd964690c144.png?v=1612294086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109861347520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109859971264</id>
+    <published>2020-12-11T15:16:43-08:00</published>
+    <updated>2020-12-11T15:16:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-lily-ip-6-7-8-plus"/>
+    <title>CLR 2PC LILY IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CaptureG67_10a7192d-a5eb-4ecb-aeb5-dfb0f8f72e94.png?v=1612294054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109859971264</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109859283136</id>
+    <published>2020-12-11T15:14:57-08:00</published>
+    <updated>2020-12-11T15:14:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-galaxy-ip7-plus"/>
+    <title>CLR 2PC GALAXY IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/galaxy_f64d1869-bf59-46fc-86c3-cb42c22c0998.png?v=1624308046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109859283136</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109858595008</id>
+    <published>2020-12-11T15:13:57-08:00</published>
+    <updated>2020-12-11T15:13:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-et-ip7-plus"/>
+    <title>CLR 2PC ET IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RTCapture_ed8ea49b-c8c0-435d-b1cd-4380c11cb795.png?v=1612294019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109858595008</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109857775808</id>
+    <published>2020-12-11T15:13:00-08:00</published>
+    <updated>2020-12-11T15:13:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-chry-leaf-ip7-plus"/>
+    <title>CLR 2PC CHRY LEAF IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture1_3bdb3d93-253c-4995-85d9-01b67c1de201.png?v=1612294004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109857775808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109856366784</id>
+    <published>2020-12-11T15:11:09-08:00</published>
+    <updated>2020-12-11T15:11:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-chry-blosom-ip7-plus"/>
+    <title>CLR 2PC CHRY BLOSOM IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/chryblosom_c70cf0e9-76a2-49b2-9895-0ef3214daab6.png?v=1624307718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109856366784</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1476690247779</id>
+    <published>2020-11-21T10:52:47-08:00</published>
+    <updated>2020-11-21T10:52:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-def-ip7-plus"/>
+    <title>RED DEFEND IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_7_1024x1024_2x_6e3031cc-d1fc-44de-b7e4-b1b3c93b86d8.jpg?v=1548264255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED OTTER LIKE FOR IPHONE 7 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1476690247779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485433397347</id>
+    <published>2020-11-21T10:50:44-08:00</published>
+    <updated>2020-11-21T10:50:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-def-ip7-plus"/>
+    <title>N BLUE DEFEND IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_4236_2a665975-9794-4e21-89f5-e44395ff1f22.jpg?v=1611177042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>N BLUE DEF IP7 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485433397347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1476689690723</id>
+    <published>2020-11-21T10:47:51-08:00</published>
+    <updated>2020-11-21T10:47:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blk-org-def-ip7-plus"/>
+    <title>BLK/ORNGE DEFEND IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_4230_e0529701-72c6-4589-b8ea-bec0133e9edd.jpg?v=1611177023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLK/ORNGE OTTER LIKE FOR IPHONE 7 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1476689690723</id>
+      <title>Precision Cut / IPHONE 7 PLUS / IPHONE 7 PLUS</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077234086080</id>
+    <published>2020-11-16T15:57:01-08:00</published>
+    <updated>2020-11-16T15:57:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-rugged-hand-grip-kickstand-ip7-plus"/>
+    <title>SILVER RUGGED HAND GRIP KICKSTAND IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SILVER_bc22a36e-a215-4292-81bc-76d540d70c5a.png?v=1610063369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077234086080</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077233856704</id>
+    <published>2020-11-16T15:56:28-08:00</published>
+    <updated>2020-11-16T15:56:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-rugged-hand-grip-kickstand-ip7-plus"/>
+    <title>GREEN RUGGED HAND GRIP KICKSTAND IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_3489f474-9c4c-4c69-90e2-f8af150dfa4b.png?v=1610063289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077233856704</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077233627328</id>
+    <published>2020-11-16T15:56:13-08:00</published>
+    <updated>2020-11-16T15:56:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-hand-grip-kickstand-ip7-plus"/>
+    <title>BLACK RUGGED HAND GRIP KICKSTAND IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_ba42722c-f1c3-4616-8621-f20700540373.png?v=1610063255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077233627328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744453472355</id>
+    <published>2020-11-11T13:24:35-08:00</published>
+    <updated>2020-11-11T13:24:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip7p_otterstyle_black"/>
+    <title>BLACK DEFEND IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_4229_77d6c0ea-8a6b-45a9-a2cf-6dffaa76a6b1.jpg?v=1611177010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744453472355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>ip7p_otterstyle_black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430516269155</id>
+    <published>2020-11-05T07:48:31-08:00</published>
+    <updated>2020-11-05T07:48:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-iphone-6-7-8-white-full-tempered-glass"/>
+    <title>IPHONE 6/7/8 PLUS WHITE FULL TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/whtip7.jpg?v=1609888543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL GLUE TEMPERED GLASS</s:tag>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>iphone 7 plus</s:tag>
+    <s:tag>IPHONE 7/8 PLUS</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430516269155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432440864867</id>
+    <published>2020-09-02T07:51:06-07:00</published>
+    <updated>2020-09-02T07:51:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-gold-slim-rugged-case-iphone-7-8-plus"/>
+    <title>R GOLD SAR IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLDIP7_900x_279d23af-968b-4558-bfad-147aa5bb57d2.jpg?v=1610127594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SLIM RUGGED IPHONE 7/8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432440864867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRiP66S78(Plus)RGL</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351539052643</id>
+    <published>2020-01-09T13:21:31-08:00</published>
+    <updated>2020-01-09T13:21:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-zipper-wlt-ip6-plus"/>
+    <title>R GOLD 9 CARD ZIPPER WLT IP6 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1212_6d13b3d7-066b-4a32-a251-22e72eccbb91.png?v=1609023442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351539052643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4417529118819</id>
+    <published>2019-12-06T15:41:28-08:00</published>
+    <updated>2019-12-06T15:41:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-purse-deatch-wlt-ip-6-7-8-plus"/>
+    <title>BROWN PURSE DETACH WLT IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BBROWN_PLEOGON_88a03b02-0f90-449c-853f-1801e4db0578.png?v=1575675701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4417529118819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4417528856675</id>
+    <published>2019-12-06T15:40:52-08:00</published>
+    <updated>2019-12-06T15:40:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-purse-deatch-wlt-ip-6-7-8-plus"/>
+    <title>RED PURSE DETACH WLT IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_PELOGON_67531091-83c2-4db6-ba3f-f0b62f8d2071.png?v=1575675677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4417528856675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351508185187</id>
+    <published>2019-11-23T14:17:47-08:00</published>
+    <updated>2019-11-23T14:17:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-glitter-butrfly-wlt-ip-6-7-8-plus"/>
+    <title>SILVER GLITTER BUTRFLY WLT IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154641_36909aca-6814-4690-ad58-5d905dffdc39.png?v=1609615651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER GLITTER BUTRFLY WLT IP 6/7/8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351508185187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351430721635</id>
+    <published>2019-11-23T13:09:39-08:00</published>
+    <updated>2019-11-23T13:09:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-maple-mirror-wlt-ip-6-7-8-plus"/>
+    <title>GREEN MAPLE MIRROR WLT IP 6/7/8 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154809_026b00fb-8906-4150-8f52-0459caacdecd.png?v=1609615174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREEN MAPLE MIRROR WLT IP 6/7/8 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 6/6S PLUS</s:tag>
+    <s:tag>IPHONE 7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351430721635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

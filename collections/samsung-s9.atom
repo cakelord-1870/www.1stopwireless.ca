@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-s9.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-01-27T15:22:56-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432469930083</id>
+    <published>2021-01-27T15:22:56-08:00</published>
+    <updated>2021-01-27T15:22:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-slim-rugged-for-samsung-s9"/>
+    <title>BLACK SAR SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/S9_09.jpg?v=1537850952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SLIM RUGGED FOR SAMSUNG S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432469930083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRS9BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555188998243</id>
+    <published>2020-11-21T12:33:53-08:00</published>
+    <updated>2020-11-21T12:33:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/beige-plaid-wlt-sam-s9"/>
+    <title>BEIGE PLAID WLT SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/beige_plaid_e6206dc5-bffe-445c-a7e5-c3889802fec4.jpg?v=1574120541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BEIGE PLAID WLT SAM S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555188998243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6072337498304</id>
+    <published>2020-11-21T10:57:29-08:00</published>
+    <updated>2020-11-21T10:57:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-rugged-ring-sam-s9-1"/>
+    <title>R GOLD RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_0cbd37ae-086e-497b-a73d-6f26b7b8deb4.png?v=1610476729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6072337498304</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6072337400000</id>
+    <published>2020-11-21T10:57:29-08:00</published>
+    <updated>2020-11-21T10:57:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-rugged-ring-sam-s9"/>
+    <title>PINK RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_82bc47ed-7011-4367-a3e5-e9ac1654074d.png?v=1610476716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6072337400000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4657775214691</id>
+    <published>2020-09-18T15:18:00-07:00</published>
+    <updated>2020-09-18T15:18:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pmma-nano-sam-s9-loose"/>
+    <title>PMMA NANO SAM S8/S9 LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Hd81ffad2d76e489f9bd6e22f50d56e74F_4b9eee0d-5bad-46ea-b501-be94b1f33ddd.jpg?v=1608674572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PMMA NANO SAM S10 LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>POLYMER NANO TEMPERED GLASS</s:tag>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:tag>SAMSUNG S8</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4657775214691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430519840867</id>
+    <published>2020-09-08T10:50:52-07:00</published>
+    <updated>2020-09-08T10:50:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-samsung-s9-plus-black-full-tempered-glass"/>
+    <title>SAMSUNG S8/S9 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture_426ff47a-4661-4aa5-8708-a870045cd215.png?v=1610473962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:tag>samsung s8</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430519840867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646375194723</id>
+    <published>2020-07-16T10:02:34-07:00</published>
+    <updated>2020-07-16T10:02:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-rugged-ring-sam-s9"/>
+    <title>GOLD RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_85792cc8-7815-4524-99eb-287842d7d114.png?v=1610489028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646375194723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646375129187</id>
+    <published>2020-07-16T09:50:56-07:00</published>
+    <updated>2020-07-16T09:50:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-rugged-ring-sam-s9"/>
+    <title>PURPLE RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_96c4d6ec-f0da-495a-af7a-c7fef0e2543c.png?v=1610476733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646375129187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646375358563</id>
+    <published>2020-07-16T09:43:01-07:00</published>
+    <updated>2020-07-16T09:43:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-rugged-ring-sam-s9"/>
+    <title>N BLUE RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_f492eb11-bb54-40d6-9361-dd9188c8cc1a.png?v=1610476710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646375358563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646375391331</id>
+    <published>2020-07-16T09:40:18-07:00</published>
+    <updated>2020-07-16T09:40:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-rugged-ring-sam-s9"/>
+    <title>RED RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_9ff4ee28-6ef8-4dc0-8959-bf769751c4db.png?v=1610476723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646375391331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646374768739</id>
+    <published>2020-07-16T09:38:46-07:00</published>
+    <updated>2020-07-16T09:38:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-ring-sam-s9"/>
+    <title>BLACK RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_05edb46c-1cd6-4827-be63-1751cfc1e094.png?v=1610476702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646374768739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4646375293027</id>
+    <published>2020-07-16T09:35:54-07:00</published>
+    <updated>2020-07-16T09:35:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-green-rugged-ring-sam-s9"/>
+    <title>GREEN RUGGED RING SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_ce7dbb69-b92c-454e-a514-821356b51031.png?v=1610489048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4646375293027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157890330723</id>
+    <published>2020-05-29T17:00:28-07:00</published>
+    <updated>2020-05-29T17:00:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flower-puff-wlt-sam-sam-s9"/>
+    <title>GREY FLOWER PUFF WLT SAM SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_FLOWERS_3207558b-eafa-4a46-9a24-b9143337f2df.PNG?v=1569349776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY FLOWER PUFF WLT SAM SAM S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157890330723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157892755555</id>
+    <published>2020-05-29T17:00:06-07:00</published>
+    <updated>2020-05-29T17:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flower-puff-wlt-sam-sam-s9"/>
+    <title>PINK FLOWER PUFF WLT SAM SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_FLOWERS_a6355e6a-4dc2-44e7-992c-692fe30866f5.PNG?v=1569349924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLOWER PUFF WLT SAM SAM S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157892755555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157892231267</id>
+    <published>2020-05-29T16:59:14-07:00</published>
+    <updated>2020-05-29T16:59:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-flower-puff-wlt-sam-sam-s9"/>
+    <title>BLUE FLOWER PUFF WLT SAM SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLUE_FLOWERS_03661a28-0bb5-4d5d-be2d-46a170d66109.PNG?v=1569349889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLUE FLOWER PUFF WLT SAM SAM S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157892231267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157893673059</id>
+    <published>2020-05-29T16:57:56-07:00</published>
+    <updated>2020-05-29T16:57:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/peach-flower-puff-wlt-sam-sam-s9"/>
+    <title>PINK ROSE PUFF WLT SAM SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_ROSE_FINAL_4243f31a-119a-48a1-b40a-5959cb7b792b.png?v=1572472950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK ROSE PUFF WLT SAM SAM S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157893673059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157891739747</id>
+    <published>2020-05-29T16:57:56-07:00</published>
+    <updated>2020-05-29T16:57:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-flower-puff-wlt-sam-sam-s9"/>
+    <title>PEACH FLOWER PUFF WLT SAM SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_FLOWERS_6d980cb8-2dd6-45b9-ae94-fced10fe3245.PNG?v=1569349856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PEACH</span> FLOWER PUFF WLT SAM SAM S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157891739747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182159459</id>
+    <published>2019-11-22T17:05:45-08:00</published>
+    <updated>2019-11-22T17:05:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-feeling-tpu-sam-s9"/>
+    <title>TEAL LIKE SOFT FEELING TPU SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL.png?v=1610475652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182159459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182224995</id>
+    <published>2019-11-22T17:04:57-08:00</published>
+    <updated>2019-11-22T17:04:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-feeling-tpu-sam-s9"/>
+    <title>RED LIKE SOFT FEELING TPU SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_c922b280-c01a-4445-b1d7-b0a1a956053a.png?v=1610475620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182224995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182028387</id>
+    <published>2019-11-22T17:04:56-08:00</published>
+    <updated>2019-11-22T17:04:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-like-soft-feeling-tpu-sam-s9"/>
+    <title>R GOLD LIKE SOFT FEELING TPU SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_c4b0474b-bd42-4b0c-9175-491d6d8899f0.png?v=1610475617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182028387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182323299</id>
+    <published>2019-11-22T16:59:19-08:00</published>
+    <updated>2019-11-22T16:59:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-feeling-tpu-sam-s9"/>
+    <title>PURPLE LIKE SOFT FEELING TPU SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_5ea10c44-3bbc-4b2a-9077-815774e58f73.png?v=1610475613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182323299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182093923</id>
+    <published>2019-11-22T16:59:19-08:00</published>
+    <updated>2019-11-22T16:59:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-like-soft-feeling-tpu-sam-s9"/>
+    <title>PINK LIKE SOFT FEELING TPU SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_223c9554-ab54-431f-ab35-63510e789d48.png?v=1610475604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182093923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364182126691</id>
+    <published>2019-11-22T16:52:09-08:00</published>
+    <updated>2019-11-22T16:52:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-like-soft-feeling-tpu-sam-s9"/>
+    <title>N BLUE LIKE SOFT FEELING TPU SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_b0ad3a94-3306-4772-859a-1d7d9808896b.png?v=1610475600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364182126691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364181930083</id>
+    <published>2019-11-22T16:52:09-08:00</published>
+    <updated>2019-11-22T16:52:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-like-soft-feeling-tpu-sam-s9"/>
+    <title>BLACK LIKE SOFT FEELING TPU SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_5c636418-9ca2-4a22-a784-3d30beffdf52.png?v=1610475597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK LIKE SOFT FEELING TPU SAM S9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364181930083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/782419001443</id>
+    <published>2019-10-30T10:31:28-07:00</published>
+    <updated>2019-10-30T10:31:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hard-glitter-samsung-galaxy-s9-silver"/>
+    <title>SILVER HARD GLTR SAM S9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/S9_SILVER_GLITTER_39713790-60fa-467f-bb6d-9bbbf63a188d.JPG?v=1610407536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hard Glitter Samsung galaxy S9 SILVER</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/782419001443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/galaxy-note-5.atom"/>
+  <title>1StopWireless</title>
+  <updated>2018-04-09T14:09:05-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744613085283</id>
+    <published>2018-04-09T14:09:05-07:00</published>
+    <updated>2018-04-09T14:09:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/verus_hotpink_note5"/>
+    <title>PINK VERTO SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/HOTPINKK_616a043f-61e7-4339-a1ea-9f559b8a4901.PNG?v=1540512051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOT PINK VERUS CASE SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744613085283</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744613216355</id>
+    <published>2018-04-06T12:21:14-07:00</published>
+    <updated>2018-04-06T12:21:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/verus_gold_note5"/>
+    <title>GOLD VERTO SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/goldddd_2221daf3-e597-4165-bd77-a822a0306e69.PNG?v=1540511989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD VERUS CASE SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744613216355</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744613118051</id>
+    <published>2018-04-06T12:21:13-07:00</published>
+    <updated>2018-04-06T12:21:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/verus_rosegold_note5"/>
+    <title>R GOLD VERTO SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rosegoldfres_87802130-ab57-4ed8-9e1a-ca65a66bd449.PNG?v=1540512084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD VERUS CASE SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744613118051</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456569090147</id>
+    <published>2018-04-06T12:21:11-07:00</published>
+    <updated>2018-04-06T12:21:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-tpu-sam-note-5"/>
+    <title>B BLUE TPU SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/880876177097737832_75e69a8d-ba77-4cd6-8377-ce5d9c6f9770.jpg?v=1542477038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456569090147</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456568991843</id>
+    <published>2018-04-06T12:21:11-07:00</published>
+    <updated>2018-04-06T12:21:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-tpu-sam-note-5"/>
+    <title>TEAL TPU SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/89902955431865001.jpg?v=1542477004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE TPU SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456568991843</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456568926307</id>
+    <published>2018-04-06T12:21:11-07:00</published>
+    <updated>2018-04-06T12:21:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-tpu-sam-note-5"/>
+    <title>PINK TPU SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/191155958867991930_79f182ff-0eb7-4907-a57e-639049884406.jpg?v=1542476973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE TPU SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456568926307</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456568860771</id>
+    <published>2018-04-06T12:21:11-07:00</published>
+    <updated>2018-04-06T12:21:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-tpu-sam-note-5"/>
+    <title>PURPLE TPU SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/702864048166397552_d1b8c221-6fca-413e-8e51-5947e18bbbff.jpg?v=1542476951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE TPU SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456568860771</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456568172643</id>
+    <published>2018-04-06T12:21:11-07:00</published>
+    <updated>2018-04-06T12:21:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-mqry-wlt-sam-note-5"/>
+    <title>PURPLE MQRY WLT SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purplefinal_223e638c-d8bc-4d9b-bb66-ad7d9db9c3d4.png?v=1611176660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456568172643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744613052515</id>
+    <published>2018-04-06T12:21:11-07:00</published>
+    <updated>2018-04-06T12:21:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/verus_grey_note5"/>
+    <title>GREY VERTO SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GRETTY_6f4a4020-ccac-4419-9012-14a9071ffaaa.PNG?v=1540512006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREY VERUS CASE SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744613052515</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744613019747</id>
+    <published>2018-04-06T12:21:10-07:00</published>
+    <updated>2018-04-06T12:21:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/verus_black_note5"/>
+    <title>MTLC BLUE VERTO SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/METALICBLUE_08c05c11-ea83-4607-9e42-27c2e6e99b4f.PNG?v=1540512037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NAVY BLUE VERUS CASE SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744613019747</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446209224803</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-sam-note-5"/>
+    <title>TEAL SAR SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/12.png?v=1540511606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL SAR SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446209224803</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446209028195</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-blst-dmd-sam-note-5"/>
+    <title>BLACK BLST-DMD SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/295840857268817985_f01caca7-da0d-402f-acbd-28c5ebe15075.jpg?v=1610994053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLST-DMD SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446209028195</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446208471139</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-blst-dmd-sam-note-5"/>
+    <title>GOLD BLST-DMD SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/gold_blst_ip_1024x1024_2x_7193d66c-7f85-4ce2-8427-4ee5b301719e.jpg?v=1610994069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD BLST-DMD SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446208471139</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446207651939</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-blst-dmd-sam-note-5"/>
+    <title>RED BLST-DMD SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_BLST_IP_grande_460x_d0cba8e5-708b-4d2c-b862-f667861b41d8.jpg?v=1610994091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLST-DMD SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446207651939</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446206799971</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-blst-dmd-sam-note-5"/>
+    <title>PINK BLST-DMD SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_d38646fe-971d-4dfb-8c72-894df538d982.jpg?v=1610994106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLST-DMD SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446206799971</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446205685859</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-blst-dmd-sam-note-5"/>
+    <title>PURPLE BLST-DMD SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_b2aae66f-5fd2-4adc-8bdb-69527a737eb8.jpg?v=1610994022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLST-DMD SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446205685859</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446099452003</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-mqry-wlt-sam-note-5"/>
+    <title>PINK MQRY WLT SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pinkfinal_3a877961-daba-47c3-8d0e-c85f472f7a95.png?v=1611174695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446099452003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446099419235</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-hard-glitter-sam-note-5"/>
+    <title>SILVER HARD GLITTER SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/5_af719bc8-7337-4117-8765-eb55921e37c1.jpg?v=1540486588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER HARD GLITTER SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446099419235</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446099222627</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-hard-glitter-sam-note-5"/>
+    <title>GOLD HARD GLITTER SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/2.jpg?v=1540486527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD HARD GLITTER SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446099222627</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1446099091555</id>
+    <published>2018-04-06T12:21:04-07:00</published>
+    <updated>2018-04-06T12:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-white-inci-sam-note-5"/>
+    <title>PINK HARD GLITTER SAM NOTE 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/4_207fd421-5979-4164-8316-8a5178faa76c.jpg?v=1540486483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK HARD GLITTER SAM NOTE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1446099091555</id>
+      <title>Precision Cut / SAMSUNG NOTE 5 / SAMSUNG NOTE 5</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744487321699</id>
+    <published>2018-04-06T11:28:25-07:00</published>
+    <updated>2018-04-06T11:28:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear_note5_screen_protctr"/>
+    <title>SAM NOTE 5 TEMPERED GLASS LOOSE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/41XBkc1GZEL._AC.jpg?v=1610994368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>REGULAR</s:tag>
+    <s:tag>SAMSUNG NOTE 5</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744487321699</id>
+      <title>Precision Cut / REGULAR / REGULAR</title>
+      <s:price currency="CAD">0.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

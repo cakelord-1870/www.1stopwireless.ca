@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/full-tempered-glass.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-09-08T14:01:51-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4699930329187</id>
+    <published>2020-09-08T14:01:51-07:00</published>
+    <updated>2020-09-08T14:01:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-note-20-ultra-side-glue-tempered-glass"/>
+    <title>SAMSUNG NOTE 20 ULTRA SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE_da1755d3-397c-4120-bdbd-1a84443232d7.jpg?v=1599598912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 20 ULTRA</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4699930329187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4699929935971</id>
+    <published>2020-09-08T14:01:19-07:00</published>
+    <updated>2020-09-08T14:01:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-note-20-side-glue-tempered-glass"/>
+    <title>SAMSUNG NOTE 20 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE_fd6abfdc-486d-4c2c-a46d-e461c55a2791.jpg?v=1599598880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 20</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4699929935971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4699927969891</id>
+    <published>2020-09-08T13:54:15-07:00</published>
+    <updated>2020-09-08T13:54:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s20-ultra-side-glue-tempered-glass"/>
+    <title>SAMSUNG S20 ULTRA SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MPSG0703B_540x_4e83a207-3cd4-4e73-92db-8eb825bc2df7.jpg?v=1610493589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM S20 ULTRA</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4699927969891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4699927937123</id>
+    <published>2020-09-08T13:53:58-07:00</published>
+    <updated>2020-09-08T13:53:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s20-plus-side-glue-tempered-glass"/>
+    <title>SAMSUNG S20 PLUS SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MPSG0703B_540x_3458658c-8bb4-4d04-a9f2-f3cff2b6d713.jpg?v=1610493573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM S20 PLUS</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4699927937123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4699927740515</id>
+    <published>2020-09-08T13:53:22-07:00</published>
+    <updated>2020-09-08T13:53:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s20-side-glue-tempered-glass"/>
+    <title>SAMSUNG S20 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MPSG0703B_540x_78dee43a-284c-42fa-a7f2-b17e65a8cdd1.jpg?v=1610493580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM S20</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4699927740515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555727769699</id>
+    <published>2020-09-08T10:50:53-07:00</published>
+    <updated>2020-09-08T10:50:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-huawei-mate-20-pro-black-full-tempered-glass"/>
+    <title>HUAWEI P30 PRO SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/protector_de_cristal_templado_huawei_p20_01_negro_l.jpg?v=1611096434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:tag>HUAWEI TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555727769699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583032762467</id>
+    <published>2020-09-08T10:50:53-07:00</published>
+    <updated>2020-09-08T10:50:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s10-plus-black-full-glue-tempered-glass-1"/>
+    <title>SAMSUNG S10 PLUS SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MPSG0703B_540x_3d1ccfe6-65f1-4d77-8808-9a0cc423aef1.jpg?v=1610493539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAMSUNG S10 PLUS BLACK FULL TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM S10 PLUS</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583032762467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583027781731</id>
+    <published>2020-09-08T10:50:52-07:00</published>
+    <updated>2020-09-08T10:50:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s10-black-full-glue-tempered-glass-1"/>
+    <title>SAMSUNG S10 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MPSG0703B_2dbf87fb-dc43-4cbd-b430-6d2286839545.jpg?v=1610493543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAMSUNG S10 BLACK FULL GLUE TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM S10</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583027781731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430519840867</id>
+    <published>2020-09-08T10:50:52-07:00</published>
+    <updated>2020-09-08T10:50:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-samsung-s9-plus-black-full-tempered-glass"/>
+    <title>SAMSUNG S8/S9 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture_426ff47a-4661-4aa5-8708-a870045cd215.png?v=1610473962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>samsung galaxy s9</s:tag>
+    <s:tag>samsung s8</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430519840867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4691533561955</id>
+    <published>2020-09-01T08:42:22-07:00</published>
+    <updated>2020-09-01T08:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/huawei-p40-pro-black-full-tempered-glass"/>
+    <title>HUAWEI P40 PRO SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/p40_pro_plus_glass_screen_protector_1.jpg?v=1611094190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>HUAWEI P40 PRO</s:tag>
+    <s:tag>HUAWEI TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4691533561955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583035875427</id>
+    <published>2020-08-12T14:03:30-07:00</published>
+    <updated>2020-08-12T14:03:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s10-lite-black-full-glue-tempered-glass-1"/>
+    <title>SAMSUNG S10E SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MPSG0703B_540x_1a6fa39a-8086-4a39-a1e7-a6ac1508ce03.jpg?v=1610493555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM S10 LITE</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583035875427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3976913059939</id>
+    <published>2020-05-19T14:51:55-07:00</published>
+    <updated>2020-05-19T14:51:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-note-10-pro-black-full-tempered-glass"/>
+    <title>SAMSUNG NOTE 10 PRO SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE_463dbfdc-dacd-4b22-a267-ad5184e9ef42.jpg?v=1565631311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3976913059939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3976912175203</id>
+    <published>2020-05-19T14:51:55-07:00</published>
+    <updated>2020-05-19T14:51:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-note-10-black-full-tempered-glass"/>
+    <title>SAMSUNG NOTE 10 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE_f2e7310d-89b5-459b-a419-2532f1ec674d.jpg?v=1565631281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 10</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3976912175203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430553690211</id>
+    <published>2020-05-19T14:51:53-07:00</published>
+    <updated>2020-05-19T14:51:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-samsung-s7-black-full-tempered-glass"/>
+    <title>SAMSUNG S7 EDGE SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/UV-LIGHT-LIQUID-TEMPERED-GLASS-FOR-SAMSUNG-GALAXY-S7-EDGE-3D-CURVED-CASE-_E2_80_93-FRIENDLY-CLEAR-SERIES-2.jpg?v=1611173764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430553690211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430519742563</id>
+    <published>2019-04-12T14:50:18-07:00</published>
+    <updated>2019-04-12T14:50:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-samsung-s8-plus-black-full-tempered-glass"/>
+    <title>SAMSUNG S8/S9 PLUS SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture_980a0ba1-0913-4da9-90b3-1aa523840123.png?v=1610473949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>samsung galaxy s9 plus</s:tag>
+    <s:tag>SAMSUNG S8 PLUS</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430519742563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485336174691</id>
+    <published>2019-04-12T12:26:23-07:00</published>
+    <updated>2019-04-12T12:26:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/huawei-mate-20-pro-black-full-tempered-glass"/>
+    <title>HUAWEI MATE 20 PRO SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOOGLE_082bc178-2b7c-417a-9333-d45cc8d86388.jpg?v=1555097184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>HUAWEI MATE 20 PRO</s:tag>
+    <s:tag>HUAWEI TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485336174691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495674388579</id>
+    <published>2019-02-15T08:48:02-08:00</published>
+    <updated>2019-02-15T08:48:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/google-pixel-3-black-full-tempered-glass"/>
+    <title>GOOGLE PIXEL 3 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOOGLE_bc12c67a-da41-4711-a8cb-6de48f1ae4e0.jpg?v=1550252739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495674388579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

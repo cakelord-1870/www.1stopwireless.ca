@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/ipad-mini-2-3.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-12-19T09:35:23-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430528950371</id>
+    <published>2020-12-19T09:35:23-08:00</published>
+    <updated>2020-12-19T09:35:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-ipad-air-2-tempered-glass"/>
+    <title>IPAD MINI 2/3 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPAD_TEMPERED_GLASS_64b19234-8e88-4085-966d-80573a506df2.jpg?v=1537291678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPAD MINI 2/3 TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD MINI 2/3</s:tag>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430528950371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483375214691</id>
+    <published>2018-04-09T14:10:24-07:00</published>
+    <updated>2018-04-09T14:10:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/btrfly-natr-ipad-mini-2-3"/>
+    <title>BTRFLY NATR IPAD MINI 2/3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BUTTERFLY_9f68954e-c0cc-487e-98e2-5db03134171e.jpg?v=1615325672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD MINI 2/3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483375214691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483395596387</id>
+    <published>2018-04-06T11:38:43-07:00</published>
+    <updated>2018-04-06T11:38:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-ipad-smart-case-for-ipad-mini-2-3"/>
+    <title>BROWN IPAD-SMART-CASE FOR IPAD MINI 2/3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_7ae60f89-5de3-41de-8d22-68ea71270171.jpg?v=1615315161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD MINI 2/3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483395596387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1431189028963</id>
+    <published>2018-04-06T11:38:43-07:00</published>
+    <updated>2018-04-06T11:38:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-blue-ipad-smart-case-for-ipad-mini-2-3"/>
+    <title>RED RASPBERRY IPAD-SMART-CASE FOR IPAD MINI 2/3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61_eWMpeGTL._AC_SL1500_8d2c348b-f37a-4cb3-a326-aacfb8b1554b.jpg?v=1615315225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD MINI 2/3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1431189028963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>ipad-234_pd-smrt-cs_rs-gld</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1431188865123</id>
+    <published>2018-04-06T11:38:43-07:00</published>
+    <updated>2018-04-06T11:38:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-biege-ipad-smart-case-for-ipad-mini-2-3"/>
+    <title>BLUE IPAD-SMART-CASE FOR IPAD MINI 2/3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61Aclyh1chL._AC_SL1500.jpg?v=1615315142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD MINI 2/3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1431188865123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>ipad-234_pd-smrt-cs_rs-gld</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

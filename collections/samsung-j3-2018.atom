@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-j3-2018.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-19T14:51:54-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495671701603</id>
+    <published>2020-05-19T14:51:54-07:00</published>
+    <updated>2020-05-19T14:51:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/j3-2018-tempered-glass-loose"/>
+    <title>J3 2018 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_44215815-0d51-4752-8c82-af88e227f5ad.jpg?v=1610734799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">J3 2018 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:tag>samsungj32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495671701603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157898555491</id>
+    <published>2019-10-23T08:26:59-07:00</published>
+    <updated>2019-10-23T08:26:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flower-puff-wlt-sam-j3-2018"/>
+    <title>PINK FLOWER PUFF WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_FLOWERS_0475e593-9992-4d34-b1f7-c299a758e8d5.PNG?v=1569350320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLOWER PUFF WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157898555491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157900685411</id>
+    <published>2019-10-23T08:26:30-07:00</published>
+    <updated>2019-10-23T08:26:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/peach-flower-puff-wlt-sam-j3-2018"/>
+    <title>PINK ROSE PUFF WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_ROSE_FINAL_f7d4dbf7-f831-458d-8fea-b2fb89f2e542.png?v=1572472817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK ROSE PUFF WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157900685411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157897408611</id>
+    <published>2019-10-23T08:26:30-07:00</published>
+    <updated>2019-10-23T08:26:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-flower-puff-wlt-sam-j3-2018"/>
+    <title>PEACH FLOWER PUFF WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_FLOWERS_29e8592a-7fc0-47b0-ba7b-ec3b4fe06d4a.PNG?v=1569350263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PEACH</span> FLOWER PUFF WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157897408611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157896786019</id>
+    <published>2019-10-23T08:26:30-07:00</published>
+    <updated>2019-10-23T08:26:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flower-puff-wlt-sam-j3-2018"/>
+    <title>GREY FLOWER PUFF WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_FLOWERS_9da5bf2c-1965-4c51-9e6c-a710523331da.PNG?v=1569350205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY FLOWER PUFF WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157896786019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157899440227</id>
+    <published>2019-10-23T08:25:30-07:00</published>
+    <updated>2019-10-23T08:25:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flower-puff-wlt-sam-j3-2018"/>
+    <title>BLACK ROSE PUFF WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_FLOWER_bb715fc7-3d9d-473e-aef4-86bd3f2ff7db.PNG?v=1569350359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK ROSE PUFF WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157899440227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505217273955</id>
+    <published>2019-05-04T17:33:24-07:00</published>
+    <updated>2019-05-04T17:33:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/stamp-eiffel-natr-wlt-sam-j3-2018"/>
+    <title>STAMP EIFFEL NATR WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/stamp_effiel1_f0d42ead-a738-4a4a-a31d-61eefe3cb834.jpg?v=1557421208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">STAMP EIFFEL NATR WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505217273955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505219043427</id>
+    <published>2019-05-04T17:31:42-07:00</published>
+    <updated>2019-05-04T17:31:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/la-tour-natr-wlt-sam-j3-2018"/>
+    <title>LA TOUR NATR WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/la_tour1_0c16f9fa-8a0b-4d9b-a54d-a0db40c78f82.jpg?v=1557421010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LA TOUR NATR WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505219043427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482047619171</id>
+    <published>2019-05-04T15:39:17-07:00</published>
+    <updated>2019-05-04T15:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-detach-wlt-sam-j3-2018"/>
+    <title>BLACK DETACH WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_f2684f02-e7db-466d-a99b-11a5b991515d.png?v=1582917059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK DETACH WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482047619171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555182149731</id>
+    <published>2019-05-03T14:03:04-07:00</published>
+    <updated>2019-05-03T14:03:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/beige-plaid-wlt-sam-j3-2018"/>
+    <title>BEIGE PLAID WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/beige_plaid_04beba24-902f-4cf0-8daf-8c861627f8ca.jpg?v=1574120520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BEIGE PLAID WLT SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555182149731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555180707939</id>
+    <published>2019-05-03T14:00:47-07:00</published>
+    <updated>2019-05-03T14:00:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-checker-wlt-sam-j3-2018"/>
+    <title>BROWN CHECKER WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/brown_plaid_5d17616f-c644-45dd-9b75-0ff962be0def.jpg?v=1574120994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN CHECKER WLT SAM J3 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555180707939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489195556963</id>
+    <published>2019-04-22T12:56:26-07:00</published>
+    <updated>2019-04-22T12:56:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-j3-2018"/>
+    <title>PURPLE BLUEVISION WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_fa04d710-8ee4-45ef-976a-2457506bc193.png?v=1609369098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT SAM J3 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489195556963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489194770531</id>
+    <published>2019-04-22T12:56:25-07:00</published>
+    <updated>2019-04-22T12:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-j3-2018"/>
+    <title>TEAL BLUEVISION WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_40bd30b6-fc5d-4fea-ae11-7673dbde9d55.png?v=1609789450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT SAM J3 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489194770531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489193951331</id>
+    <published>2019-04-22T12:56:25-07:00</published>
+    <updated>2019-04-22T12:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-sam-j3-2018"/>
+    <title>BROWN BLUEVISION WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_3dcd0930-72a0-4fe7-b9f8-9ccf86c6c8dd.png?v=1609368631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT SAM J3 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489193951331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489192640611</id>
+    <published>2019-04-22T12:56:25-07:00</published>
+    <updated>2019-04-22T12:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-sam-j3-2018"/>
+    <title>RED BLUEVISION WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_b3977d1c-86bd-403b-b556-55c2f6bdbdbe.png?v=1609369554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT SAM J3 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489192640611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489190674531</id>
+    <published>2019-04-22T12:56:25-07:00</published>
+    <updated>2019-04-22T12:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-j3-2018"/>
+    <title>PINK BLUEVISION WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_3189c973-8379-424c-919d-ffecb8605375.png?v=1609368886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT SAM J3 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489190674531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489186349155</id>
+    <published>2019-04-22T12:56:24-07:00</published>
+    <updated>2019-04-22T12:56:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-j3-2018"/>
+    <title>R GOLD BLUEVISION WLT SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_e1483c26-ae38-4712-9a1f-007977f98619.png?v=1609368341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT SAM J3 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489186349155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573729206371</id>
+    <published>2019-04-15T08:32:14-07:00</published>
+    <updated>2019-04-15T08:32:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-c-hybrid-sam-j3-2018"/>
+    <title>TEAL C-HYBRID SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_caselogy_j3_2018.jpg?v=1555348290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL C-HYBRID SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573729206371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442387132515</id>
+    <published>2019-04-15T08:25:36-07:00</published>
+    <updated>2019-04-15T08:25:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-c-hybrid-for-iphone-xr-6-1"/>
+    <title>BLACK C-HYBRID SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1_62de78c6-76f3-4bf8-a04f-a899f966b6e6.jpg?v=1539626796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK C-HYBRID SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442387132515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579133632611</id>
+    <published>2019-04-12T14:57:32-07:00</published>
+    <updated>2019-04-12T14:57:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-sam-j3-2018"/>
+    <title>CLEAR TPU SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/10251ab-1527784721_1.jpg?v=1554388074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR TPU SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579133632611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573841666147</id>
+    <published>2019-04-12T13:33:27-07:00</published>
+    <updated>2019-04-12T13:33:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-hard-gltr-sam-j3-2018"/>
+    <title>PURPLE HARD GLTR SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_97d670be-963d-4f0e-832f-93dbab8f2bbc.jpg?v=1610736381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE HARD GLTR SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573841666147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482053451875</id>
+    <published>2019-04-12T13:33:27-07:00</published>
+    <updated>2019-04-12T13:33:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-hard-gltr-sam-j3-2018"/>
+    <title>GOLD HARD GLTR SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/gold_c95b2203-2b71-44cb-a8ae-6695151b597e.jpg?v=1610736246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GOLD HARD GLTR SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482053451875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482053222499</id>
+    <published>2019-04-12T13:33:26-07:00</published>
+    <updated>2019-04-12T13:33:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-hard-gltr-sam-j3-2018"/>
+    <title>SILVER HARD GLTR SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/silver_8f492cd2-262f-4257-a256-825de5080d49.jpg?v=1610736350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SILVER HARD GLTR SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482053222499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482052960355</id>
+    <published>2019-04-12T13:33:26-07:00</published>
+    <updated>2019-04-12T13:33:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-hard-gltr-sam-j3-2018"/>
+    <title>PINK HARD GLTR SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_939309ae-e6ff-42b2-b893-1279edfabe65.jpg?v=1610736255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK HARD GLTR SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482052960355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1582831730787</id>
+    <published>2019-04-12T13:21:18-07:00</published>
+    <updated>2019-04-12T13:21:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-def-sam-j3-2018"/>
+    <title>TEAL DEF SAM J3 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51b42ac1ae72f0b69fc69a228611119.jpg?v=1560792534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL DEF SAM J3 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNGJ32018</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1582831730787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

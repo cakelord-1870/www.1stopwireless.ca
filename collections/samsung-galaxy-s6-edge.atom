@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-s6-edge.atom"/>
+  <title>1StopWireless</title>
+  <updated>2018-04-09T14:11:02-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744480833635</id>
+    <published>2018-04-09T14:11:02-07:00</published>
+    <updated>2018-04-09T14:11:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/slmarmr_sams6eg_grey"/>
+    <title>BLACK SAR SAM S6 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9300_grande_grande_1024x1024_2x_460x_a31e2158-2924-44e9-b2d6-58b0a8817974.jpg?v=1610567696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREY SAM S6 EDGE SLIM RUGGED CASE (MATTE)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744480833635</id>
+      <title>Precision Cut / SAMSUNG S6 EDGE / SAMSUNG S6 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744480538723</id>
+    <published>2018-04-06T11:25:46-07:00</published>
+    <updated>2018-04-06T11:25:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/verus_black_sams6edge"/>
+    <title>BLACK VERTO SAM S6 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/blkujhfy_b06eac09-2a12-4f23-92f0-947ffc8d1638.PNG?v=1542133390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK VERTO CASE SAM S6 EDGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744480538723</id>
+      <title>Precision Cut / SAMSUNG S6 EDGE / SAMSUNG S6 EDGE</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744478998627</id>
+    <published>2018-04-06T11:25:10-07:00</published>
+    <updated>2018-04-06T11:25:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6edge_tpu_matteblk"/>
+    <title>BLACK TPU SAM S6 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s6_blackmtte_tpu_900x_a5cdce5b-dec5-4958-a2c4-6876df1d4b12.jpg?v=1610567941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MATTE BLACK TPU SAM S6 EDGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744478998627</id>
+      <title>Precision Cut / SAMSUNG S6 EDGE / SAMSUNG S6 EDGE</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744478965859</id>
+    <published>2018-04-06T11:25:09-07:00</published>
+    <updated>2018-04-06T11:25:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6edge_tpu_clear"/>
+    <title>CLEAR TPU SAM S6 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_TPU_SAM_S8_720x_c06ba905-57f6-4d7e-9251-4262b2e6207d.jpg?v=1610568031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR/TRANSPARENT  TPU SAM S6 EDGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744478965859</id>
+      <title>Precision Cut / SAMSUNG S6 EDGE / SAMSUNG S6 EDGE</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

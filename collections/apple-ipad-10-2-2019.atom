@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/apple-ipad-10-2-2019.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T15:41:52-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4337629233251</id>
+    <published>2021-07-23T15:41:52-07:00</published>
+    <updated>2021-07-23T15:41:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipad-10-2-2019-tempered-glass"/>
+    <title>IPAD 10.2 2019 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPAD_TEMPERED_GLASS_2f977744-ce06-4eec-a72b-14428db73521.jpg?v=1572561731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPAD 10.2 (2019) TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4337629233251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6722270396608</id>
+    <published>2021-06-19T16:16:48-07:00</published>
+    <updated>2021-06-19T16:16:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-handheld-survivour-ipad-10-2"/>
+    <title>NAVY HANDHELD SURVIVOR IPAD 10.2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/c535181f0e0b96a87dbd8fd5399cb76.jpg?v=1623967256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6722270396608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6722270232768</id>
+    <published>2021-06-19T16:16:47-07:00</published>
+    <updated>2021-06-19T16:16:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-handheld-survivour-ipad-10-2"/>
+    <title>R GOLD HANDHELD SURVIVOR IPAD 10.2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/H81817de2a0084c13a8e09c0c2bdc6b0bo.jpg?v=1623967261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6722270232768</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6722266628288</id>
+    <published>2021-06-19T16:16:47-07:00</published>
+    <updated>2021-06-19T16:16:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-handheld-survivour-ipad-10-2"/>
+    <title>RED HANDHELD SURVIVOR IPAD 10.2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/H85ebf2f7d40b449f8fe13a5d61ac954aZ.jpg?v=1623967267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6722266628288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6722265514176</id>
+    <published>2021-06-19T16:16:46-07:00</published>
+    <updated>2021-06-19T16:16:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-handheld-survivour-ipad-10-2"/>
+    <title>BLACK HANDHELD SURVIVOR IPAD 10.2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/H0acedcf848184c278624dd3c26e71c6d4.jpg?v=1623967257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6722265514176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4337609637987</id>
+    <published>2021-03-08T12:57:15-08:00</published>
+    <updated>2021-03-08T12:57:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-ipad-10-2-2019-360-rotatable-case"/>
+    <title>GREEN IPAD 10.2 (2019) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_1e904660-58cb-4b9b-b4a1-aa41d54a97ca.jpg?v=1615236536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4337609637987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4337602592867</id>
+    <published>2021-03-08T12:52:19-08:00</published>
+    <updated>2021-03-08T12:52:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/baby-blue-ipad-10-2-2019-360-rotatable-case"/>
+    <title>B BLUE IPAD 10.2 (2019) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BBLUE.jpg?v=1615236524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4337602592867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4337614749795</id>
+    <published>2019-10-31T15:32:29-07:00</published>
+    <updated>2019-10-31T15:32:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-ipad-10-2-2019-360-rotatable-case"/>
+    <title>PINK IPAD 10.2 (2019) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_99162444-9760-41eb-8014-5ed2496046b3.jpg?v=1615236689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD 10.2 (2019)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4337614749795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/iphone-5c.atom"/>
+  <title>1StopWireless</title>
+  <updated>2018-04-06T12:10:46-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744588509283</id>
+    <published>2018-04-06T12:10:46-07:00</published>
+    <updated>2018-04-06T12:10:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/phonecase_ip5c_purp"/>
+    <title>PURPLE DEF IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/198858215519817346_a94138ab-7f94-4a32-8e66-4ff4db279ca2.jpg?v=1610133400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE DEF IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:tag>PHONE CASE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744588509283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744588476515</id>
+    <published>2018-04-06T12:10:45-07:00</published>
+    <updated>2018-04-06T12:10:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/phonecase_ip5c_pink"/>
+    <title>PINK DEF IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_7_720x_a4bdcaf7-f9bd-447b-b961-70af88a589a8.jpg?v=1610133349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK DEF IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PHONE CASE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744588476515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744565768291</id>
+    <published>2018-04-06T12:00:57-07:00</published>
+    <updated>2018-04-06T12:00:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip5c_blkmatte_tpu"/>
+    <title>MATTE BLACK CANDY IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/335232102441208668_db203fdd-a43b-4afb-a1b9-4a51994ce350.jpg?v=1610133252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MATTE BLACK CANDY IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744565768291</id>
+      <title>Precision Cut / IPHONE 5C / IPHONE 5C</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ip5c_blkmatte_tpu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522830213219</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-blst-iphone-5c"/>
+    <title>PINK BLST IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINKBALLASTIC_9dffbdf5-3caa-4fae-aa34-381d9b687727.jpg?v=1610742435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLST IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522830213219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522827886691</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-blst-iphone-5c"/>
+    <title>GREEN BLST IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_360x_3f5ae26e-9f74-4c11-96ef-dcc5ee3f6cca.jpg?v=1610133011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREEN BLST IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522827886691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522821988451</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-blst-dmd-iphone-5c"/>
+    <title>PURPLE BLST-DMD IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_grande_993414bb-1407-470b-8786-9885da4de825.jpg?v=1551566421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLST-DMD IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522821988451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522821431395</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-blst-dmd-iphone-5c"/>
+    <title>BLACK BLST-DMD IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_BLST_IP_grande_1ff21079-b54c-4f9e-a5ca-b29c757161fb.jpg?v=1551566359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLST-DMD IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522821431395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522820808803</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-blst-dmd-iphone-5c"/>
+    <title>RED BLST-DMD IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_BLST_IP_grande_444fd15d-8d54-4c8b-af65-75f89a3cf8d1.jpg?v=1551566487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLST-DMD IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522820808803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522819563619</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/baby-blue-blst-dmd-iphone-5c"/>
+    <title>BABY BLUE BLST-DMD IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9444_grande_7766a1b1-bae8-4607-9366-d8cfead21d9b.jpg?v=1551566321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BABY BLUE BLST-DMD IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522819563619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522801442915</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/b-blue-mqry-wlt-iphone-5c"/>
+    <title>B BLUE MQRY WLT IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/babyblue_ce790e92-f98c-4c14-a34d-bca68f9a8a16.png?v=1611173327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522801442915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522799280227</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-mqry-wlt-iphone-5c"/>
+    <title>PURPLE MQRY WLT IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purplefinal_4b808724-31aa-41d9-9972-bafdc2e2ef97.png?v=1611177030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE MQRY WLT IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522799280227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522795905123</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-mqry-wlt-iphone-5c"/>
+    <title>TEAL MQRY WLT IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tealfinal_31949da4-656c-493d-99cf-cad8071ef406.png?v=1611176138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522795905123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522793250915</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-mqry-wlt-iphone-5c"/>
+    <title>RED MQRY WLT IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/redfinal2_20453d6f-cc59-4ef8-96ed-ae937d098b7c.png?v=1611175582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522793250915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1522789351523</id>
+    <published>2018-04-06T12:00:23-07:00</published>
+    <updated>2018-04-06T12:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/butrfly-eiffel-natr-wlt-iphone-5c"/>
+    <title>BUTRFLY EIFFEL NATR WLT IPHONE 5C</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_EFFIEL_grande_38483655-48b5-4f8f-addc-96b02516bc8c.jpg?v=1610131913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BUTRFLY EIFFEL NATR WLT IPHONE 5C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5C</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1522789351523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

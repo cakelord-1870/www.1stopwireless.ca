@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/iphone-12-pro-max-6-7.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-08-16T12:45:23-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4716847136867</id>
+    <published>2021-08-16T12:45:23-07:00</published>
+    <updated>2021-08-16T12:45:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-hard-gltr-ip-12-pro-max-6-7"/>
+    <title>BLACK HARD GLTR IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK1_4b6e7dfa-1ece-4472-8950-5bfea524fd4d.jpg?v=1609282089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4716847136867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834795413696</id>
+    <published>2021-08-14T14:03:03-07:00</published>
+    <updated>2021-08-14T14:03:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-lthr-tpu-12-pro-max-6-7"/>
+    <title>RED LTHR TPU 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834795413696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834795937984</id>
+    <published>2021-08-14T14:02:37-07:00</published>
+    <updated>2021-08-14T14:02:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-lthr-tpu-12-pro-max-6-7"/>
+    <title>R GOLD LTHR TPU 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834795937984</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834795806912</id>
+    <published>2021-08-14T14:02:37-07:00</published>
+    <updated>2021-08-14T14:02:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-lthr-tpu-12-pro-max-6-7"/>
+    <title>PURPLE LTHR TPU 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834795806912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834795675840</id>
+    <published>2021-08-14T14:02:36-07:00</published>
+    <updated>2021-08-14T14:02:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-lthr-tpu-12-pro-max-6-7"/>
+    <title>NAVY LTHR TPU 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834795675840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834795577536</id>
+    <published>2021-08-14T14:02:36-07:00</published>
+    <updated>2021-08-14T14:02:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-lthr-tpu-12-pro-max-6-7"/>
+    <title>BROWN LTHR TPU 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834795577536</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834795217088</id>
+    <published>2021-08-14T14:02:35-07:00</published>
+    <updated>2021-08-14T14:02:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-lthr-tpu-12-pro-max-6-7"/>
+    <title>PINK LTHR TPU 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834795217088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6834794889408</id>
+    <published>2021-08-14T13:38:22-07:00</published>
+    <updated>2021-08-14T13:38:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-lthr-tpu-12-pro-max-6-7"/>
+    <title>BLACK LTHR TPU 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6834794889408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109888708800</id>
+    <published>2021-08-05T07:46:46-07:00</published>
+    <updated>2021-08-05T07:46:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/beige-soft-feeling-ip-12-pro-max-6-7"/>
+    <title>BEIGE SOFT FEELING IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BEIGE_14a40b24-a740-400c-b024-d5b4c0800e03.jpg?v=1610661370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109888708800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4704313966691</id>
+    <published>2021-07-23T15:39:38-07:00</published>
+    <updated>2021-07-23T15:39:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/camera-tempered-lens-iphone-12-pro-max"/>
+    <title>CAMERA TEMPERED LENS IPHONE 12 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture2_b990a163-51e5-47ff-909f-af7ce7437446.png?v=1603574646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camera lens</s:tag>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4704313966691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6118360744128</id>
+    <published>2021-07-23T15:38:06-07:00</published>
+    <updated>2021-07-23T15:38:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/magsafe-clear-case-iphone-12-pro-max"/>
+    <title>MAGSAFE CLEAR CASE IPHONE 12 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_3926.jpg?v=1608333387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6118360744128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732484083904</id>
+    <published>2021-07-23T15:33:52-07:00</published>
+    <updated>2021-07-23T15:33:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-detach-wlt-ip-12-pro-max-6-7"/>
+    <title>PURPLE DETACH WLT IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_d3c5a8be-2324-4b8d-a2e1-1424d1ff439b.jpg?v=1624312931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732484083904</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732483395776</id>
+    <published>2021-07-23T15:33:52-07:00</published>
+    <updated>2021-07-23T15:33:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-detach-wlt-ip-12-pro-max-6-7"/>
+    <title>RED DETACH WLT IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_bcb592ec-d393-4713-9b97-2a5284da37b6.jpg?v=1624312939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732483395776</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732483199168</id>
+    <published>2021-07-23T15:33:51-07:00</published>
+    <updated>2021-07-23T15:33:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-detach-wlt-ip-12-pro-max-6-7"/>
+    <title>R GOLD DETACH WLT IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD.jpg?v=1624312934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732483199168</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732485918912</id>
+    <published>2021-07-23T15:31:35-07:00</published>
+    <updated>2021-07-23T15:31:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-detach-wlt-ip-12-pro-max-6-7"/>
+    <title>PINK DETACH WLT IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_d110f3da-61d5-40cc-8198-77e1467d5ece.jpg?v=1624312927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732485918912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732484444352</id>
+    <published>2021-07-23T15:31:34-07:00</published>
+    <updated>2021-07-23T15:31:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-detach-wlt-ip-12-pro-max-6-7"/>
+    <title>NAVY DETACH WLT IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVYBLUE_02566f96-eb31-4319-9195-26aed0f5455b.jpg?v=1624312923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732484444352</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732483625152</id>
+    <published>2021-07-23T15:30:30-07:00</published>
+    <updated>2021-07-23T15:30:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-detach-wlt-ip-12-pro-max-6-7"/>
+    <title>BROWN DETACH WLT IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_93e122c5-9c60-4e6a-97c4-06e491a87368.jpg?v=1624312920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732483625152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6732482609344</id>
+    <published>2021-07-23T15:30:29-07:00</published>
+    <updated>2021-07-23T15:30:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-detach-wlt-ip-12-pro-max-6-7"/>
+    <title>BLACK DETACH WLT IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_b5e09310-bec9-43c5-a64b-186534e987b1.jpg?v=1624312916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6732482609344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/5963900158144</id>
+    <published>2021-06-19T16:02:30-07:00</published>
+    <updated>2021-06-19T16:02:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-silicon-blister-ip-12-pro-max-6-7"/>
+    <title>NAVY SILICON BLISTER IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_7a67c2d8-7a74-4349-b2ec-42c857ecd0a8.png?v=1612905204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/5963900158144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/5963897077952</id>
+    <published>2021-06-19T16:02:30-07:00</published>
+    <updated>2021-06-19T16:02:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-silicon-blister-ip-12-pro-max-6-7"/>
+    <title>BLACK SILICON BLISTER IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_dc104ab3-b538-4c83-bc56-88f7182df6f9.png?v=1612905173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/5963897077952</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6088885993664</id>
+    <published>2021-06-19T15:59:59-07:00</published>
+    <updated>2021-06-19T15:59:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rugged-sym-pink-ip-12-pro-max-6-7"/>
+    <title>RUGGED SYM PINK IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_b3aad610-0b1b-4149-b32d-d35fffbf66e8.jpg?v=1606502531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6088885993664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6088885141696</id>
+    <published>2021-06-19T15:59:59-07:00</published>
+    <updated>2021-06-19T15:59:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rugged-sym-white-ip-12-pro-max-6-7"/>
+    <title>RUGGED SYM WHITE IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WHITE_e2942f83-d7ca-4c96-9cf6-bd75dd9fba69.jpg?v=1606502487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6088885141696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4716844482659</id>
+    <published>2021-06-19T15:55:40-07:00</published>
+    <updated>2021-06-19T15:55:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bling-case-ip-12-pro-max-6-7"/>
+    <title>BLACK BLING CASE IP 12 Pro Max (6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/iPhone12ProBlack1_5a2a757d-8735-42af-9a68-28973a6e3ae5.jpg?v=1624396877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:tag>New Arrival</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4716844482659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583066054755</id>
+    <published>2021-06-19T15:54:44-07:00</published>
+    <updated>2021-06-19T15:54:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/def-clip-ip6"/>
+    <title>DEFEND CLIP IP 12 PRO MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/otter_clip_1024x1024_2x_7933a25d-fd0a-4682-9be4-137e04457863.jpg?v=1555100751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583066054755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6096717119680</id>
+    <published>2021-06-19T15:47:53-07:00</published>
+    <updated>2021-06-19T15:47:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-ylow-rose-ip-12-pro-max6-7"/>
+    <title>CLR 2PC YELLOW ROSE IP 12 PRO MAX(6.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/yellowrose_a7cbd813-c60c-4636-a65d-da9aba4cb3d3.png?v=1624308847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iphone 12 Pro Max (6.7)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6096717119680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

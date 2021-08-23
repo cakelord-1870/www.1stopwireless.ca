@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/apple-iphone-5-5s.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T15:36:57-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489226588259</id>
+    <published>2021-07-23T15:36:57-07:00</published>
+    <updated>2021-07-23T15:36:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-ip5"/>
+    <title>BLACK BLUEVISION WLT IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_a2a001ca-53e3-49d0-b584-9fdbfa1f0518.png?v=1609367801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT IP5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489226588259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430550937699</id>
+    <published>2021-01-27T15:34:27-08:00</published>
+    <updated>2021-01-27T15:34:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-iphone-6-7-8-plus-tempered-glass-loose"/>
+    <title>IPHONE 5/5S/SE TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ip5.jpg?v=1609887407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430550937699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1454612217955</id>
+    <published>2020-05-28T13:16:24-07:00</published>
+    <updated>2020-05-28T13:16:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hot-pink-def-ip-5"/>
+    <title>PINK DEF IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_7_19b02465-1be8-42b4-9399-f633222e4449.JPG?v=1542045955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOT PINK OTTER STYLE CASE FOR APPLE IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1454612217955</id>
+      <title>Precision Cut / IPHONE 6/6S / IPHONE 6/6S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1454611955811</id>
+    <published>2020-05-28T13:12:09-07:00</published>
+    <updated>2020-05-28T13:12:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-def-ip-5"/>
+    <title>PURPLE DEF IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/397931283052537808_91c10b0f-d1d5-4e1b-ae36-dd7deb60e1ec.jpg?v=1542045924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE OTTER STYLE CASE FOR APPLE IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1454611955811</id>
+      <title>Precision Cut / IPHONE 6/6S / IPHONE 6/6S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351538888803</id>
+    <published>2020-01-09T13:21:31-08:00</published>
+    <updated>2020-01-09T13:21:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-zipper-wlt-ip5"/>
+    <title>R GOLD 9 CARD ZIPPER  WLT IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1212.png?v=1609023402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351538888803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746732814435</id>
+    <published>2018-09-27T18:28:53-07:00</published>
+    <updated>2018-09-27T18:28:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blstdiam_ip5_white"/>
+    <title>PURPLE BLST-DMD IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_ff02a775-07e5-43ca-a583-aea15d6148c8.jpg?v=1544212753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BALLISTIC DIAMOND IPHONE 5/5S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746732814435</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430551593059</id>
+    <published>2018-09-18T08:37:16-07:00</published>
+    <updated>2018-09-18T08:37:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-ipod-touch-5-6-tempered-glass-loose"/>
+    <title>IPHONE 5/5S ANTI-UV TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/antiuv.jpg?v=1609887622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430551593059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744600928355</id>
+    <published>2018-04-09T14:09:17-07:00</published>
+    <updated>2018-04-09T14:09:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blstdiam_ip5_h-pink"/>
+    <title>PINK BLST-DMD IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_242cfcb7-3689-4845-a512-8c4d430bee1f.jpg?v=1544212596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOT PINK BALLISTIC DIAMOND IPHONE 5/5S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744600928355</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608301155</id>
+    <published>2018-04-09T14:09:09-07:00</published>
+    <updated>2018-04-09T14:09:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltdiamdstrp_ip5_pink2ton"/>
+    <title>PINK DIAMD STRIP WLT IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINKK_e728e598-b3e5-48af-a35e-a30a194bb1fd.jpg?v=1610131923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK 2 TONE IPHONE 5 DIAMOND STRIP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608301155</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608268387</id>
+    <published>2018-04-09T14:09:09-07:00</published>
+    <updated>2018-04-09T14:09:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltdiamdstrp_ip5_grey2ton"/>
+    <title>GREY  DIAMD STRIP WLT IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_678eb377-7af0-4999-b9dc-a1da35f279be.jpg?v=1610131918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREY 2 TONE IPHONE 5 DIAMOND STRIP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608268387</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608235619</id>
+    <published>2018-04-09T14:09:09-07:00</published>
+    <updated>2018-04-09T14:09:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltdiamdstrp_ip5_silver2ton"/>
+    <title>SLVR DIAMD STRIP WLT IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SILVER_f87a08c9-39b7-4c41-8088-492e54b3a52f.jpg?v=1610131947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER 2 TONE IPHONE 5 DIAMOND STRIP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608235619</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608202851</id>
+    <published>2018-04-09T14:09:09-07:00</published>
+    <updated>2018-04-09T14:09:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltdiamdstrp_ip5_brwn2ton"/>
+    <title>BRWN DIAMD STRIP WLT IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_c49ec9fc-1116-42a9-8a63-3fb5bcbca828.jpg?v=1610131905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN 2 TONE IPHONE 5 DIAMOND STRIP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608202851</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608333923</id>
+    <published>2018-04-09T14:09:08-07:00</published>
+    <updated>2018-04-09T14:09:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltdiamdstrp_ip5_beige2ton"/>
+    <title>BEIGE DIAMD STRIP WLT IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BEIGE.jpg?v=1610131899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BEIGE 2 TONE IPHONE 5 DIAMOND STRIP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608333923</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744611446883</id>
+    <published>2018-04-06T12:20:24-07:00</published>
+    <updated>2018-04-06T12:20:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip5_rmy_tp"/>
+    <title>ARMY TPU IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ARMY.jpg?v=1610132198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TPU ARMY FOR IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744611446883</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433836814435</id>
+    <published>2018-04-06T12:20:21-07:00</published>
+    <updated>2018-04-06T12:20:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hot-pink-leather-feel-tpu-iphone-5"/>
+    <title>PINK LTHR FEEL TPU IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9183_1024x1024_2x_155da6df-4419-441d-b7a2-0edf5890b1b5.jpg?v=1549322828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOT PINK LEATHER FEEL TPU IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433836814435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433836421219</id>
+    <published>2018-04-06T12:20:21-07:00</published>
+    <updated>2018-04-06T12:20:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-tpu-iphone-5"/>
+    <title>BROWN LTHR FEEL TPU IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9187_1024x1024_2x_156b2dbd-4f6c-4f96-925a-72d732bb6b54.jpg?v=1610132211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN LEATHER FEEL TPU IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433836421219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433669992547</id>
+    <published>2018-04-06T12:20:21-07:00</published>
+    <updated>2018-04-06T12:20:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hot-pink-tpu-iphone-5"/>
+    <title>PINK TPU IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/373561734368482994_grande_d432334a-301d-4734-a3c4-6b64a38a50ac.jpg?v=1550013757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOT PINK TPU IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433669992547</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433669730403</id>
+    <published>2018-04-06T12:20:21-07:00</published>
+    <updated>2018-04-06T12:20:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-iphone-5"/>
+    <title>CLEAR TPU IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IQD-For-Apple-iPhone-x-6-6s-7-8-Plus-Case-Clear-TPU-Cover-Slim-Crystal_1024x1024_2x_1024x1024_2x_1024x1024_2x_10cba7ca-b427-40db-903a-cccdb11921ce.jpg?v=1561739345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MATTE BLACK TPU IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433669730403</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744611283043</id>
+    <published>2018-04-06T12:20:21-07:00</published>
+    <updated>2018-04-06T12:20:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip5_tpu_matteblack"/>
+    <title>BLACK TPU IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/335232102441208668_e2b678f6-42f4-4ba4-968e-3e1f8a4d1d20.jpg?v=1610132202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MATTE BLACK TPU IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744611283043</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744611151971</id>
+    <published>2018-04-06T12:20:17-07:00</published>
+    <updated>2018-04-06T12:20:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip5_waterglitter_pink"/>
+    <title>PINK WATER GLTR IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9424_360x_d89f97e0-427c-4ec7-9ded-7ea4008ccb77.jpg?v=1550600866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOT PINK WATER GLITTER APPLE IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744611151971</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744610496611</id>
+    <published>2018-04-06T12:20:02-07:00</published>
+    <updated>2018-04-06T12:20:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip5_shinywalletgusbry_pink"/>
+    <title>PINK SHINY WLT IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_1f8155c6-3bb8-4e94-9994-793a755a50e1.jpg?v=1610131689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SHINY WALLET FOR APPLE IPHONE 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744610496611</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744610398307</id>
+    <published>2018-04-06T12:20:00-07:00</published>
+    <updated>2018-04-06T12:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip5_wuw_wallet_gold"/>
+    <title>PINK WUW WLT IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINKWUW_59ed2635-55eb-464b-8e6a-3b75159653de.jpg?v=1610667775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK WUW WLT IP5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744610398307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608858211</id>
+    <published>2018-04-06T12:19:19-07:00</published>
+    <updated>2018-04-06T12:19:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wlt_metalflap_ip5_rgold"/>
+    <title>R GOLD METAL FLAP WLT IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_8982e633-fe8f-498c-a044-25990146a01f.jpg?v=1610131694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD IPHONE 5 METAL FLAP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608858211</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608825443</id>
+    <published>2018-04-06T12:19:19-07:00</published>
+    <updated>2018-04-06T12:19:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wlt_metalflap_ip5_gold"/>
+    <title>GOLD METAL FLAP WLT IP5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_03d5a06b-14a1-4708-b2dd-0e9bfaacd949.jpg?v=1610131684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD IPHONE 5 GMETAL FLAP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608825443</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744608661603</id>
+    <published>2018-04-06T12:19:14-07:00</published>
+    <updated>2018-04-06T12:19:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltjeans_ip5_green"/>
+    <title>GREEN JEANS WLT IP 5</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_2c115c1a-179a-4956-9a8f-411e01d49355.png?v=1609277769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREEN IPHONE 5 JEANS FABRIC WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 5/5S</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744608661603</id>
+      <title>Precision Cut / IPHONE 5/5S / IPHONE 5/5S</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

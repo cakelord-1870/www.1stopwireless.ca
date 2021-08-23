@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-j3-prime.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-19T14:51:54-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430561259619</id>
+    <published>2020-05-19T14:51:54-07:00</published>
+    <updated>2020-05-19T14:51:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-note-2-tempered-glass-loose"/>
+    <title>J3 PRIME (2017) TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_704eb11a-46a1-4ee9-b844-8eb5b61a3169.jpg?v=1610734793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">J3 PRIME (2017) TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430561259619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489270005859</id>
+    <published>2019-04-22T13:26:56-07:00</published>
+    <updated>2019-04-22T13:26:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-sam-j3-prime"/>
+    <title>BROWN BLUEVISION WLT SAM J3 PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_41ef6ef0-c0b2-40cf-94d7-4959df3f780f.png?v=1609368634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT SAM J3 PRIME</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489270005859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489269645411</id>
+    <published>2019-04-22T13:26:56-07:00</published>
+    <updated>2019-04-22T13:26:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-j3-prime"/>
+    <title>TEAL BLUEVISION WLT SAM J3 PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_91fe9c6c-9d58-4640-97f0-5ef05e1f84c4.png?v=1609789510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT SAM J3 PRIME</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489269645411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489165967459</id>
+    <published>2019-04-22T12:54:20-07:00</published>
+    <updated>2019-04-22T12:54:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-sam-j3-prime"/>
+    <title>BLACK BLUEVISION WLT SAM J3 PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_b21be565-3a83-4754-aad9-c7de51e171fa.png?v=1609367961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT SAM J3 PRIME</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489165967459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489167900771</id>
+    <published>2019-04-22T12:51:43-07:00</published>
+    <updated>2019-04-22T12:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-j3-prime"/>
+    <title>PINK BLUEVISION WLT SAM J3 PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_cb892b2f-9a4b-4469-9012-e3c8134c521c.png?v=1609368885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT SAM J3 PRIME</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489167900771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573725044835</id>
+    <published>2019-04-15T08:31:41-07:00</published>
+    <updated>2019-04-15T08:31:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-c-hybrid-sam-j3-prime-2017"/>
+    <title>PURPLE C-HYBRID SAM J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3_468ea27a-0187-42ca-a3cc-17078f07eccd.jpg?v=1554242768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE C-HYBRID SAM J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573725044835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573722587235</id>
+    <published>2019-04-15T08:31:40-07:00</published>
+    <updated>2019-04-15T08:31:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-c-hybrid-sam-j3-prime-2017"/>
+    <title>PINK C-HYBRID SAM J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/5_be073b26-5ff7-44a6-be12-5ef1ac024404.jpg?v=1554242701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK C-HYBRID SAM J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573722587235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583164457059</id>
+    <published>2019-04-12T12:59:53-07:00</published>
+    <updated>2019-04-12T12:59:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-sam-j3-prime-2017"/>
+    <title>PINK SAR SAM J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_sar.png?v=1560965124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR SAM J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583164457059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429704409187</id>
+    <published>2019-04-12T12:59:53-07:00</published>
+    <updated>2019-04-12T12:59:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-teel-slim-armour-case-for-samsung-galaxy-j3-prime-2017"/>
+    <title>PURPLE SAR SAM J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple.png?v=1560965339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SLIM RUGGED FOR SAMSUNG J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429704409187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482034118755</id>
+    <published>2018-04-09T14:30:09-07:00</published>
+    <updated>2018-04-09T14:30:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-j3-prime-2017"/>
+    <title>CLEAR TPU J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/clerar_tpu.JPG?v=1560964831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR TPU J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482034118755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429707260003</id>
+    <published>2018-04-09T14:30:09-07:00</published>
+    <updated>2018-04-09T14:30:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-hard-rugged-caseology-for-samsung-galaxy-j3-prime-2017"/>
+    <title>RED C-HYBRID SAM J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/7_4f11b05f-54e2-4af2-924b-84f2af063fd7.jpg?v=1537393621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED C-HYBRID SAM J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429707260003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429706899555</id>
+    <published>2018-04-09T14:30:09-07:00</published>
+    <updated>2018-04-09T14:30:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-navy-blue-hard-rugged-caseology-for-samsung-galaxy-j3-prime-2017"/>
+    <title>R GOLD C-HYBRID SAM J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/8_b169d7a2-d761-4d56-8d14-32d7cd3b86f6.jpg?v=1537393753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD HARD RUGGED CASEOLOGY FOR SAMSUNG GALAXY J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429706899555</id>
+      <title>Precision Cut / SAMSUNG J3 PRIME / SAMSUNG J3 PRIME</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429703884899</id>
+    <published>2018-04-09T14:30:09-07:00</published>
+    <updated>2018-04-09T14:30:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-teel-slim-armour-case-for-samsung-galaxy-j3"/>
+    <title>R GOLD SAR SAM J3 PRIME (2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/11_08f2e86a-4bae-4459-832c-257b3660214c.jpg?v=1537808078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD SLIM RUGGED FOR GALAXY J3 PRIME (2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J3 PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429703884899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

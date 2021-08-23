@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/sam-tab-s6lite-p610.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-06-19T16:18:19-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6722258108608</id>
+    <published>2021-06-19T16:18:19-07:00</published>
+    <updated>2021-06-19T16:18:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-handheld-survivour-sam-tab-s6-lite-p610"/>
+    <title>R GOLD HANDHELD SURVIVOR SAM TAB S6 LITE / P610</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/f841ca6cdb537b1f36f2b53bd5d2033_e328090f-58ec-4241-ac07-b41135934560.jpg?v=1623969435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6722258108608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6722257092800</id>
+    <published>2021-06-19T16:18:19-07:00</published>
+    <updated>2021-06-19T16:18:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-handheld-survivour-sam-tab-s6-lite-p610"/>
+    <title>BLACK HANDHELD SURVIVOR SAM TAB S6 LITE / P610</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51a4a1cd5ca34392497519fe40c9eca_71487d7b-2435-46fd-8ebb-ef374d1f9e09.jpg?v=1623969429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6722257092800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667459698787</id>
+    <published>2021-03-08T14:59:42-08:00</published>
+    <updated>2021-03-08T14:59:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sam-tab-s6-lite-p610-case"/>
+    <title>R GOLD SAM TAB S6 LITE P610 360 ROTATING CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_2771aa66-1dee-4360-b556-f50766856459.jpg?v=1615244332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667459698787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667448852579</id>
+    <published>2021-03-08T14:59:42-08:00</published>
+    <updated>2021-03-08T14:59:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-sam-tab-s6-lite-p610-case"/>
+    <title>NAVY SAM TAB S6 LITE P610 360 ROTATING CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61bUucUoXYL._AC_SL1200.jpg?v=1615244308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667448852579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667448655971</id>
+    <published>2021-03-08T14:59:42-08:00</published>
+    <updated>2021-03-08T14:59:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sam-tab-s6-lite-p610-case"/>
+    <title>RED SAM TAB S6 LITE P610 360 ROTATING CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71f53sAbmdL._AC_SL1200__1.jpg?v=1615244336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667448655971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667447771235</id>
+    <published>2021-03-08T14:59:41-08:00</published>
+    <updated>2021-03-08T14:59:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-sam-tab-s6-lite-8-4-p610-case"/>
+    <title>BLACK SAM TAB S6 LITE P610 360 ROTATING CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61eVg5LK-cL._AC_SL1000.jpg?v=1615244291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667447771235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667457699939</id>
+    <published>2020-08-29T12:05:45-07:00</published>
+    <updated>2020-08-29T12:05:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sam-tab-s6-lite-p610-case-1"/>
+    <title>PURPLE SAM TAB S6 LITE P610 360 ROTATING  CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61IdJQdXQEL._AC_SL1200.jpg?v=1615244322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667457699939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667457470563</id>
+    <published>2020-08-29T12:05:45-07:00</published>
+    <updated>2020-08-29T12:05:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-sam-tab-s6-lite-p610-case"/>
+    <title>GREEN SAM TAB S6 LITE P610 360 ROTATING CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71u5M9R3BuL._AC_SL1457.jpg?v=1615244299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667457470563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667448721507</id>
+    <published>2020-08-29T12:05:44-07:00</published>
+    <updated>2020-08-29T12:05:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/b-blue-sam-tab-s6-lite-p610-case"/>
+    <title>B BLUE SAM TAB S6 LITE P610 360 ROTATING CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71-NE0bdiGL._AC_SL1454.jpg?v=1615244278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667448721507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667448590435</id>
+    <published>2020-08-29T12:05:44-07:00</published>
+    <updated>2020-08-29T12:05:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sam-tab-s6-lite-p610-case"/>
+    <title>PINK SAM TAB S6 LITE P610 360 ROTATING CASE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINKDDD.jpg?v=1615244315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667448590435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4681384591459</id>
+    <published>2020-08-15T12:24:13-07:00</published>
+    <updated>2020-08-15T12:24:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s6-lite-p610-tempered-glass"/>
+    <title>SAMSUNG S6 LITE / P610 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SAM_TABLET_1024x1024_2x_2872598a-5f17-4c14-bcc7-cb5323472901.jpg?v=1597519480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>SAM TAB S6 LITE (P610)</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4681384591459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

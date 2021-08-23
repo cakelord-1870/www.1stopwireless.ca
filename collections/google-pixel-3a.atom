@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/google-pixel-3a.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-02-18T14:15:10-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926619029603</id>
+    <published>2021-02-18T14:15:10-08:00</published>
+    <updated>2021-02-18T14:15:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-pixel-3a"/>
+    <title>BLACK BLUEVISION WLT PIXEL 3A</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_a254b1fa-b487-4671-ad87-e28432ec3cf9.png?v=1609367977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL 3A</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926619029603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4657778032739</id>
+    <published>2020-07-14T15:36:19-07:00</published>
+    <updated>2020-07-14T15:36:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pixel-3a-tpu-screen-protector"/>
+    <title>PIXEL 3A TPU SCREEN PROTECTOR</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TPU_d8c4ac2d-9963-406d-a262-d66c4ede42bd.jpg?v=1594766180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL 3A</s:tag>
+    <s:tag>TPU SCREEN PROTECTOR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4657778032739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926621618275</id>
+    <published>2019-10-29T14:15:14-07:00</published>
+    <updated>2019-10-29T14:15:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-pixel-3a"/>
+    <title>PURPLE BLUEVISION WLT PIXEL 3A</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_acc4a386-b4e1-4e43-ba18-046478711c9f.png?v=1609369117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT PIXEL 3A</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL 3A</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926621618275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926619947107</id>
+    <published>2019-10-29T14:15:14-07:00</published>
+    <updated>2019-10-29T14:15:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-pixel-3a"/>
+    <title>PINK BLUEVISION WLT PIXEL 3A</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_4994d916-8708-42e8-98d6-ec168d548f70.png?v=1609368904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT PIXEL 3A</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL 3A</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926619947107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926622437475</id>
+    <published>2019-07-08T11:15:57-07:00</published>
+    <updated>2019-07-08T11:15:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-pixel-3a"/>
+    <title>BROWN BLUEVISION WLT PIXEL 3A</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_8b88e186-9251-44f3-b22f-d5c697910894.png?v=1609368564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT PIXEL 3A</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL 3A</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926622437475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926620635235</id>
+    <published>2019-07-08T11:14:35-07:00</published>
+    <updated>2019-07-08T11:14:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-pixel-3a"/>
+    <title>TEAL BLUEVISION WLT PIXEL 3A</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_9cead265-582a-4e7e-91df-da8ede144296.png?v=1609789262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT PIXEL 3A</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL 3A</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926620635235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

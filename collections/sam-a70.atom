@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/sam-a70.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T15:33:47-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167469564003</id>
+    <published>2021-07-23T15:33:47-07:00</published>
+    <updated>2021-07-23T15:33:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-deatch-wlt-sam-a70"/>
+    <title>R GOLD DETACH WLT SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSE_GOLD_04e82d67-fdb9-48f9-b6fd-296635aa58f5.png?v=1582920852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD DEATCH WLT SAM A70</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167469564003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4444704014435</id>
+    <published>2020-09-29T14:13:00-07:00</published>
+    <updated>2020-09-29T14:13:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/a20s-tempered-glass-loose"/>
+    <title>A70/A20S TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51Py2IffeIL._AC_SL1000.jpg?v=1610646356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A20S</s:tag>
+    <s:tag>SAM A70</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4444704014435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926606479459</id>
+    <published>2020-02-01T15:47:40-08:00</published>
+    <updated>2020-02-01T15:47:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-a70"/>
+    <title>R GOLD BLUEVISION WLT SAM A70</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_04383afc-ff56-410f-b7b9-bd32079df943.png?v=1609368360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT SAM A70</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926606479459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926605594723</id>
+    <published>2020-02-01T15:47:40-08:00</published>
+    <updated>2020-02-01T15:47:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-sam-a70"/>
+    <title>BLACK BLUEVISION WLT SAM A70</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_bfc3afe5-90dd-4b9e-9bab-5e2c92bbb0f7.png?v=1609367976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT SAM A70</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926605594723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364186648675</id>
+    <published>2019-11-23T15:37:02-08:00</published>
+    <updated>2019-11-23T15:37:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-felling-tpu-sam-a70"/>
+    <title>TEAL LIKE SOFT FEELING TPU SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_f5713a9e-dfed-4d94-8344-4af884b76901.png?v=1610657793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364186648675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364187074659</id>
+    <published>2019-11-23T15:36:09-08:00</published>
+    <updated>2019-11-23T15:36:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-felling-tpu-sam-a70-1"/>
+    <title>RED LIKE SOFT FEELING TPU SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_dabc59c8-bca2-43eb-9a50-c30246d9c022.png?v=1610657787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364187074659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364186681443</id>
+    <published>2019-11-23T15:36:09-08:00</published>
+    <updated>2019-11-23T15:36:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-felling-tpu-sam-a70"/>
+    <title>PURPLE LIKE SOFT FEELING TPU SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_362339d6-33b5-458b-bf29-24321ea46010.png?v=1610657777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364186681443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364186452067</id>
+    <published>2019-11-23T15:36:09-08:00</published>
+    <updated>2019-11-23T15:36:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-like-soft-felling-tpu-sam-a70"/>
+    <title>PINK LIKE SOFT FEELING TPU SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_54a3701f-35ab-4b76-9805-9e1f199fcc82.png?v=1610657771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364186452067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4032559579235</id>
+    <published>2019-10-23T08:26:27-07:00</published>
+    <updated>2019-10-23T08:26:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/peach-flower-puff-wlt-sam-a70"/>
+    <title>PINK ROSE PUFF WLT SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_ROSE_FINAL_615d0539-f530-4129-8ff1-810ae8b626e4.png?v=1572472418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK ROSE PUFF WLT SAM A70</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4032559579235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4032557744227</id>
+    <published>2019-10-23T08:25:28-07:00</published>
+    <updated>2019-10-23T08:25:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flower-puff-wlt-sam-a70"/>
+    <title>BLACK ROSE PUFF WLT SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_FLOWER_8c4a5676-824a-461d-853a-0e9b4ca228e3.PNG?v=1568739569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK ROSE PUFF WLT SAM A70</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4032557744227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167487619171</id>
+    <published>2019-10-12T11:05:58-07:00</published>
+    <updated>2019-10-12T11:05:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-detach-wlt-sam-a70"/>
+    <title>RED DETACH WLT SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_c5939b83-bc82-4be1-9a05-5ff5b6500dfa.png?v=1582921039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED DETACH WLT SAM A70</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167487619171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167470579811</id>
+    <published>2019-10-12T11:05:57-07:00</published>
+    <updated>2019-10-12T11:05:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-deatch-wlt-sam-a70"/>
+    <title>PINK DETACH WLT SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_588502ef-e588-4d50-9f2a-08c85c53627f.png?v=1582920615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK DEATCH WLT SAM A70</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167470579811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926610903139</id>
+    <published>2019-08-12T10:42:22-07:00</published>
+    <updated>2019-08-12T10:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-a70"/>
+    <title>PURPLE BLUEVISION WLT SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_80532d67-123f-4bc2-9b62-74cc8900820e.png?v=1609369116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT SAM A70</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926610903139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926609002595</id>
+    <published>2019-08-12T10:42:21-07:00</published>
+    <updated>2019-08-12T10:42:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-a70"/>
+    <title>TEAL BLUEVISION WLT SAM A70</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_b1222481-9728-49ac-8ecf-dfe8af3eb75e.png?v=1609789408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT SAM A70</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926609002595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926607855715</id>
+    <published>2019-08-12T10:42:21-07:00</published>
+    <updated>2019-08-12T10:42:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-sam-a70"/>
+    <title>RED BLUEVISION WLT SAM A70</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_2febb573-4db7-4771-a65c-d295b3692762.png?v=1609369572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT SAM A70</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926607855715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926607429731</id>
+    <published>2019-08-12T10:42:21-07:00</published>
+    <updated>2019-08-12T10:42:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-a70"/>
+    <title>PINK BLUEVISION WLT SAM A70</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_08de7cb5-fecd-4459-a6dd-8d5016e2c11a.png?v=1609368903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT SAM A70</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A70</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926607429731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

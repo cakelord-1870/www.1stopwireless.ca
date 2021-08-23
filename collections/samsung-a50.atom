@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-a50.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T15:41:52-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3603999752291</id>
+    <published>2021-07-23T15:41:52-07:00</published>
+    <updated>2021-07-23T15:41:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/a30-tempered-glass-loose"/>
+    <title>A20/A30/A50 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/51Py2IffeIL._AC_SL1000_dfb2f803-24d3-4e97-b7cf-565fb5b84632.jpg?v=1610648728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A30 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A20/A30</s:tag>
+    <s:tag>SAM A50</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3603999752291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157868343395</id>
+    <published>2020-05-29T17:00:28-07:00</published>
+    <updated>2020-05-29T17:00:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flower-puff-wlt-sam-a50"/>
+    <title>GREY FLOWER PUFF WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_FLOWERS_c530838e-c0b8-44df-896e-00ff4f5d44e6.PNG?v=1569348759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY FLOWER PUFF WLT SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157868343395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387667771491</id>
+    <published>2020-05-29T16:04:15-07:00</published>
+    <updated>2020-05-29T16:04:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-defend-airbag-sam-a20-a30-a50"/>
+    <title>TEAL DEFEND SAM A20/A30/A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1036.png?v=1590796047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A20/A30</s:tag>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387667771491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387667017827</id>
+    <published>2020-05-29T16:04:15-07:00</published>
+    <updated>2020-05-29T16:04:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-defend-airbag-sam-a20-a30-a50"/>
+    <title>PURPLE DEFEND SAM A20/A30/A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1035.png?v=1590795912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A20/A30</s:tag>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387667017827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3601781719139</id>
+    <published>2020-02-01T15:54:46-08:00</published>
+    <updated>2020-02-01T15:54:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-a50"/>
+    <title>PURPLE BLUEVISION WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_d1ac669f-a02b-4afa-852d-88d5ac04f0ff.png?v=1609369115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT SAM A50</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3601781719139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926581051491</id>
+    <published>2020-02-01T15:47:39-08:00</published>
+    <updated>2020-02-01T15:47:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-a50"/>
+    <title>TEAL BLUEVISION WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_b65e8e91-4815-4a4e-b75c-9297f8c512bf.png?v=1609789393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT SAM A50</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926581051491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3601780375651</id>
+    <published>2020-02-01T15:47:39-08:00</published>
+    <updated>2020-02-01T15:47:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-a50"/>
+    <title>R GOLD BLUEVISION WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_d1efe007-317e-483b-9946-e21bb7c7997f.png?v=1609368358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT SAM A50</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3601780375651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4329114271843</id>
+    <published>2019-12-20T16:34:04-08:00</published>
+    <updated>2019-12-20T16:34:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sar-sam-a50"/>
+    <title>PURPLE SAR SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A50-_I-08_4ad9df81-4797-4070-bf4c-4039e73e0d57.jpg?v=1572452436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SAR SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4329114271843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351454773347</id>
+    <published>2019-11-23T13:09:42-08:00</published>
+    <updated>2019-11-23T13:09:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-maple-mirror-wlt-sam-a50-1"/>
+    <title>GREEN MAPLE MIRROR WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154809_4cea32e5-724c-4687-973b-fad456b98202.png?v=1609615541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREEN MAPLE MIRROR WLT SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351454773347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351448580195</id>
+    <published>2019-11-23T13:09:41-08:00</published>
+    <updated>2019-11-23T13:09:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-maple-mirror-wlt-sam-a50"/>
+    <title>RED MAPLE MIRROR WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154756_15e31f34-f487-458d-bb5c-4761d88eef82.png?v=1609615383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED MAPLE MIRROR WLT SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351448580195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387658072163</id>
+    <published>2019-11-22T17:05:03-08:00</published>
+    <updated>2019-11-22T17:05:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-like-soft-feeling-tpu-sam-a50"/>
+    <title>R GOLD LIKE SOFT FEELING TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_d369c4e0-69d8-4034-8600-8b1b19f4eea8.png?v=1610657727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387658072163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387657351267</id>
+    <published>2019-11-22T17:05:03-08:00</published>
+    <updated>2019-11-22T17:05:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-feeling-tpu-sam-a50"/>
+    <title>TEAL LIKE SOFT FEELING TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_95d217c1-cbdd-41fc-a615-3c1cea1fddb2.png?v=1610657739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387657351267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387656761443</id>
+    <published>2019-11-22T17:05:03-08:00</published>
+    <updated>2019-11-22T17:05:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-feeling-tpu-sam-a50"/>
+    <title>RED LIKE SOFT FEELING TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_a21b5e36-bb1c-460d-bb76-d539a22c5903.png?v=1610657731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387656761443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387657842787</id>
+    <published>2019-11-22T16:59:25-08:00</published>
+    <updated>2019-11-22T16:59:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-like-soft-feeling-tpu-sam-a50"/>
+    <title>PINK LIKE SOFT FEELING TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_6fcf1396-3561-4d89-96d7-8952303cf204.png?v=1610657717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387657842787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387657646179</id>
+    <published>2019-11-22T16:59:25-08:00</published>
+    <updated>2019-11-22T16:59:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-feeling-tpu-sam-a50"/>
+    <title>PURPLE LIKE SOFT FEELING TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_f0b47180-01a0-40da-817a-20857c2588d0.png?v=1610657724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387657646179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387671179363</id>
+    <published>2019-11-22T16:57:25-08:00</published>
+    <updated>2019-11-22T16:57:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hot-pink-defend-airbag-sam-a20-a30-a50"/>
+    <title>PINK DEFEND SAM A20/A30/A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WechatIMG1034.png?v=1590795765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A20/A30</s:tag>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387671179363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387658268771</id>
+    <published>2019-11-22T16:52:15-08:00</published>
+    <updated>2019-11-22T16:52:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-like-soft-feeling-tpu-sam-a50"/>
+    <title>N BLUE LIKE SOFT FEELING TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_98c42af1-7e74-47f0-b818-75de4ef418a9.png?v=1610657713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387658268771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4387656171619</id>
+    <published>2019-11-22T16:52:14-08:00</published>
+    <updated>2019-11-22T16:52:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-like-soft-feeling-tpu-sam-a50"/>
+    <title>BLACK LIKE SOFT FEELING TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_d4216676-d9db-476e-b276-733e9e0e56b3.png?v=1610657698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4387656171619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3934175789155</id>
+    <published>2019-10-30T10:32:35-07:00</published>
+    <updated>2019-10-30T10:32:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-hard-gltr-sam-a50"/>
+    <title>RED HARD GLTR SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_c0eae307-b631-48a2-9015-965a360b31a9.png?v=1610656872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED HARD GLTR SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3934175789155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3934169825379</id>
+    <published>2019-10-30T10:32:34-07:00</published>
+    <updated>2019-10-30T10:32:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-hard-gltr-sam-a50"/>
+    <title>BLACK HARD GLTR SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_977375e2-d547-42b0-ac62-5b098da5eb33.png?v=1610656859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK HARD GLTR SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3934169825379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331428053091</id>
+    <published>2019-10-30T08:34:11-07:00</published>
+    <updated>2019-10-30T08:34:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-thick-cornr-tpu-sam-a50"/>
+    <title>CLEAR THICK CORNR TPU SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/44d3ea020c1892d33ea63c90368c1ba4.jpg?v=1572449701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR THICK CORNR TPU SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331428053091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157869817955</id>
+    <published>2019-10-23T08:26:56-07:00</published>
+    <updated>2019-10-23T08:26:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flower-puff-wlt-sam-a50"/>
+    <title>PINK FLOWER PUFF WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_FLOWERS_ea0c6889-51d1-4833-89cb-b14bc4344ef8.PNG?v=1569348819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLOWER PUFF WLT SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157869817955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167502856291</id>
+    <published>2019-10-12T11:06:10-07:00</published>
+    <updated>2019-10-12T11:06:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-detach-wlt-sam-a50"/>
+    <title>GREY DETACH WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_32118ec7-b01e-47f1-be39-12ea539454d0.png?v=1582917634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY DETACH WLT SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167502856291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167502004323</id>
+    <published>2019-10-12T11:06:10-07:00</published>
+    <updated>2019-10-12T11:06:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-detach-wlt-sam-a50"/>
+    <title>RED DETACH WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_9d0f533b-6f57-4cab-9f85-0aa061085aa4.png?v=1582921034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED DETACH WLT SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167502004323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167501348963</id>
+    <published>2019-10-12T11:06:09-07:00</published>
+    <updated>2019-10-12T11:06:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-detach-wlt-sam-a50"/>
+    <title>BROWN DETACH WLT SAM A50</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_5fe892c3-d2ca-47f6-8a21-97cd38de11a1.png?v=1582917273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BROWN DETACH WLT SAM A50</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A50</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167501348963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

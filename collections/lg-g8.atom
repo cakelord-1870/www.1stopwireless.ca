@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-g8.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-08-12T09:57:14-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491301720163</id>
+    <published>2019-08-12T09:57:14-07:00</published>
+    <updated>2019-08-12T09:57:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-lg-g8"/>
+    <title>BLACK SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_9362380c-b32b-472f-925e-0d23945e6e6f.JPG?v=1560628739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491301720163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485356359779</id>
+    <published>2019-07-31T14:02:54-07:00</published>
+    <updated>2019-07-31T14:02:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-g8-tempered-glass-loose"/>
+    <title>LG G8 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_94499917-16eb-4b20-a66d-0f0ed2af6a27.jpg?v=1611004791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G8 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485356359779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769811043</id>
+    <published>2019-05-04T16:47:57-07:00</published>
+    <updated>2019-05-04T16:47:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-extra-flap-wlt-lg-g8"/>
+    <title>TEAL EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RTEAL_7fcbfa99-03b2-417d-a029-25adaa98e3e9.png?v=1610406734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769811043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769745507</id>
+    <published>2019-05-04T16:47:45-07:00</published>
+    <updated>2019-05-04T16:47:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-extra-flap-wlt-lg-g8"/>
+    <title>RED EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RRED_a5fad931-e43a-42eb-8ceb-7581869c1f12.png?v=1610406453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769745507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769712739</id>
+    <published>2019-05-04T16:47:34-07:00</published>
+    <updated>2019-05-04T16:47:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-extra-flap-wlt-lg-g8"/>
+    <title>R GOLD EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSEGOLD_7868cca4-fc6b-457c-8571-7befbc528272.png?v=1610406672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769712739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769679971</id>
+    <published>2019-05-04T16:47:22-07:00</published>
+    <updated>2019-05-04T16:47:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-extra-flap-wlt-lg-g8"/>
+    <title>PURPLE EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RPURPLE_ebd61951-aa05-4ebc-beb1-eaf88ea6d840.png?v=1610406208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769679971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769647203</id>
+    <published>2019-05-04T16:47:08-07:00</published>
+    <updated>2019-05-04T16:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-extra-flap-wlt-lg-g8"/>
+    <title>PINK EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RPINK_cac5b30f-675b-4356-8717-fe6c7eeb03a2.png?v=1610406039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769647203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769614435</id>
+    <published>2019-05-04T16:46:56-07:00</published>
+    <updated>2019-05-04T16:46:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-extra-flap-wlt-lg-g8"/>
+    <title>N BLUE EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RNAVY_51398294-0f96-405b-b46c-152dd497ff6e.png?v=1610405392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>N BLUE EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769614435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769581667</id>
+    <published>2019-05-04T16:46:43-07:00</published>
+    <updated>2019-05-04T16:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-extra-flap-wlt-lg-g8"/>
+    <title>GOLD EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_f117b0ab-cf61-4e7d-a64c-3cb1813dd520.png?v=1610405344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769581667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769516131</id>
+    <published>2019-05-04T16:46:33-07:00</published>
+    <updated>2019-05-04T16:46:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-extra-flap-wlt-lg-g8"/>
+    <title>BROWN EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RBROWN_6ecdfc26-eed2-4dc3-9466-3e2f8a95011f.png?v=1610405229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769516131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555769417827</id>
+    <published>2019-05-04T16:46:01-07:00</published>
+    <updated>2019-05-04T16:46:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-extra-flap-wlt-lg-g8"/>
+    <title>BLACK EXTRA FLAP WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RBLK_ac8709b9-730b-44f1-a531-2121abb3e014.png?v=1610405181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK EXTRA FLAP WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555769417827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491303948387</id>
+    <published>2019-04-29T15:39:30-07:00</published>
+    <updated>2019-04-29T15:39:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-lg-g8"/>
+    <title>TEAL SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_d5d78c7c-686d-48f7-8e1a-d85f37bbc0db.png?v=1560967825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491303948387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510695723107</id>
+    <published>2019-04-29T15:38:39-07:00</published>
+    <updated>2019-04-29T15:38:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-lg-g8"/>
+    <title>TEAL BLUEVISION WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_697629f1-0876-4b10-be0e-2525a2e843ba.png?v=1609369200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510695723107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491303620707</id>
+    <published>2019-04-29T15:32:46-07:00</published>
+    <updated>2019-04-29T15:32:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sar-lg-g8"/>
+    <title>RED SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_sar.png?v=1560967847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491303620707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510696181859</id>
+    <published>2019-04-29T15:28:38-07:00</published>
+    <updated>2019-04-29T15:28:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-lg-g8"/>
+    <title>RED BLUEVISION WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_1369c0eb-797f-4325-b552-e355f1e91d33.png?v=1609369468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510696181859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491303161955</id>
+    <published>2019-04-29T15:27:04-07:00</published>
+    <updated>2019-04-29T15:27:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sar-lg-g8"/>
+    <title>R GOLD SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rose_gold_0ea8ec5f-21a8-4941-be39-782f1e65cd6b.JPG?v=1560628784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491303161955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510697295971</id>
+    <published>2019-04-29T15:25:19-07:00</published>
+    <updated>2019-04-29T15:25:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-lg-g8"/>
+    <title>R GOLD BLUEVISION WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_7fb36a0a-dba6-477c-9ac4-85de2321750e.png?v=1609368257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510697295971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491304112227</id>
+    <published>2019-04-29T15:22:55-07:00</published>
+    <updated>2019-04-29T15:22:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sar-lg-g8"/>
+    <title>PURPLE SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_2af3cb9b-88ff-441f-a2fe-187d57bc8e80.JPG?v=1560628774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491304112227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491303489635</id>
+    <published>2019-04-29T15:22:55-07:00</published>
+    <updated>2019-04-29T15:22:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-lg-g8"/>
+    <title>PINK SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_5285118b-571e-4a3c-a17d-0c7201f511d4.png?v=1560967809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491303489635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510697459811</id>
+    <published>2019-04-29T15:21:36-07:00</published>
+    <updated>2019-04-29T15:21:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-lg-g8"/>
+    <title>PURPLE BLUEVISION WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_3b7c4c55-568c-43be-bfd8-381a38ac44ab.png?v=1609369020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510697459811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510696018019</id>
+    <published>2019-04-29T15:01:56-07:00</published>
+    <updated>2019-04-29T15:01:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-lg-g8"/>
+    <title>PINK BLUEVISION WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_50e8529e-b175-4b04-b8e5-5acfd4db962b.png?v=1609368803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510696018019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491303817315</id>
+    <published>2019-04-29T15:01:54-07:00</published>
+    <updated>2019-04-29T15:01:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sar-lg-g8"/>
+    <title>N BLUE SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_27535007-eca7-4338-810f-9f71ec0362c6.png?v=1611078627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491303817315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491303751779</id>
+    <published>2019-04-29T15:00:12-07:00</published>
+    <updated>2019-04-29T15:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-sar-lg-g8"/>
+    <title>GREY SAR LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grey_d4021915-b09f-47ac-9afb-8acc88713391.JPG?v=1560628754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SAR LG G8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491303751779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510697132131</id>
+    <published>2019-04-29T14:51:53-07:00</published>
+    <updated>2019-04-29T14:51:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-lg-g8"/>
+    <title>BROWN BLUEVISION WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_83346870-33d7-490b-81b3-5542f4136f3f.png?v=1609368553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510697132131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510696935523</id>
+    <published>2019-04-29T14:37:49-07:00</published>
+    <updated>2019-04-29T14:37:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-lg-g8"/>
+    <title>BLACK BLUEVISION WLT LG G8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_135f953e-9394-4967-8d6f-df148f87dd61.png?v=1609367807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT LG G8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510696935523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

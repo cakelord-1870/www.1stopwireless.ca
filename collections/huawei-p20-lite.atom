@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/huawei-p20-lite.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-06-20T15:30:22-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1508443062371</id>
+    <published>2019-06-20T15:30:22-07:00</published>
+    <updated>2019-06-20T15:30:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-verto-p20-lite"/>
+    <title>MTLC BLUE VERTO P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/blueverto_c7f9649a-bcc0-4d09-a832-0c23404379bc.jpg?v=1611097742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MTLC BLUE VERTO P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1508443062371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441335771235</id>
+    <published>2019-06-20T15:30:21-07:00</published>
+    <updated>2019-06-20T15:30:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-slim-verto-p20-lite"/>
+    <title>GREY VERTO P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREYVERTO_ef3e716e-9bd2-4584-862e-316d879921a6.jpg?v=1611097735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SLIM VERTO P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441335771235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441335640163</id>
+    <published>2019-06-20T15:30:21-07:00</published>
+    <updated>2019-06-20T15:30:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-slim-verto-p20-lite"/>
+    <title>RED SLIM VERTO P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/REDVERTO.jpg?v=1611097881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SLIM VERTO P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441335640163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441335476323</id>
+    <published>2019-06-20T15:30:21-07:00</published>
+    <updated>2019-06-20T15:30:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-slim-verto-p20-lite"/>
+    <title>PURPLE VERTO P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLEVERTO_0e8e3eb4-1b9a-4260-b8be-cd1eeabd6d32.jpg?v=1611097754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SLIM VERTO P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441335476323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441335312483</id>
+    <published>2019-06-20T15:30:20-07:00</published>
+    <updated>2019-06-20T15:30:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hot-pink-slim-verto-p20-lite"/>
+    <title>PINK VERTO P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/baby_pink_460x_1_7db568a2-8a10-4d5d-9593-3b2760f5773d.jpg?v=1611097748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">HOT PINK SLIM VERTO P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441335312483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489037418595</id>
+    <published>2019-04-15T11:21:22-07:00</published>
+    <updated>2019-04-15T11:21:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-p20-lite"/>
+    <title>PURPLE BLUEVISION WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_cfe0a0e8-0af0-4675-8a62-71b0210f3813.png?v=1609369095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT P20 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489037418595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489036828771</id>
+    <published>2019-04-15T11:20:54-07:00</published>
+    <updated>2019-04-15T11:20:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-p20-lite"/>
+    <title>TEAL BLUEVISION WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_8fea8c01-51b7-4bfc-8a04-874f929a15ea.png?v=1609369189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT P20 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489036828771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489034305635</id>
+    <published>2019-04-15T11:19:51-07:00</published>
+    <updated>2019-04-15T11:19:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-p20-lite"/>
+    <title>BROWN BLUEVISION WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_25c96cdc-1f25-4af2-8bd7-87029dbb4f34.png?v=1609368538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT P20 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489034305635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489033781347</id>
+    <published>2019-04-15T11:19:11-07:00</published>
+    <updated>2019-04-15T11:19:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-p20-lite"/>
+    <title>PINK BLUEVISION WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_31d7f315-ada8-46ef-92ef-03a2a0d23626.png?v=1609368883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT P20 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489033781347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489031290979</id>
+    <published>2019-04-15T11:18:00-07:00</published>
+    <updated>2019-04-15T11:18:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-p20-lite"/>
+    <title>R GOLD BLUEVISION WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_c250cd7e-ed57-4274-8e60-adbe8b375c68.png?v=1609368337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT P20 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489031290979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489030209635</id>
+    <published>2019-04-15T11:17:24-07:00</published>
+    <updated>2019-04-15T11:17:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-p20-lite"/>
+    <title>RED BLUEVISION WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_c643c701-8857-4560-a928-ce528c18c696.png?v=1609369455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT P20 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489030209635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489029652579</id>
+    <published>2019-04-15T11:16:47-07:00</published>
+    <updated>2019-04-15T11:16:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-p20-lite"/>
+    <title>BLACK BLUEVISION WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_5607d529-9dcb-4523-b0ac-ed37537c8954.png?v=1609367959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT P20 LITE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489029652579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1440788054115</id>
+    <published>2019-04-12T15:16:58-07:00</published>
+    <updated>2019-04-12T15:16:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-p20-lite"/>
+    <title>BLACK TPU P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/P20_LITE_BLACK_TPU.jpg?v=1611097978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK TPU P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1440788054115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485654581347</id>
+    <published>2019-04-12T14:35:22-07:00</published>
+    <updated>2019-04-12T14:35:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/huawei-p20-lite-tempered-glass-packed"/>
+    <title>HUAWEI P20 LITE TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_daea9560-aa3f-4cce-b27e-175add1fe6d7.jpeg?v=1558995089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">HUAWEI P20 LITE TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:tag>HUAWEI TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485654581347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579117314147</id>
+    <published>2019-04-12T14:04:48-07:00</published>
+    <updated>2019-04-12T14:04:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-hard-gltr-p20-lite"/>
+    <title>PURPLE HARD GLTR P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_193fc680-859b-43b2-947b-54f57292cdfe.png?v=1611097603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE HARD GLTR P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579117314147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579116494947</id>
+    <published>2019-04-12T14:04:48-07:00</published>
+    <updated>2019-04-12T14:04:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-hard-gltr-p20-lite"/>
+    <title>GOLD HARD GLTR P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_2f04ca73-24c4-4ccd-aaaf-f08b819de39e.png?v=1611097586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GOLD HARD GLTR P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579116494947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579115642979</id>
+    <published>2019-04-12T14:04:47-07:00</published>
+    <updated>2019-04-12T14:04:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-hard-gltr-p20-lite"/>
+    <title>SILVER HARD GLTR P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SILVER_aff37da7-d5ab-42b9-99fc-c8abcdcd4e97.png?v=1611097606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SILVER HARD GLTR P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579115642979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579114070115</id>
+    <published>2019-04-12T14:04:47-07:00</published>
+    <updated>2019-04-12T14:04:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-hard-gltr-p20-lite"/>
+    <title>PINK HARD GLTR P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_621f268a-e8e5-49ff-b5ac-d822bbe45e66.png?v=1611097593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK HARD GLTR P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579114070115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481582280803</id>
+    <published>2019-01-30T15:04:28-08:00</published>
+    <updated>2019-01-30T15:04:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/prpl-flwr-uv-design-wlt-p20-lite"/>
+    <title>PRPL FLWR UV DESIGN WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/prplflower_1d32f6b9-18c0-4798-b131-47e16da93430.jpg?v=1612998496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481582280803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481581953123</id>
+    <published>2019-01-30T15:04:28-08:00</published>
+    <updated>2019-01-30T15:04:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flwr-uv-design-wlt-p20-lite"/>
+    <title>PINK FLWR UV DESIGN WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9167_360x_7461f209-f65f-4978-8941-e075154a98a4.jpg?v=1611097915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLWR UV DESIGN WLT P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481581953123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481581756515</id>
+    <published>2019-01-30T15:04:28-08:00</published>
+    <updated>2019-01-30T15:04:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-marble-uv-design-wlt-p20-lite"/>
+    <title>GREEN MARBLE UV DESIGN WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9163_1024x1024_2x_bb7a91e0-b670-4d84-9962-375dde4855b1.jpg?v=1611097913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREEN MARBLE UV DESIGN WLT P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481581756515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481581199459</id>
+    <published>2019-01-30T15:04:28-08:00</published>
+    <updated>2019-01-30T15:04:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/feather-uv-design-wlt-p20-lite"/>
+    <title>FEATHER UV DESIGN WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9165_360x_4ab37791-6ea5-49cb-828a-00f18ae16d96.jpg?v=1611097910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FEATHER UV DESIGN WLT P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481581199459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481580970083</id>
+    <published>2019-01-30T15:04:28-08:00</published>
+    <updated>2019-01-30T15:04:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/cycle-uv-design-wlt-p20-lite"/>
+    <title>CYCLE UV DESIGN WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capturereal_6f644762-22bb-4eaa-be0d-91fe2ca33732.jpg?v=1612997275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481580970083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481580413027</id>
+    <published>2019-01-30T15:04:28-08:00</published>
+    <updated>2019-01-30T15:04:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flwr-uv-design-wlt-p20-lite"/>
+    <title>BLACK FLWR UV DESIGN WLT P20 LITE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9166_1024x1024_2x_84f16c78-6b5e-456c-a2ad-bd6b40fb1ef8.jpg?v=1611097904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK FLWR UV DESIGN WLT P20 LITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481580413027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430757146723</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/huawei-p20-lite-tempered-glass-loose"/>
+    <title>HUAWEI P20 LITE TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/46576489_1024x1024_2x_900x_22c6b3dc-d74c-40ee-b32f-54228cf57271.jpg?v=1611097673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">HUAWEI P20 LITE TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P20 LITE</s:tag>
+    <s:tag>HUAWEI TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430757146723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

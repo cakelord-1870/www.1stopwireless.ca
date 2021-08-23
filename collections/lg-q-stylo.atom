@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-q-stylo.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-04-29T15:39:30-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433062998115</id>
+    <published>2019-04-29T15:39:30-07:00</published>
+    <updated>2019-04-29T15:39:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-rose-gold-slim-rugged-lg-q-stylo"/>
+    <title>TEAL SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_2309cf24-7f84-4c9f-9560-0b2d222c66ae.jpg?v=1555434204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SLIM RUGGED LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433062998115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489207124067</id>
+    <published>2019-04-22T12:58:03-07:00</published>
+    <updated>2019-04-22T12:58:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-lg-q-stylo"/>
+    <title>PURPLE BLUEVISION WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_6573b88c-eb36-4c81-9601-8fc754ec103f.png?v=1609369011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT LG Q STYLO+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489207124067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489206599779</id>
+    <published>2019-04-22T12:58:02-07:00</published>
+    <updated>2019-04-22T12:58:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-lg-q-stylo"/>
+    <title>TEAL BLUEVISION WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_cdb1b6ee-3f8a-4b30-a8d6-c00009e33fd5.png?v=1609369193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT LG Q STYLO+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489206599779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489205452899</id>
+    <published>2019-04-22T12:58:02-07:00</published>
+    <updated>2019-04-22T12:58:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-lg-q-stylo"/>
+    <title>BROWN BLUEVISION WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_98f122d9-eeb6-4d9c-9a59-4bbd214c7f87.png?v=1609368544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT LG Q STYLO+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489205452899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489205157987</id>
+    <published>2019-04-22T12:58:02-07:00</published>
+    <updated>2019-04-22T12:58:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-lg-q-stylo"/>
+    <title>RED BLUEVISION WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_9298bea1-22c6-4d19-9380-35f25bd39758.png?v=1609369461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT LG Q STYLO+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489205157987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489204469859</id>
+    <published>2019-04-22T12:58:02-07:00</published>
+    <updated>2019-04-22T12:58:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-lg-q-stylo"/>
+    <title>PINK BLUEVISION WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_89fac60f-b3c8-4b17-a393-4b8021fad319.png?v=1609368797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT LG Q STYLO+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489204469859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489202405475</id>
+    <published>2019-04-22T12:58:01-07:00</published>
+    <updated>2019-04-22T12:58:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-lg-q-stylo"/>
+    <title>R GOLD BLUEVISION WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_6fcaa6d6-6c5e-4b53-8c08-d99e5584abba.png?v=1609368250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT LG Q STYLO+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489202405475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489198014563</id>
+    <published>2019-04-22T12:58:01-07:00</published>
+    <updated>2019-04-22T12:58:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-lg-q-stylo"/>
+    <title>BLACK BLUEVISION WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_2a2c0291-25ee-49b9-946e-71db9d3d177a.png?v=1609367800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT LG Q STYLO+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489198014563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433062965347</id>
+    <published>2019-02-11T07:55:20-08:00</published>
+    <updated>2019-02-11T07:55:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-purple-slim-rugged-lg-q-stylo"/>
+    <title>ROSE GOLD SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_3e12315b-3632-49e5-8ec8-61437c9b0cad.png?v=1611078011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD SLIM RUGGED LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433062965347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433062244451</id>
+    <published>2019-02-11T07:55:20-08:00</published>
+    <updated>2019-02-11T07:55:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-slim-rugged-lg-q-stylo"/>
+    <title>GREY SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/02_b96a0cff-9706-4f5b-a3eb-e31bc01b0bd9.jpg?v=1538001964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SLIM RUGGED LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433062244451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492057653347</id>
+    <published>2019-02-11T07:55:19-08:00</published>
+    <updated>2019-02-11T07:55:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-lg-q-stylo"/>
+    <title>PINK SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_d11d6dad-df54-4521-915c-da1756a0bb1f.png?v=1611077976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492057653347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492057489507</id>
+    <published>2019-02-11T07:55:19-08:00</published>
+    <updated>2019-02-11T07:55:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sar-lg-q-stylo"/>
+    <title>N BLUE SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy2.png?v=1611077965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE SAR LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492057489507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433062080611</id>
+    <published>2019-02-11T07:55:19-08:00</published>
+    <updated>2019-02-11T07:55:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-slim-rugged-lg-q-stylo"/>
+    <title>BLACK SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/03_c7cec892-35f8-4a14-bf15-3434a4369a48.jpg?v=1538001877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SLIM RUGGED LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433062080611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482253500515</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/prpl-flwr-uv-design-wlt-lg-q-stylo"/>
+    <title>PRPL FLWR UV DESIGN WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/prplflower_1ae94b7f-916b-49f7-935d-56ae0bbda2ae.jpg?v=1612998349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482253500515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482253271139</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flwr-uv-design-wlt-lg-q-stylo"/>
+    <title>PINK FLWR UV DESIGN WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9167_360x_39cddf95-6a3a-46e7-b8ea-033bdfb780da.jpg?v=1611077592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLWR UV DESIGN WLT LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482253271139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482253074531</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-marble-uv-design-wlt-lg-q-stylo"/>
+    <title>GREEN MARBLE UV DESIGN WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9163_1024x1024_2x_6fe7a216-3a73-4d2e-8aac-90e14c17f043.jpg?v=1611077589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREEN MARBLE UV DESIGN WLT LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482253074531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482252779619</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/eiffel-uv-design-wlt-lg-q-stylo"/>
+    <title>EIFFEL UV DESIGN WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9160_360x_da50dfb3-4916-4f24-9cce-06e2ca9ca519.jpg?v=1611077585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EIFFEL UV DESIGN WLT LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482252779619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482252583011</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/feather-uv-design-wlt-lg-q-stylo"/>
+    <title>FEATHER UV DESIGN WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9165_360x_489fdb70-8922-4fed-a387-f90c132f85df.jpg?v=1611077586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FEATHER UV DESIGN WLT LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482252583011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482252517475</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/cycle-uv-design-wlt-lg-q-stylo"/>
+    <title>CYCLE UV DESIGN WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capturereal_f2a57446-54d8-46b6-a98c-2f958b028e6f.jpg?v=1612997685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482252517475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482252157027</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flwr-uv-design-wlt-lg-q-stylo"/>
+    <title>BLACK FLWR UV DESIGN WLT LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9166_1024x1024_2x_a7712c1a-b4a8-402d-8339-3a4faa0bddce.jpg?v=1611077587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK FLWR UV DESIGN WLT LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482252157027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433062604899</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-gold-slim-rugged-lg-q-stylo"/>
+    <title>PURPLE SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_30be1f84-b661-4ffa-bbff-e5825af0de1f.png?v=1611077983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURLE SLIM RUGGED LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433062604899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433062178915</id>
+    <published>2018-09-26T15:42:16-07:00</published>
+    <updated>2018-09-26T15:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-slim-rugged-lg-q-stylo"/>
+    <title>RED SAR LG Q STYLO+</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/01_5cbe2782-1b4e-40d4-8970-709f46a18624.jpg?v=1538001932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SLIM RUGGED LG Q STYLO+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG QSTYLO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433062178915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

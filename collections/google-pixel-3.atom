@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/google-pixel-3.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-07-14T15:35:07-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4657777606755</id>
+    <published>2020-07-14T15:35:07-07:00</published>
+    <updated>2020-07-14T15:35:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pixel-3-tpu-screen-protector"/>
+    <title>PIXEL 3 TPU SCREEN PROTECTOR</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TPU.jpg?v=1594766121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:tag>TPU SCREEN PROTECTOR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4657777606755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4336329490531</id>
+    <published>2019-10-31T08:00:23-07:00</published>
+    <updated>2019-10-31T08:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-pixel-3"/>
+    <title>BLACK BLUEVISION WLT PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_540x_bf30e32d-ec10-4705-bb4d-384c1b7727ef.png?v=1614359635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT PIXEL 3</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4336329490531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3511742038115</id>
+    <published>2019-04-23T12:49:00-07:00</published>
+    <updated>2019-04-23T12:49:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-flat-ring-pixel-3"/>
+    <title>TEAL FLAT RING PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/11817ab-1549495493_5e9f813a-2afb-4913-9e4d-4d7b1f362df3.jpg?v=1556048956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL FLAT RING PIXEL 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3511742038115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3511741841507</id>
+    <published>2019-04-23T12:48:28-07:00</published>
+    <updated>2019-04-23T12:48:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flat-ring-pixel-3"/>
+    <title>GREY FLAT RING PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/11818ab-1549495493_1_9bf6727b-afd8-4dcd-b534-3457281d9ede.jpg?v=1556048925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREY FLAT RING PIXEL 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3511741841507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3511741481059</id>
+    <published>2019-04-23T12:47:39-07:00</published>
+    <updated>2019-04-23T12:47:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-flat-ring-pixel-3"/>
+    <title>R GOLD FLAT RING PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/11815ab-1539275953_1_9a859fc4-25ea-4256-9b0a-4d8f7baac862.jpg?v=1556048873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLDFLAT RING PIXEL 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3511741481059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3511741120611</id>
+    <published>2019-04-23T12:46:50-07:00</published>
+    <updated>2019-04-23T12:46:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flat-ring-pixel-3"/>
+    <title>BLACK FLAT RING PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/11816ab-1539275953_1_19c42e1f-47d1-4703-9655-449d7ef5a75c.jpg?v=1556048832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK FLAT RING PIXEL 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3511741120611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579187372131</id>
+    <published>2019-04-12T15:01:46-07:00</published>
+    <updated>2019-04-12T15:01:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-pixel-3"/>
+    <title>CLEAR TPU PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/10251ab-1527784721_1_59d1fcbd-b554-42b8-9027-063da9acc466.jpg?v=1554389600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR TPU PIXEL 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579187372131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495674388579</id>
+    <published>2019-02-15T08:48:02-08:00</published>
+    <updated>2019-02-15T08:48:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/google-pixel-3-black-full-tempered-glass"/>
+    <title>GOOGLE PIXEL 3 SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOOGLE_bc12c67a-da41-4711-a8cb-6de48f1ae4e0.jpg?v=1550252739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495674388579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492065058915</id>
+    <published>2019-02-11T08:12:41-08:00</published>
+    <updated>2019-02-11T08:12:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-pixel-3"/>
+    <title>PINK SAR PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_pixel.jpg?v=1555448555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SAR PIXEL 3</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492065058915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRPXL3PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1460812185699</id>
+    <published>2019-02-11T08:12:41-08:00</published>
+    <updated>2019-02-11T08:12:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sar-pixel-3"/>
+    <title>PURPLE SAR PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_pixel.jpg?v=1555448567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE SAR PIXEL 3</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1460812185699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRPXL3PU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481587949667</id>
+    <published>2019-01-30T15:31:32-08:00</published>
+    <updated>2019-01-30T15:31:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/cycle-uv-design-wlt-pixel-3"/>
+    <title>CYCLE UV DESIGN WLT PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capturereal_c50fda92-04ef-4bf0-89a1-856575342131.jpg?v=1612997284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481587949667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481590571107</id>
+    <published>2019-01-30T15:31:31-08:00</published>
+    <updated>2019-01-30T15:31:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/prpl-flwr-uv-design-wlt-pixel-3"/>
+    <title>PRPL FLWR UV DESIGN WLT PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/prplflower_0cad7de2-1490-474c-9a8f-f9ad74f871e8.jpg?v=1612998505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481590571107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481590177891</id>
+    <published>2019-01-30T15:31:31-08:00</published>
+    <updated>2019-01-30T15:31:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flwr-uv-design-wlt-pixel-3"/>
+    <title>PINK FLWR UV DESIGN WLT PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9167_360x_c17a2aea-353d-49b1-baa9-49ce26c75de7.jpg?v=1611166793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK FLWR UV DESIGN WLT PIXEL 3</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481590177891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1460822671459</id>
+    <published>2019-01-30T14:20:56-08:00</published>
+    <updated>2019-01-30T14:20:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-sar-pixel-3"/>
+    <title>BLACK TPU PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_tpu_for_ip_x_5a495aca-ac52-456c-b6b1-49ace381f85f.jpg?v=1543528528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK TPU PIXEL 3</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1460822671459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492111949923</id>
+    <published>2018-04-06T11:18:18-07:00</published>
+    <updated>2018-04-06T11:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluemoon-wlt-pixel-3"/>
+    <title>RED BLUEMOON WLT PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/REDBM_0b329da4-a89d-4c42-85c8-2f04005bcb06.jpg?v=1609793550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEMOON WLT PIXEL 3</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492111949923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492111458403</id>
+    <published>2018-04-06T11:18:18-07:00</published>
+    <updated>2018-04-06T11:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluemoon-wlt-pixel-3"/>
+    <title>PINK BLUEMOON WLT PIXEL 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_773f2f54-b208-4e30-b77a-2b7acdfe450e.jpg?v=1609791383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEMOON WLT PIXEL 3</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492111458403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

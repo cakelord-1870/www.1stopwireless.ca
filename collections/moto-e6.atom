@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/moto-e6.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-19T14:12:12-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331463082083</id>
+    <published>2020-05-19T14:12:12-07:00</published>
+    <updated>2020-05-19T14:12:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sar-moto-e6"/>
+    <title>BLACK SAR MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_2.jpg?v=1572452018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SAR MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331463082083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4343891820643</id>
+    <published>2019-11-18T18:28:29-08:00</published>
+    <updated>2019-11-18T18:28:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-rugged-ring-moto-e6-1"/>
+    <title>R GOLD RUGGED RING MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/21_dc7f5b7e-78d7-4d2d-a69e-709bdeaa1e77.jpg?v=1572726682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD RUGGED RING MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4343891820643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4343890280547</id>
+    <published>2019-11-18T18:28:29-08:00</published>
+    <updated>2019-11-18T18:28:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-ring-moto-e6"/>
+    <title>BLACK RUGGED RING MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/14_6ae03105-8d5e-455f-9fcf-7d3961f642b6.jpg?v=1572726631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK RUGGED RING MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4343890280547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4343963156579</id>
+    <published>2019-11-18T18:11:57-08:00</published>
+    <updated>2019-11-18T18:11:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-fthr-tch-card-insrtr-moto-e6"/>
+    <title>BLACK FTHR TCH CARD INSRTR MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/iPhone11_5_a2cebe4a-8dd5-4e85-84be-acaa703c5689.png?v=1572728805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK FTHR TCH CARD INSRTR MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4343963156579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331691114595</id>
+    <published>2019-10-30T10:00:13-07:00</published>
+    <updated>2019-10-30T10:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-c-hybrid-moto-e6"/>
+    <title>R GOLD C-HYBRID MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_60935291-6cc8-4040-89af-8d29a018302b.png?v=1611162628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD C-HYBRID MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331691114595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331689934947</id>
+    <published>2019-10-30T09:59:43-07:00</published>
+    <updated>2019-10-30T09:59:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-c-hybrid-moto-e6"/>
+    <title>TEAL C-HYBRID MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_be39c008-01b0-47ef-820f-8225751a83c5.png?v=1611162704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL C-HYBRID MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331689934947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331688329315</id>
+    <published>2019-10-30T09:59:16-07:00</published>
+    <updated>2019-10-30T09:59:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-c-hybrid-moto-e6"/>
+    <title>PURPLE C-HYBRID MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_7a68b87c-ada4-4e9a-9ba9-47212f9f5b42.png?v=1611162711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE C-HYBRID MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331688329315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331687477347</id>
+    <published>2019-10-30T09:58:52-07:00</published>
+    <updated>2019-10-30T09:58:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-c-hybrid-moto-e6"/>
+    <title>RED C-HYBRID MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_8f0688d5-5ac9-4bc8-a9c3-56f979aca91f.png?v=1611162634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED C-HYBRID MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331687477347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331686920291</id>
+    <published>2019-10-30T09:58:31-07:00</published>
+    <updated>2019-10-30T09:58:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-c-hybrid-moto-e6"/>
+    <title>N BLUE C-HYBRID MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_6a717d1d-dee2-4a48-81cc-60b2ebfe7807.png?v=1611162612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE C-HYBRID MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331686920291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331685740643</id>
+    <published>2019-10-30T09:58:02-07:00</published>
+    <updated>2019-10-30T09:58:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-c-hybrid-moto-e6"/>
+    <title>PINK C-HYBRID MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_54b086bb-6a48-48d4-9b1e-344f7a8d7c1b.png?v=1611162617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK C-HYBRID MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331685740643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331674075235</id>
+    <published>2019-10-30T09:53:03-07:00</published>
+    <updated>2019-10-30T09:53:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-c-hybrid-moto-e6"/>
+    <title>BLACK C-HYBRID MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_ee27900f-3bb3-481d-9893-d92a5733badd.png?v=1611162603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK C-HYBRID MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331674075235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331470323811</id>
+    <published>2019-10-30T08:55:15-07:00</published>
+    <updated>2019-10-30T08:55:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-moto-e6"/>
+    <title>PINK SAR MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_f845c357-8131-466a-9b89-30a2ad1f5e9a.jpg?v=1572452153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331470323811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331467866211</id>
+    <published>2019-10-30T08:53:49-07:00</published>
+    <updated>2019-10-30T08:53:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sar-moto-e6"/>
+    <title>R GOLD SAR MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_5.jpg?v=1572452049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SAR MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331467866211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331466817635</id>
+    <published>2019-10-30T08:53:21-07:00</published>
+    <updated>2019-10-30T08:53:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-sar-moto-e6"/>
+    <title>GREY SAR MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_3.jpg?v=1572452023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SAR MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331466817635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331465703523</id>
+    <published>2019-10-30T08:52:44-07:00</published>
+    <updated>2019-10-30T08:52:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-moto-e6"/>
+    <title>TEAL SAR MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_11.jpg?v=1572452056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SAR MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331465703523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331464163427</id>
+    <published>2019-10-30T08:52:06-07:00</published>
+    <updated>2019-10-30T08:52:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sar-moto-e6"/>
+    <title>PURPLE SAR MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_9.jpg?v=1572452045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SAR MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331464163427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4329131147363</id>
+    <published>2019-10-29T14:34:28-07:00</published>
+    <updated>2019-10-29T14:34:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-moto-e6"/>
+    <title>PINK BLUEVISION WLT MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_3d14bd5e-c36c-44ad-beb4-c9397c15a331.png?v=1609368822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT MOTO E6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4329131147363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4329130819683</id>
+    <published>2019-10-29T14:33:48-07:00</published>
+    <updated>2019-10-29T14:33:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-moto-e6"/>
+    <title>BROWN BLUEVISION WLT MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_a84f733c-9fac-4624-8c98-41880cabdd5c.png?v=1609368572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT MOTO E6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4329130819683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4329130623075</id>
+    <published>2019-10-29T14:33:22-07:00</published>
+    <updated>2019-10-29T14:33:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-moto-e6"/>
+    <title>PURPLE BLUEVISION WLT MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_43223a2f-65b8-43ca-b381-e6e75397f7ae.png?v=1609369038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT MOTO E6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4329130623075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4329130295395</id>
+    <published>2019-10-29T14:32:56-07:00</published>
+    <updated>2019-10-29T14:32:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-moto-e6"/>
+    <title>RED BLUEVISION WLT MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_9695bf64-31a2-45c8-aacd-c1edbfba7362.png?v=1609369487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT MOTO E6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4329130295395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4329130066019</id>
+    <published>2019-10-29T14:32:16-07:00</published>
+    <updated>2019-10-29T14:32:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-moto-e6"/>
+    <title>TEAL BLUEVISION WLT MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_3a9ab5e6-942b-4762-b291-010ff3d74049.png?v=1609369218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT MOTO E6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4329130066019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4030344429667</id>
+    <published>2019-09-16T10:28:49-07:00</published>
+    <updated>2019-09-16T10:28:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-moto-e6"/>
+    <title>BLACK TPU MOTO E6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_CANDY_IP_XS_MAX_720x_720x_62e50dd6-46ba-46fc-bf34-86353d8c840a.jpg?v=1611162464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK TPU MOTO E6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO E6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4030344429667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

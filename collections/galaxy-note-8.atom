@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/galaxy-note-8.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-12-15T13:07:44-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4657775870051</id>
+    <published>2020-12-15T13:07:44-08:00</published>
+    <updated>2020-12-15T13:07:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pmma-nano-sam-note-9-loose"/>
+    <title>PMMA NANO SAM NOTE 8/9 LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Hd81ffad2d76e489f9bd6e22f50d56e74F_0e7201d7-8b17-4f49-9739-b4ce6cc96fc3.jpg?v=1608674540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PMMA NANO SAM NOTE 9 LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>POLYMER NANO TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 9</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4657775870051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744621899875</id>
+    <published>2019-11-15T11:12:21-08:00</published>
+    <updated>2019-11-15T11:12:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_slimverses_rosegold"/>
+    <title>R GOLD VERTO NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rosegoldfres_2f4fc8b9-b28b-45ea-91be-db862e9723c5.PNG?v=1610993790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SLIM VERSES CASE FOR SAMSUNG GALAXY NOTE8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744621899875</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744621867107</id>
+    <published>2019-11-15T11:12:20-08:00</published>
+    <updated>2019-11-15T11:12:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_slimverses_purple"/>
+    <title>PURPLE VERTO NOTE8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purplefgds_22cf1c0b-dc65-415c-b19d-e9c0c7cbfd35.PNG?v=1610993788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE SLIM VERSES CASE FOR SAMSUNG GALAXY NOTE8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744621867107</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744621834339</id>
+    <published>2019-11-15T11:12:20-08:00</published>
+    <updated>2019-11-15T11:12:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_slimverses_hotpink"/>
+    <title>PINK VERTO NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/HOTPINKK_c3ff5394-6b5d-46bc-a70a-e56f01d6d8f0.PNG?v=1542129220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK VERTO NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744621834339</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441460027491</id>
+    <published>2019-11-15T11:02:12-08:00</published>
+    <updated>2019-11-15T11:02:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-otter-like-note-8"/>
+    <title>CLEAR DEF SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/gummycase-samsung-galaxy-s8-plastic-rubber-plain-heavy-duty-clear-transparent-dual-layer-armor-defender-hybrid-protective-case-cover-for-samsung-galaxy-s8-clip-clear-B07BSSSR17-500x50.jpg?v=1560960648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR OTTER LIKE NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441460027491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483876958307</id>
+    <published>2019-11-15T11:01:44-08:00</published>
+    <updated>2019-11-15T11:01:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-hard-gltr-sam-note-8"/>
+    <title>SILVER HARD GLTR SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3_a4487844-5861-4d7f-8ef2-4cc0b5fa5695.jpg?v=1551212492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER HARD GLTR SAM NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483876958307</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483876827235</id>
+    <published>2019-11-15T11:01:43-08:00</published>
+    <updated>2019-11-15T11:01:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-hard-gltr-sam-note-8"/>
+    <title>GOLD HARD GLTR SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/2_ab6845e9-fdd7-4025-a64e-2c42999fbd80.jpg?v=1551212463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD HARD GLTR SAM NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483876827235</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485290201187</id>
+    <published>2019-11-15T11:00:01-08:00</published>
+    <updated>2019-11-15T11:00:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-note-8-tpu-screen-protector"/>
+    <title>SAM NOTE 8 TPU SCREEN PROTECTOR</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tpu_screen_1d9f865e-d28e-4014-b713-b3fa9bdf2b2d.jpg?v=1560900444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAM NOTE 8 TPU SCREEN PROTECTOR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 8</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:tag>TPU SCREEN PROTECTOR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485290201187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622751843</id>
+    <published>2019-11-15T10:59:52-08:00</published>
+    <updated>2019-11-15T10:59:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_tpu_allclear"/>
+    <title>CLEAR TPU SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note8_tpu_allclear.jpg?v=1523042752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR TPU SAM NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622751843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622686307</id>
+    <published>2019-11-15T10:59:36-08:00</published>
+    <updated>2019-11-15T10:59:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_shinywalletgusbry_teal"/>
+    <title>TEAL SHINY WLT SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_c38a5e00-9fba-4f7c-b2ca-0865e19bc3f8.jpg?v=1542057272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL SHINY WLT SAM NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622686307</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622653539</id>
+    <published>2019-11-15T10:59:36-08:00</published>
+    <updated>2019-11-15T10:59:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_shinywalletgusbry_rosegold"/>
+    <title>R GOLD SHINY WLT SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_2287604f-4e8e-4f8c-9ff0-4819443fe7c3.jpg?v=1610993674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD SHINY WLT SAM NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622653539</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622620771</id>
+    <published>2019-11-15T10:59:36-08:00</published>
+    <updated>2019-11-15T10:59:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_shinywalletgusbry_pink"/>
+    <title>PINK SHINY WLT SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_917e6f6f-0694-468d-819e-25483a81a7c9.jpg?v=1542056774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SHINY WLT SAM NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622620771</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622588003</id>
+    <published>2019-11-15T10:59:36-08:00</published>
+    <updated>2019-11-15T10:59:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_shinywalletgusbry_black"/>
+    <title>BROWN SHINY WLT SAM NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_55466b5e-be7c-46e9-ba4b-2fdc20917f78.jpg?v=1610993681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN SHINY WLT SAM NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622588003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622391395</id>
+    <published>2019-11-15T10:58:34-08:00</published>
+    <updated>2019-11-15T10:58:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_hardclear_clear"/>
+    <title>HARD CLEAR CLEAR NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/117916793899581286_grande_a87cc99a-34c1-4f4f-8835-0f642eba4873.jpg?v=1610993742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HARD CLEAR CASE CASE FOR SAMSUNG GALAXY NOTE8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622391395</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622555235</id>
+    <published>2019-11-15T10:58:13-08:00</published>
+    <updated>2019-11-15T10:58:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_nature_wallet_flwrbtrfly"/>
+    <title>BUTRFLY ROSE NATR WLT NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSEBUTTERFLY_b20bec5c-d342-450a-aff9-ef53998a6f57.jpg?v=1542069986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BUTTERFLY ROSE NATR WLT NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622555235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622522467</id>
+    <published>2019-11-15T10:58:12-08:00</published>
+    <updated>2019-11-15T10:58:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_nature_wallet_brwnroseefltwr"/>
+    <title>BROWN EIFFEL NATR WLT NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWNEFFIEL_6b6001bd-c19e-48a4-afe2-6916ec3d90a8.jpg?v=1542068505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN EIFFEL NATR WLT NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622522467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622489699</id>
+    <published>2019-11-15T10:58:12-08:00</published>
+    <updated>2019-11-15T10:58:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_nature_wallet_btrflyeiffeltwr"/>
+    <title>BUTRFLY EIFFEL NATR WLT NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_EFFIEL_7aea6e0a-739f-420e-b2cc-c0a4a39e04b1.jpg?v=1542069219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BUTTERFLY EIFFEL NATR WLT NOTE 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622489699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744622129251</id>
+    <published>2019-11-15T10:57:49-08:00</published>
+    <updated>2019-11-15T10:57:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_ballisticdimd_teal"/>
+    <title>TEAL BLST-DMD NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/280047756005139383_1024x1024_2x_38e39b2c-80af-46c3-9074-b2d376c403f6.jpg?v=1560959972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BALLISTIC DIAMOND CASE FOR SAMSUNG GALAXY NOTE8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744622129251</id>
+      <title>Precision Cut / SAMSUNG GALAXY NOTE 8 / SAMSUNG GALAXY NOTE 8</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744621637731</id>
+    <published>2019-11-15T10:56:55-08:00</published>
+    <updated>2019-11-15T10:56:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/note8_mercury_wallet_black"/>
+    <title>BLACK MQRY WLT NOTE 8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/blackdraft_c916d674-8592-4604-b4ac-3ff125c0d139.png?v=1611173721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744621637731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

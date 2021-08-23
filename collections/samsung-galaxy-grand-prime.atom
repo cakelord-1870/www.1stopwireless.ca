@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-grand-prime.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-11-15T15:37:33-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430562046051</id>
+    <published>2019-11-15T15:37:33-08:00</published>
+    <updated>2019-11-15T15:37:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-core-g386-tempered-glass-loose"/>
+    <title>GRAND PRIME TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/For-Samsung-GALAXY-Grand-Prime-Tempered-glass-Screen-Protector-0-26mm-2-5-9h-Safety-Protective.jpg?v=1611173568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GRAND PRIME TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GRAND PRIME</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430562046051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481598664803</id>
+    <published>2019-11-15T15:36:33-08:00</published>
+    <updated>2019-11-15T15:36:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-blst-sam-grand-prime"/>
+    <title>RED BLST SAM GRAND PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9353_360x_1024x1024_2x_5564454d-edc8-4ff2-a712-d9c589a09ba1.jpg?v=1560966524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLST SAM GRAND PRIME</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GRAND PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481598664803</id>
+      <title>Precision Cut / SAMSUNG GRAND PRIME / SAMSUNG GRAND PRIME</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744613773411</id>
+    <published>2019-11-15T15:36:32-08:00</published>
+    <updated>2019-11-15T15:36:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/balistic_g-prime_blue"/>
+    <title>BLACK BLST SAM GRAND PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9350_360x_92115964-40a9-497d-b89b-345d9ccf273c.jpg?v=1560966539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SAM GRAND PRIME BALLISTIC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG GRAND PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744613773411</id>
+      <title>Precision Cut / SAMSUNG GRAND PRIME / SAMSUNG GRAND PRIME</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744614723683</id>
+    <published>2019-11-15T15:15:19-08:00</published>
+    <updated>2019-11-15T15:15:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/g530_tpu_teal"/>
+    <title>BLACK TPU SAMSUNG GRAND PRIME</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/335232102441208668_1024x1024_2x_70a2b153-a218-4c09-92e4-79f56101cdfe.jpg?v=1560966459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK TPU SAMSUNG GRAND PRIME</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GRAND PRIME</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744614723683</id>
+      <title>Precision Cut / SAMSUNG GRAND PRIME / SAMSUNG GRAND PRIME</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku>g530_tpu_teal</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

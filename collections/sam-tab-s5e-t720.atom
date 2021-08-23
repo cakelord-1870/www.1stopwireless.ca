@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/sam-tab-s5e-t720.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-10-09T09:35:04-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720199598179</id>
+    <published>2020-10-09T09:35:04-07:00</published>
+    <updated>2020-10-09T09:35:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-s5e-t720-tempered-glass"/>
+    <title>SAMSUNG S5e T720 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SAM_TABLET_1024x1024_2x_85fc1aa1-1e9a-4112-abf2-9c4eeda30f23.jpg?v=1602261305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>SAM TAB S5e T720</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720199598179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167290945635</id>
+    <published>2020-02-01T15:56:03-08:00</published>
+    <updated>2020-02-01T15:56:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sam-tab-s5e-t720-cover"/>
+    <title>R GOLD SAM TAB S5e T720 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_2d54f790-02d0-49d9-adb2-18b0104c5a0d.jpg?v=1615499152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S5e T720</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167290945635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167291633763</id>
+    <published>2019-12-04T16:32:30-08:00</published>
+    <updated>2019-12-04T16:32:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sam-tab-s5e-t720-cover"/>
+    <title>BLACK SAM TAB S5e T720 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71vw-UjrSjL._AC_SL1500_5d809e03-0d45-4639-909b-4aeae3620f50.jpg?v=1615499110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S5e T720</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167291633763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167294287971</id>
+    <published>2019-10-07T08:17:48-07:00</published>
+    <updated>2019-10-07T08:17:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sam-tab-s5e-t720-cover"/>
+    <title>RED SAM TAB S5e T720 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/81iuWnwoK6L._AC_SL1500_bb36a4dc-9e4e-4802-8ff8-7c5ce0258906.jpg?v=1615499159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S5e T720</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167294287971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167293927523</id>
+    <published>2019-10-07T08:17:48-07:00</published>
+    <updated>2019-10-07T08:17:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sam-tab-s5e-t720-cover"/>
+    <title>N BLUE SAM TAB S5e T720 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NBLUE_c387800b-94bf-4b15-a9fd-ff1097832d1d.jpg?v=1615499121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S5e T720</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167293927523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167293403235</id>
+    <published>2019-10-07T08:17:47-07:00</published>
+    <updated>2019-10-07T08:17:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sam-tab-s5e-t720-cover"/>
+    <title>PURPLE SAM TAB S5e T720 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/81uJr8DRN4L._AC_SL1500_94d79cd1-53a7-4065-a5e0-3bbfd5fad786.jpg?v=1615499139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S5e T720</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167293403235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167290224739</id>
+    <published>2019-10-07T08:17:47-07:00</published>
+    <updated>2019-10-07T08:17:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sam-tab-s5e-t720-cover"/>
+    <title>PINK SAM TAB S5e T720 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/81FVflGlY4L._AC_SL1500_c781c6d9-af88-45c8-a51f-66ad006338ae.jpg?v=1615499129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB S5e T720</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167290224739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

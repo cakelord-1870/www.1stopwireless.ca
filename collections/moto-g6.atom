@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/moto-g6.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-10-26T14:02:47-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433648726115</id>
+    <published>2019-10-26T14:02:47-07:00</published>
+    <updated>2019-10-26T14:02:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-slim-rugged-moto-g6"/>
+    <title>PURPLE SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/moto_z3_play_purple_e4510a54-9284-4d96-8558-faba7c6af179.jpg?v=1555447731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433648726115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488700039267</id>
+    <published>2019-04-15T08:02:50-07:00</published>
+    <updated>2019-04-15T08:02:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-tpu-moto-e5-g6-play"/>
+    <title>BLACK TPU MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/afd978d0-6ddc-4190-9e23-ca38b67104be_1.f32165253f0b9d168dc5a8a9eaf3ec0f_8b84efd9-37e5-46d3-b5e7-0e5ccf03ca8a.jpg?v=1611157495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK TPU MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488700039267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579170463843</id>
+    <published>2019-04-12T14:59:42-07:00</published>
+    <updated>2019-04-12T14:59:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-moto-g6"/>
+    <title>CLEAR TPU MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71_2Br0PfsppL._AC_SX522_25330600-c941-4d9d-bbea-ffb21ad5c7bc.jpg?v=1611160320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR TPU MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579170463843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485636362339</id>
+    <published>2019-04-12T14:28:14-07:00</published>
+    <updated>2019-04-12T14:28:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-moto-g6-play-tempered-glass-packed"/>
+    <title>MOTO G6 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_5740c4e8-6fe4-4a35-917f-8ce702bcd123.jpeg?v=1558995240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MOTO G6 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G6</s:tag>
+    <s:tag>MOTOROLA TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485636362339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433649250403</id>
+    <published>2019-01-31T15:24:22-08:00</published>
+    <updated>2019-01-31T15:24:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-slim-rugged-moto-g6"/>
+    <title>GOLD SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-08.jpg?v=1611160660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GOLD SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433649250403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433649217635</id>
+    <published>2019-01-31T15:24:21-08:00</published>
+    <updated>2019-01-31T15:24:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-gold-slim-rugged-moto-g6"/>
+    <title>ROSE GOLD SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-04.jpg?v=1611160685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433649217635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433649086563</id>
+    <published>2019-01-31T15:24:21-08:00</published>
+    <updated>2019-01-31T15:24:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-slim-rugged-moto-g6"/>
+    <title>GREY SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-06.jpg?v=1611160666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433649086563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492063584355</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-moto-g6"/>
+    <title>PINK SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_z3_play_b80e3f02-27e2-4743-bdd0-5b2cd0fc284d.jpg?v=1555447718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492063584355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492063322211</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sar-moto-g6"/>
+    <title>N BLUE SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/moto_z3_play_n_blue.jpg?v=1555447849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492063322211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482257104995</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/prpl-flwr-uv-design-wlt-moto-g6"/>
+    <title>PRPL FLWR UV DESIGN WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/prplflower_ac905854-73e5-4c0f-95ab-017a261faa55.jpg?v=1612998496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482257104995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482256875619</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flwr-uv-design-wlt-moto-g6"/>
+    <title>PINK FLWR UV DESIGN WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9167_360x_cb44102e-c660-4bed-99c7-382b754bf532.jpg?v=1611160604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLWR UV DESIGN WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482256875619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482256384099</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-marble-uv-design-wlt-moto-g6"/>
+    <title>GREEN MARBLE UV DESIGN WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9163_1024x1024_2x_75a573a6-699e-4c31-836d-15b46e407e7c.jpg?v=1611160601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREEN MARBLE UV DESIGN WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482256384099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482256023651</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/eiffel-uv-design-wlt-moto-g6"/>
+    <title>EIFFEL UV DESIGN WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9160_360x_b71cd57d-b805-42cf-81fc-e78971063e8b.jpg?v=1611160594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EIFFEL UV DESIGN WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482256023651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482255827043</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/feather-uv-design-wlt-moto-g6"/>
+    <title>FEATHER UV DESIGN WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9165_360x_bf6f0c42-67f3-44cf-b067-9d731106c1ea.jpg?v=1611160597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FEATHER UV DESIGN WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482255827043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482255564899</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/cycle-uv-design-wlt-moto-g6"/>
+    <title>CYCLE UV DESIGN WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capturereal_bd2ec9e0-1c03-4edf-b835-765f0ea95c7f.jpg?v=1612997271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482255564899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1482255466595</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flwr-uv-design-wlt-moto-g6"/>
+    <title>BLACK FLWR UV DESIGN WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9166_1024x1024_2x_81ac10cb-3cf5-449f-afd1-69fbb97e21c2.jpg?v=1611162247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK FLWR UV DESIGN WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1482255466595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442368487523</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-shiny-wlt-moto-g6"/>
+    <title>BROWN SHINY WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_50a22ad2-9a4a-465b-b3eb-771964295ffa.jpg?v=1611160587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BROWN SHINY WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442368487523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442368421987</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-blue-shiny-wlt-moto-g6"/>
+    <title>N BLUE SHINY WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_BLUE_616ccdd1-d96d-47d9-882d-6c5d732dea7f.jpg?v=1542056594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">NAVY BLUE SHINY WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442368421987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442368323683</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-shiny-wlt-moto-g6"/>
+    <title>TEAL SHINY WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_a01c7961-3c91-417a-a636-ca3b690c7eaa.jpg?v=1542057158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SHINY WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442368323683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442368159843</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-shiny-wlt-moto-g6"/>
+    <title>PINK SHINY WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_6b370ae4-efcb-4bf5-a845-9ad6a38de52f.jpg?v=1542056641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SHINY WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442368159843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442368028771</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-shiny-wlt-moto-g6"/>
+    <title>BLACK SHINY WLT MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_94c1ba34-c4a9-4c34-b558-ab395388e380.jpg?v=1611160584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SHINY WLT MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442368028771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433648922723</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-slim-rugged-moto-g6-1"/>
+    <title>RED SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-01.jpg?v=1611160680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433648922723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433648627811</id>
+    <published>2018-09-27T15:20:36-07:00</published>
+    <updated>2018-09-27T15:20:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-slim-rugged-moto-g6"/>
+    <title>BLACK SAR MOTO G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MOT-Z3-PLAY-_-03.jpg?v=1611160656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SLIM RUGGED MOTO G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTOG6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433648627811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430563192931</id>
+    <published>2018-09-18T08:12:08-07:00</published>
+    <updated>2018-09-18T08:12:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-s6-tempered-glass-loose-1"/>
+    <title>MOTO G6 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a3d69c0f-7baf-4eab-99b7-b01c6a691bc7.3d4158a2523f5eb9b7d8064d7a4ef1f3.jpg?v=1611160946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MOTO G6 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G6</s:tag>
+    <s:tag>MOTOROLA TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430563192931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

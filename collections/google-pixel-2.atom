@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/google-pixel-2.atom"/>
+  <title>1StopWireless</title>
+  <updated>2018-09-27T16:39:17-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441429291107</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-shiny-wlt-pixel-2"/>
+    <title>PINK SHINY WLT PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_3818896a-389d-423d-b64e-1f53a994cb75.jpg?v=1542056651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SHINY WLT PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441429291107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441429061731</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-shiny-wlt-pixel-2"/>
+    <title>TEAL SHINY WLT PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_6a93ed06-f619-45ab-8b85-67a8341fcbb9.jpg?v=1542057166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SHINY WLT PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441429061731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441428865123</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-shiny-wlt-pixel-2"/>
+    <title>R GOLD SHINY WLT PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_518fa8e9-e242-4d2a-99f4-1fa86e3a076b.jpg?v=1611166930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SHINY WLT PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441428865123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441428209763</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-pixel-2"/>
+    <title>BLACK TPU PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TPUBLK_37885d09-a25d-4494-93c9-2c6d03fa3d4f.jpg?v=1539371965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK TPU PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441428209763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441428078691</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-blst-pixel-2"/>
+    <title>BLACK BLST PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9350_grande_1024x1024_2x_c27d3b74-69f0-45ae-bc97-98ab42a4a40d.jpg?v=1561069031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK BLST PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441428078691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441427849315</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-verto-pixel-2"/>
+    <title>GOLD VERTO PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/goldverto_38510531-9499-445b-babf-edd209a1f688.jpg?v=1611166992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GOLD VERTO PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441427849315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441427751011</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/baby-pink-verto-pixel-2"/>
+    <title>B PINK VERTO PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/baby_pink_460x_1_9925eef6-8cbf-4dc1-abb6-e2520413028c.jpg?v=1611166982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BABY PINK VERTO PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441427751011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441427488867</id>
+    <published>2018-09-27T16:39:17-07:00</published>
+    <updated>2018-09-27T16:39:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-verto-pixel-2"/>
+    <title>PURPLE VERTO PIXEL 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLEVERTO_0c468abd-2f29-4973-bad2-a044abf375ba.jpg?v=1611166998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE VERTO PIXEL 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>PIXEL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441427488867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

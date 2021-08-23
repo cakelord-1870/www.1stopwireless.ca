@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/ipad-pro-11-2018.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-04-30T14:20:35-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495665803363</id>
+    <published>2021-04-30T14:20:35-07:00</published>
+    <updated>2021-04-30T14:20:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipad-pro-11-inch-tempered-glass"/>
+    <title>IPAD PRO 11 INCH TEMPERED GLASS 2018</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPAD_TEMPERED_GLASS_4b290d1f-25f0-41b2-a4af-8c10b8a02170.jpg?v=1550251217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPAD PRO 11 INCH TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495665803363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483419844707</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-respberry-ipad-smart-case-ipad-pro-11"/>
+    <title>RED RESPBERRY IPAD-SMART-CASE IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61_eWMpeGTL._AC_SL1500_10ec1f96-b95d-4d72-a6ce-dd3b8e2cce31.jpg?v=1615324484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483419844707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483419648099</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-ipad-smart-case-ipad-pro-11"/>
+    <title>BROWN IPAD-SMART-CASE IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_2b5915b8-6065-45db-abcd-9986b658dcc0.jpg?v=1615324321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483419648099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483419517027</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-ipad-smart-case-ipad-pro-11"/>
+    <title>BLACK IPAD-SMART-CASE IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61Y_KQaz9L._AC_SL1500_f3021cdb-89b7-42bb-b50a-c339ee092b97.jpg?v=1615324304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483419517027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483419058275</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-ipad-smart-case-ipad-pro-11"/>
+    <title>GOLD IPAD-SMART-CASE IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_3a986e77-1067-4c3d-b4ef-bbaf8510cfdf.jpg?v=1615324386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483419058275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483407655011</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/b-blue-ipad-smart-case-ipad-pro-11"/>
+    <title>B BLUE IPAD-SMART-CASE IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61Aclyh1chL._AC_SL1500_bbaeb2f2-9bba-4b7b-9789-467981b0f70e.jpg?v=1615324272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483407655011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483406344291</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flwr-natr-ipad-pro-11"/>
+    <title>PINK FLWR NATR IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/FLOWER.jpg?v=1615324704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483406344291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483406213219</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/btrfly-natr-ipad-pro-11"/>
+    <title>BTRFLY NATR IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BUTTERFLY.jpg?v=1615324692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483406213219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483405852771</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/paris-natr-ipad-pro-11"/>
+    <title>PARIS NATR IPAD PRO 11 2018</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PAIRS.jpg?v=1615324698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483405852771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483405426787</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-360-rotatable-case-ipad-pro-11"/>
+    <title>PINK IPAD PRO 11 2018 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_e33b60f7-c75f-400f-b60b-ad2cb56b7a15.jpg?v=1615324421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483405426787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483405197411</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-360-rotatable-case-ipad-pro-11"/>
+    <title>RED IPAD PRO 11 2018 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_e8c4e539-c11c-47af-912e-cc5a3667651c.jpg?v=1615324455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483405197411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483404771427</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-360-rotatable-case-ipad-pro-11"/>
+    <title>PURPLE IPAD PRO 11 2018 360 ROTATINGCASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_2f360775-ed0c-45bd-b05a-95d532bd842d.jpg?v=1615324434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483404771427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483404017763</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/b-blue-360-rotatable-case-ipad-pro-11"/>
+    <title>B BLUE IPAD PRO 11 2018 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BABYBLUE_c8aa9ec1-7207-475f-ab86-1cbbea769af8.jpg?v=1615324255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483404017763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483403624547</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-360-rotatable-case-ipad-pro-11"/>
+    <title>NAVY  IPAD PRO 11 2018 CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVYBLUE_be4d4d1a-aaf9-4f01-b0dd-a85312cbb781.jpg?v=1615324400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483403624547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483400216675</id>
+    <published>2019-02-01T14:33:44-08:00</published>
+    <updated>2019-02-01T14:33:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-360-rotatable-case-ipad-pro-11"/>
+    <title>R GOLD IPAD PRO 11 2018 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_634e329f-0418-4166-9051-f2e1e7df4b40.jpg?v=1615324445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 11-INCH (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483400216675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

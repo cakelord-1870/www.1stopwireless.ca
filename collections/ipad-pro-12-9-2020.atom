@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/ipad-pro-12-9-2020.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-06-19T16:17:16-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6727688650944</id>
+    <published>2021-06-19T16:17:16-07:00</published>
+    <updated>2021-06-19T16:17:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-handheld-survivour-ipad-pro-12-9-2021"/>
+    <title>R GOLD HANDHELD SURVIVOR IPAD PRO 12.9 2020</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/0af91ab9-dc54-42b9-8a75-e62a4965fc6a.jpg?v=1624479102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6727688650944</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6727688356032</id>
+    <published>2021-06-19T16:17:16-07:00</published>
+    <updated>2021-06-19T16:17:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-handheld-survivour-ipad-pro-12-9-2020"/>
+    <title>RED HANDHELD SURVIVOR IPAD PRO 12.9 2020</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/b316eff3-cf44-4c25-8b51-215222bc78d7.jpg?v=1624479115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6727688356032</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6727687700672</id>
+    <published>2021-06-19T16:17:15-07:00</published>
+    <updated>2021-06-19T16:17:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-handheld-survivour-ipad-pro-12-9-2020"/>
+    <title>BLACK HANDHELD SURVIVOR IPAD PRO 12.9 2020</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/72f8d6c5-f464-45f6-b306-bcc840abe745.jpg?v=1624479090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6727687700672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4681383739491</id>
+    <published>2021-04-07T14:33:45-07:00</published>
+    <updated>2021-04-07T14:33:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipad-pro-12-9-2020-tempered-glass"/>
+    <title>IPAD PRO 12.9 2020 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pro_screen_protector_11_850x850_600x_399ad2b0-2d66-4e41-9c1a-3ec3d265154e.jpg?v=1597519257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPAD PRO 12.9 2018 TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4681383739491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667423948899</id>
+    <published>2021-03-08T12:31:40-08:00</published>
+    <updated>2021-03-08T12:31:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-360-rotatable-case-ipad-pro-12-9-2020"/>
+    <title>RED IPAD PRO 12.9 2020 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71Kp4gUwDQL._AC_SL1500.jpg?v=1615235370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667423948899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667423817827</id>
+    <published>2021-03-08T12:31:39-08:00</published>
+    <updated>2021-03-08T12:31:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-360-rotatable-case-ipad-pro-12-9-2020"/>
+    <title>PURPLE IPAD PRO 12.9 2020 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71oTMYdMxnL._AC_SL1500.jpg?v=1615235218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667423817827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4667423621219</id>
+    <published>2021-03-08T12:31:39-08:00</published>
+    <updated>2021-03-08T12:31:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-360-rotatable-case-ipad-pro-12-9-2020"/>
+    <title>R GOLD IPAD PRO 12.9 2020 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/714Y95tBjQL._AC_SL1500.jpg?v=1615235229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4667423621219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6556646342848</id>
+    <published>2021-03-08T12:30:34-08:00</published>
+    <updated>2021-03-08T12:30:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-blue-ipad-pro-12-9-2020-360-rotating-case"/>
+    <title>NAVY BLUE IPAD PRO 12.9 2020 360 ROTATING CASE</title>
+    <s:type>IPAD CASES</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/714mc7TgrzL._AC_SL1500.jpg?v=1615235466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>IPAD CASES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 12.9 2020</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6556646342848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

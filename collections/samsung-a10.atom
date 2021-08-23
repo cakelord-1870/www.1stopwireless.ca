@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-a10.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-16T14:52:09-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331498537059</id>
+    <published>2021-07-16T14:52:09-07:00</published>
+    <updated>2021-07-16T14:52:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sar-sam-a10-m10"/>
+    <title>BLACK SAR SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_2_3d1e5024-4f9e-4922-9ce0-7e93e690c1a1.jpg?v=1572452385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331498537059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3603999162467</id>
+    <published>2020-11-05T07:48:32-08:00</published>
+    <updated>2020-11-05T07:48:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-a10-tempered-glass-loose"/>
+    <title>A10/A10S TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/41SL7RW0maL.jpg?v=1610645880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A10 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10</s:tag>
+    <s:tag>SAM A10S</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3603999162467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510765682787</id>
+    <published>2020-10-03T14:05:37-07:00</published>
+    <updated>2020-10-03T14:05:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-bluevision-wlt-huawei-p30"/>
+    <title>BLACK BLUEVISION WLT SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_c629f266-efbf-474f-8036-278a68c6eecb.png?v=1609367973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT SAM A10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510765682787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331524063331</id>
+    <published>2019-10-30T09:18:02-07:00</published>
+    <updated>2019-10-30T09:18:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-sam-a10-m10"/>
+    <title>TEAL SAR SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_11_b8414374-b429-4d65-8b0f-2ed044ba1a2e.jpg?v=1572452298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SAR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331524063331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4331522719843</id>
+    <published>2019-10-30T09:17:36-07:00</published>
+    <updated>2019-10-30T09:17:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sar-sam-a10-m10"/>
+    <title>PURPLE SAR SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/A10E-_I-_9_42050bbe-0bd5-41b7-84ed-f45883c91b1a.jpg?v=1572452270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SAR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4331522719843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3941255544931</id>
+    <published>2019-07-19T08:31:51-07:00</published>
+    <updated>2019-07-19T08:31:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-soft-gltr-sam-a10-m10"/>
+    <title>2 IN 1 BLACK GLTR TPU SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_09d93c41-5d2f-4ca2-ac73-07a222b1e7d9.png?v=1610664962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SOFT GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3941255544931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3941255250019</id>
+    <published>2019-07-19T08:31:34-07:00</published>
+    <updated>2019-07-19T08:31:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-soft-gltr-sam-a10-m10"/>
+    <title>2 IN 1 RED GLTR TPU SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/REDFINAL_0371f7c7-4b77-4378-9467-f6e33d102da8.png?v=1610666018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SOFT GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3941255250019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3941254922339</id>
+    <published>2019-07-19T08:31:19-07:00</published>
+    <updated>2019-07-19T08:31:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-soft-gltr-sam-a10-m10"/>
+    <title>2 IN 1 GOLD GLTR TPU SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_70fb1745-209e-47b7-8569-c9e8ef297e66.png?v=1610665362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GOLD SOFT GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3941254922339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3941254627427</id>
+    <published>2019-07-19T08:30:59-07:00</published>
+    <updated>2019-07-19T08:30:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-soft-gltr-sam-a10-m10"/>
+    <title>2 IN 1 R GOLD GLTR TPU SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_4cb4e818-bae9-45cd-8621-4c011196ca37.png?v=1610665917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SOFT GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3941254627427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3941254168675</id>
+    <published>2019-07-19T08:30:33-07:00</published>
+    <updated>2019-07-19T08:30:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-soft-gltr-sam-a10-m10"/>
+    <title>2 IN 1 PINK GLTR TPU SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_5af3e770-74df-4c5e-ad90-6294950c35cc.png?v=1610665587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SOFT GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3941254168675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3941251678307</id>
+    <published>2019-07-19T08:28:10-07:00</published>
+    <updated>2019-07-19T08:28:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-soft-gltr-sam-a10-m10"/>
+    <title>2 IN 1 PURPLE GLTR TPU SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_1b2f8c24-8153-4e5b-aed0-7e77e03e25fc.png?v=1610665759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SOFT GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3941251678307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3934217797731</id>
+    <published>2019-07-15T07:46:44-07:00</published>
+    <updated>2019-07-15T07:46:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-hard-gltr-sam-a10-m10"/>
+    <title>RED HARD GLTR SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1_5_1024x1024_2x_506aedde-2b3c-4065-afdc-7f3728dcdb58.jpg?v=1563202015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED HARD GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3934217797731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3934216847459</id>
+    <published>2019-07-15T07:46:03-07:00</published>
+    <updated>2019-07-15T07:46:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-hard-gltr-sam-a10-m10"/>
+    <title>PINK HARD GLTR SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1_3_1024x1024_2x_827b7635-420c-4bc0-8344-aa1bcb391c1d.jpg?v=1563201989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK HARD GLTR SAM A10/M10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3934216847459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926659432547</id>
+    <published>2019-07-08T12:09:28-07:00</published>
+    <updated>2019-07-08T12:09:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-sam-a10"/>
+    <title>BLACK TPU SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/mobletech-samsung-galaxy-a10-SILICON-black-1.jpg?v=1610643636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK TPU SAM A10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926659432547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3926592389219</id>
+    <published>2019-07-08T10:28:01-07:00</published>
+    <updated>2019-07-08T10:28:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-a10"/>
+    <title>TEAL BLUEVISION WLT SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_b587b31d-a894-468c-bdcf-25f038df2494.png?v=1609789323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT SAM A10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3926592389219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510766272611</id>
+    <published>2019-04-29T15:28:40-07:00</published>
+    <updated>2019-04-29T15:28:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-sam-a10"/>
+    <title>RED BLUEVISION WLT SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_f365a950-92c6-46f4-93f2-3f7bea562735.png?v=1609369568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT SAM A10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510766272611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510766305379</id>
+    <published>2019-04-29T15:21:39-07:00</published>
+    <updated>2019-04-29T15:21:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-a10"/>
+    <title>PURPLE BLUEVISION WLT SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_661d9683-4b40-44a5-ad2d-9a1ff21813e1.png?v=1609369112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT SAM A10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510766305379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510766141539</id>
+    <published>2019-04-29T15:18:40-07:00</published>
+    <updated>2019-04-29T15:18:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-a10"/>
+    <title>PINK BLUEVISION WLT SAM A10/M10</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_52244ca3-f70c-449d-9783-cd6dd50cffee.png?v=1609368899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT SAM A10</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM A10/M10</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510766141539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

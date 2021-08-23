@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-s6.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-09-16T11:13:59-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4030377885795</id>
+    <published>2019-09-16T11:13:59-07:00</published>
+    <updated>2019-09-16T11:13:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sar-sam-s6"/>
+    <title>BLACK SAR SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9300_grande_1024x1024_2x_4677a036-94ad-4fd0-8003-2cf7f21cc17a.jpg?v=1568657674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SAR SAM S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4030377885795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430556803171</id>
+    <published>2019-07-31T13:39:30-07:00</published>
+    <updated>2019-07-31T13:39:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-s7-tempered-glass-loose"/>
+    <title>S6 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1_13_x700_094bceab-877c-47d5-8642-a741b15370ec.jpg?v=1611169609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">S6 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430556803171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744575926371</id>
+    <published>2018-04-09T14:09:39-07:00</published>
+    <updated>2018-04-09T14:09:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/dfnderlike_s6_blk"/>
+    <title>BLACK DEF SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/417842795292679199_1024x1024_2x_6fdc636e-35be-4a3d-bfa2-a7a47d8eec6d.jpg?v=1542047943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK DEF SAM S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744575926371</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744576680035</id>
+    <published>2018-04-09T14:09:38-07:00</published>
+    <updated>2018-04-09T14:09:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltnature_s6_brn_efl"/>
+    <title>BROWN EIFFEL NATR WLT SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWNEFFIEL_834a90de-6fc0-4057-89dc-b645c425bf89.jpg?v=1542068695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN EIFFEL S6 WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744576680035</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744576024675</id>
+    <published>2018-04-09T14:09:38-07:00</published>
+    <updated>2018-04-09T14:09:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltmrqry_sams6_purple"/>
+    <title>PURPLE MQRY WLT SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purplefinal_08493861-e96c-4759-a420-95624ee685a2.png?v=1611176683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744576024675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577335395</id>
+    <published>2018-04-09T14:09:37-07:00</published>
+    <updated>2018-04-09T14:09:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blstdiam_s6_purple"/>
+    <title>PURPLE BLST-DMD SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_1024x1024_2x_0617d53a-5d5e-465d-a05e-8b56eaa3048b.jpg?v=1560897625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE SAM S6 BALLISTIC DIAMOND</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577335395</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744578875491</id>
+    <published>2018-04-09T14:09:35-07:00</published>
+    <updated>2018-04-09T14:09:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltnatur_sam_s6_butrfly_efiel"/>
+    <title>BUTRFLY EFFIEL NATR WLT SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_EFFIEL_28c4b34b-850d-44a5-b483-ccf066982ece.jpg?v=1542068747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BUTTERFLY EFFIEL SAM S6 WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744578875491</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744580317283</id>
+    <published>2018-04-06T12:07:07-07:00</published>
+    <updated>2018-04-06T12:07:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_marblewalletgusbry_white"/>
+    <title>MARBLE WLT SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MARBLE_b2ba1a0e-6604-45fb-8b4a-f807de863a11.jpg?v=1541864572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MARBLE WLT SAM S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744580317283</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744580218979</id>
+    <published>2018-04-06T12:07:05-07:00</published>
+    <updated>2018-04-06T12:07:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_hardglitter_gold"/>
+    <title>GOLD HARD GLITTER SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/2_d5d705a2-4539-4ce7-ab62-a728f5590084.jpg?v=1610567381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD HARD GLITTER CASE FOR SAMSUNG GALAXY S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744580218979</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744580120675</id>
+    <published>2018-04-06T12:07:02-07:00</published>
+    <updated>2018-04-06T12:07:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_hardglitter_silver"/>
+    <title>SILVER HARD GLITTER SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/4_1d039498-48e8-42fe-93d1-0894d0d13e92.jpg?v=1610567384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER HARD GLITTER CASE FOR SAMSUNG GALAXY S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744580120675</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744580055139</id>
+    <published>2018-04-06T12:07:00-07:00</published>
+    <updated>2018-04-06T12:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_slimverses_purple"/>
+    <title>PURPLE VERTO SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purplefgds_13d89ae7-e2b5-4d42-b9c5-138eaf060eb7.PNG?v=1610567479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE SLIM VERSES CASE FOR SAMSUNG GALAXY S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744580055139</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744580022371</id>
+    <published>2018-04-06T12:06:59-07:00</published>
+    <updated>2018-04-06T12:06:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_slimverses_rosegold"/>
+    <title>R GOLD VERTO SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rosegoldfres_9895fe2e-5ec5-43b3-89b6-baf8f83c9a70.PNG?v=1542130273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SLIM VERSES CASE FOR SAMSUNG GALAXY S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744580022371</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744579989603</id>
+    <published>2018-04-06T12:06:59-07:00</published>
+    <updated>2018-04-06T12:06:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s6_shinywalletgusbry_rosegold"/>
+    <title>R GOLD SHINY WLT SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_d1fa2f2d-fc3d-4f4e-a127-bb2282baa815.jpg?v=1610567343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD SHINY WLT SAM S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744579989603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744578744419</id>
+    <published>2018-04-06T12:06:34-07:00</published>
+    <updated>2018-04-06T12:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/slmarmr_sams6_r-gold"/>
+    <title>R GOLD SAR SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9441_360x_360x_4ee6ff1f-3567-472d-a900-4f0bfa4f14ab.jpg?v=1610567802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SAM S6 SLIM RUGGED CASE (MATTE)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744578744419</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483873058915</id>
+    <published>2018-04-06T12:06:15-07:00</published>
+    <updated>2018-04-06T12:06:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-blst-dmd-sam-s6"/>
+    <title>N BLUE BLST-DMD SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9452_1024x1024_2x_e941218f-3bcb-41d8-846c-be1e01ad4247.jpg?v=1560897359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE BLST-DMD SAM S6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483873058915</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483872895075</id>
+    <published>2018-04-06T12:06:15-07:00</published>
+    <updated>2018-04-06T12:06:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-blst-dmd-sam-s6"/>
+    <title>TEAL BLST-DMD SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/280047756005139383_1024x1024_2x_d81e2052-94c5-42ae-9779-d707da70cb4c.jpg?v=1560897813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL BLST-DMD SAM S6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483872895075</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483872796771</id>
+    <published>2018-04-06T12:06:15-07:00</published>
+    <updated>2018-04-06T12:06:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-blst-dmd-sam-s6"/>
+    <title>R GOLD BLST-DMD SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/280311277018025789_1024x1024_2x_cd6821d5-8945-49ea-97a0-cb85c9af2319.jpg?v=1560897849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD BLST-DMD SAM S6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483872796771</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577957987</id>
+    <published>2018-04-06T12:06:15-07:00</published>
+    <updated>2018-04-06T12:06:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blstdiam_s6_gold"/>
+    <title>GOLD BLST-DMD SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/gold_blst_ip_1024x1024_2x_b711738e-e457-462c-bbab-eb826055e378.jpg?v=1610567409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SAM S6 BALLISTIC DIAMOND</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577957987</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577892451</id>
+    <published>2018-04-06T12:06:14-07:00</published>
+    <updated>2018-04-06T12:06:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/slmarmr_sams6_gold"/>
+    <title>GOLD SAR SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9439_360x_360x_bddee015-1c1e-4dfa-a7c4-3555526d2a96.jpg?v=1610567725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SAM S6 SLIM RUGGED CASE (MATTE)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577892451</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577761379</id>
+    <published>2018-04-06T12:06:11-07:00</published>
+    <updated>2018-04-06T12:06:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltmrqry_sams6_red"/>
+    <title>RED MQRY WLT SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/redfinal2_2b6585b0-3262-4fd8-8b4b-ec0d39ec2b2c.png?v=1611175726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED SAM S6 MERCURY WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577761379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577728611</id>
+    <published>2018-04-06T12:06:10-07:00</published>
+    <updated>2018-04-06T12:06:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_slimverses_pink"/>
+    <title>PINK VERTO SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_540x_15d51ce8-cdf1-4244-bbfe-5beddcc22056.jpg?v=1610567556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SLIM VERSES CASE FOR SAMSUNG GALAXY S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577728611</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577466467</id>
+    <published>2018-04-06T12:06:05-07:00</published>
+    <updated>2018-04-06T12:06:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_blackmtte_tpu"/>
+    <title>BLACK TPU SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s6_blackmtte_tpu.jpg?v=1523041566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK MATTE TPU SAM S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577466467</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577433699</id>
+    <published>2018-04-06T12:06:04-07:00</published>
+    <updated>2018-04-06T12:06:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s6_clear_tpu"/>
+    <title>CLEAR TPU SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_TPU_SAM_S8_720x_a8569c59-0f0e-4abf-94a0-0f1f696881ff.jpg?v=1610568021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR/TRANSPARENT TPU SAM S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577433699</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577269859</id>
+    <published>2018-04-06T12:05:59-07:00</published>
+    <updated>2018-04-06T12:05:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blstdiam_s6_pink"/>
+    <title>PINK BLST-DMD SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_1024x1024_2x_1a036714-2f4b-4046-a7e2-6fa0288a0af0.jpg?v=1560895973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SAM S6 BALLISTIC DIAMOND</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577269859</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744577237091</id>
+    <published>2018-04-06T12:05:57-07:00</published>
+    <updated>2018-04-06T12:05:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blstdiam_s6_blk"/>
+    <title>BLACK BLST-DMD SAM S6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/295840857268817985_1024x1024_2x_42819bd1-1e23-4d75-ad2d-ae78cc9b5716.jpg?v=1560895927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SAM S6 BALLISTIC DIAMOND</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744577237091</id>
+      <title>Precision Cut / SAMSUNG S6 / SAMSUNG S6</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/ipad-pro-9-7.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-01-27T15:06:58-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839072867</id>
+    <published>2021-01-27T15:06:58-08:00</published>
+    <updated>2021-01-27T15:06:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>YELLOW 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/YELLOW.png?v=1611788646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839072867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839367779</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>GREEN 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_3285728e-66ef-4f63-ae81-d3e113f363f9.png?v=1611788601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839367779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839203939</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/orange-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>ORANGE 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ORANGE_47dc07a4-2bfe-40a7-9969-4f53a374b721.png?v=1611788627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839203939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430529638499</id>
+    <published>2019-09-13T12:28:27-07:00</published>
+    <updated>2019-09-13T12:28:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-ipad-mini-4-tempered-glass"/>
+    <title>IPAD PRO 9.7 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPAD_TEMPERED_GLASS_589b3d76-7a9b-4b64-8663-c36d5d23f65e.jpg?v=1537291827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPAD PRO 9.7 TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430529638499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429917106275</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-beige-ipad-smart-case-for-ipad-pro-10-5"/>
+    <title>BEIGE IPAD-SMART-CASE FOR IPAD PRO (9.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BEIGE_5d5880db-b09b-4467-9771-673e8354c800.jpg?v=1615324966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429917106275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>ipad-234_pd-smrt-cs_bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429913632867</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-baby-blue-ipad-smart-case-for-ipad-pro-10-6"/>
+    <title>BABY BLUE IPAD-SMART-CASE FOR IPAD PRO (9.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61Aclyh1chL._AC_SL1500_83e76d48-57d3-42f8-b8f5-8aa6a7d892c1.jpg?v=1615324976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429913632867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>ipad-234_pd-smrt-cs_bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429910061155</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-gold-ipad-smart-case-for-ipad-pro-10-6"/>
+    <title>GOLD IPAD-SMART-CASE FOR IPAD PRO (9.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_49999f5c-0058-4dac-bf1c-4789375150d7.jpg?v=1615325122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429910061155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>ipad-234_pd-smrt-cs_bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429909897315</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-raspberry-ipad-smart-case-for-ipad-pro-10-6"/>
+    <title>RED RASPBERRY IPAD-SMART-CASE FOR IPAD PRO (9.7)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61_eWMpeGTL._AC_SL1500_3152dadd-bf2b-4d30-8174-e218b3513211.jpg?v=1615325225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429909897315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>ipad-234_pd-smrt-cs_bl</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429908979811</id>
+    <published>2018-04-06T11:38:33-07:00</published>
+    <updated>2018-04-06T11:38:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-baby-blue-ipad-pro-9-7-360-rotatable-case"/>
+    <title>GREEN IPAD PRO (9.7)  360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/712g_O4-1rL._AC_SL1500_69a90933-4c78-42a3-835d-02eb2fec324f.jpg?v=1615325146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429908979811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429908488291</id>
+    <published>2018-04-06T11:38:33-07:00</published>
+    <updated>2018-04-06T11:38:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-ipad-pro-9-7-360-rotatable-case"/>
+    <title>PINK IPAD PRO (9.7) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_52e169ca-5ba4-4761-9718-2b2c0480b9bb.jpg?v=1537212759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>PINK IPAD PRO (9.7) 360 ROTATABLE CASE</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429908488291</id>
+      <title>Precision Cut / IPAD 2/3/4 / IPAD 2/3/4</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429908389987</id>
+    <published>2018-04-06T11:38:33-07:00</published>
+    <updated>2018-04-06T11:38:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-purple-ipad-pro-9-7-360-rotatable-case"/>
+    <title>GOLD IPAD PRO (9.7) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_f8a445c0-b4a4-49bb-a273-7c854ad532af.jpg?v=1615325505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429908389987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429908324451</id>
+    <published>2018-04-06T11:38:33-07:00</published>
+    <updated>2018-04-06T11:38:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-rose-gold-ipad-pro-9-7-360-rotatable-case"/>
+    <title>PURPLE IPAD PRO (9.7) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/7199PVvVtdL._AC_SL1500_b9f3acb0-41e2-48f7-a599-9f3e2c020fbf.jpg?v=1615325383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429908324451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

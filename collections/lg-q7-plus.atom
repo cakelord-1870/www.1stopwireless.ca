@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-q7-plus.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-02-01T12:37:25-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483367317603</id>
+    <published>2019-02-01T12:37:25-08:00</published>
+    <updated>2019-02-01T12:37:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-sar-lg-q7-plus"/>
+    <title>GREY SAR LG Q7 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grey_f07d683e-48dd-4979-8ca9-716fd47968fb.png?v=1611072062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SAR LG Q7 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG Q7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483367317603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483366989923</id>
+    <published>2019-02-01T12:37:25-08:00</published>
+    <updated>2019-02-01T12:37:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sar-lg-q7-plus"/>
+    <title>BLACK SAR LG Q7 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_930aeb59-4a7d-45fc-9078-558f4f7fc551.jpg?v=1611072055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SAR LG Q7 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG Q7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483366989923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483366793315</id>
+    <published>2019-02-01T12:37:25-08:00</published>
+    <updated>2019-02-01T12:37:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sar-lg-q7-plus"/>
+    <title>R GOLD SAR LG Q7 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_67f553d8-e1fc-4983-a245-a40d13700d08.jpg?v=1611072539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SAR LG Q7 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG Q7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483366793315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483366662243</id>
+    <published>2019-02-01T12:37:25-08:00</published>
+    <updated>2019-02-01T12:37:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sar-lg-q7-plus"/>
+    <title>N BLUE SAR LG Q7 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_383cf547-49e2-4863-a9ad-66b909600ce4.png?v=1611072536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE SAR LG Q7 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG Q7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483366662243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1483366596707</id>
+    <published>2019-02-01T12:37:25-08:00</published>
+    <updated>2019-02-01T12:37:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sar-lg-q7-plus"/>
+    <title>RED SAR LG Q7 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_2fdce800-8372-4085-96d0-d808bc28d86d.png?v=1611072545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SAR LG Q7 PLUS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG Q7 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1483366596707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

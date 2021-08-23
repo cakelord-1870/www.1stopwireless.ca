@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-j7-2017.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-29T18:29:41-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510692184163</id>
+    <published>2020-05-29T18:29:41-07:00</published>
+    <updated>2020-05-29T18:29:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-sam-j7-star"/>
+    <title>BLACK BLUEVISION WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_f2987dfd-5935-4359-acfe-1ddfd7e7f71c.png?v=1609367972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510692184163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495726325859</id>
+    <published>2019-09-13T10:36:05-07:00</published>
+    <updated>2019-09-13T10:36:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/j7-star-2017-tempered-glass-loose"/>
+    <title>J7 STAR TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l640_3a33fce3-42ad-48ab-a775-67286db96f46.jpg?v=1611170472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">J7 STAR TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495726325859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555152986211</id>
+    <published>2019-05-03T13:32:50-07:00</published>
+    <updated>2019-05-03T13:32:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/beige-plaid-wlt-sam-j7-star"/>
+    <title>BEIGE PLAID WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/beige_plaid_7ba01f31-99fe-4b50-9865-92ae32bdfe0e.jpg?v=1610733621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BEIGE PLAID WLT SAM J7 STAR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555152986211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555152560227</id>
+    <published>2019-05-03T13:32:14-07:00</published>
+    <updated>2019-05-03T13:32:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-checker-wlt-sam-j7-star"/>
+    <title>BROWN CHECKER WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/brown_plaid_f76e73e2-13a0-4494-a4f5-c39ccd160e00.jpg?v=1610733625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN CHECKER WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555152560227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491321217123</id>
+    <published>2019-04-29T15:40:09-07:00</published>
+    <updated>2019-04-29T15:40:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-sam-j7-star"/>
+    <title>TEAL SAR SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_grande_e4f8be1e-0113-4581-ae09-553d707baf27.jpg?v=1555442963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SAR SAM J7 STAR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491321217123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510694019171</id>
+    <published>2019-04-29T15:38:39-07:00</published>
+    <updated>2019-04-29T15:38:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-j7-star"/>
+    <title>TEAL BLUEVISION WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_552b246c-7fb2-4ed1-a67f-0611b4fd7cf1.png?v=1609789520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510694019171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491320725603</id>
+    <published>2019-04-29T15:34:18-07:00</published>
+    <updated>2019-04-29T15:34:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sar-sam-j7-star"/>
+    <title>RED SAR SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_grande_a3754cb4-a9dc-4bc5-bd34-36ca5c829fac.jpg?v=1555442937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SAR SAM J7 STAR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491320725603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510693593187</id>
+    <published>2019-04-29T15:28:38-07:00</published>
+    <updated>2019-04-29T15:28:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-sam-j7-star"/>
+    <title>RED BLUEVISION WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_7515e4e1-276d-47d8-98ea-8ac99ab0ebf2.png?v=1609369567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510693593187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491318497379</id>
+    <published>2019-04-29T15:26:42-07:00</published>
+    <updated>2019-04-29T15:26:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sar-sam-j7-star"/>
+    <title>R GOLD SAR SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSE_GOLD_grande_aaadbcae-edd9-42dc-be05-788885105d5b.jpg?v=1555442915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SAR SAM J7 STAR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491318497379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510693101667</id>
+    <published>2019-04-29T15:25:19-07:00</published>
+    <updated>2019-04-29T15:25:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-j7-star"/>
+    <title>R GOLD BLUEVISION WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_3e9b1088-c159-44dc-94de-f697b81c768f.png?v=1609368353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510693101667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491320528995</id>
+    <published>2019-04-29T15:22:56-07:00</published>
+    <updated>2019-04-29T15:22:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-sam-j7-star"/>
+    <title>PINK SAR SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_grande_d1179309-59a2-421d-bc35-c642b390c475.jpg?v=1555442885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR SAM J7 STAR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491320528995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510694150243</id>
+    <published>2019-04-29T15:21:35-07:00</published>
+    <updated>2019-04-29T15:21:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-j7-star"/>
+    <title>PURPLE BLUEVISION WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_0010e351-7236-4648-a94d-39c9d4d676ed.png?v=1609369109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510694150243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510693494883</id>
+    <published>2019-04-29T15:18:39-07:00</published>
+    <updated>2019-04-29T15:18:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-j7-star"/>
+    <title>PINK BLUEVISION WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_81e0a2e5-e121-4cc7-9ddc-58450bb1de4d.png?v=1609368897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510693494883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3491320922211</id>
+    <published>2019-04-29T15:00:12-07:00</published>
+    <updated>2019-04-29T15:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-sar-sam-j7-star"/>
+    <title>GREY SAR SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_grande_0f544a25-fd93-40be-9d0c-425d3a4b9357.jpg?v=1555442842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SAR SAM J7 STAR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3491320922211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510693888099</id>
+    <published>2019-04-29T14:51:52-07:00</published>
+    <updated>2019-04-29T14:51:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-sam-j7-star"/>
+    <title>BROWN BLUEVISION WLT SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_072bdd24-1aeb-40f9-81c6-6fe00bc4d894.png?v=1609368635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT SAM J7 STAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510693888099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573795856483</id>
+    <published>2019-04-15T08:35:08-07:00</published>
+    <updated>2019-04-15T08:35:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-c-hybrid-sam-j7-star"/>
+    <title>BLACK C-HYBRID SAM J7 STAR</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1_fe4c7dc6-37c3-454b-9477-c1a51373097f.jpg?v=1554244920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK C-HYBRID SAM J7 STAR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573795856483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485623779427</id>
+    <published>2019-04-12T14:23:48-07:00</published>
+    <updated>2019-04-12T14:23:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-a5-2017-tempered-glass-packed-1"/>
+    <title>J7 STAR TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_b4dc5f4d-84e5-4ed5-bed5-0b5321d91b4b.jpeg?v=1558995248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAM J7 STAR TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:tag>SAM J7 STAR</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485623779427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

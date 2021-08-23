@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-x-power-2.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-19T14:33:43-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505550590051</id>
+    <published>2020-05-19T14:33:43-07:00</published>
+    <updated>2020-05-19T14:33:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-sar-lg-xpower-3"/>
+    <title>RED SAR LG XPOWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_57f9becf-37b6-432f-b507-5afd28f4ed9f.JPG?v=1555449422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SLIM RUGGED CASE FOR LG XPOWER 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505550590051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505547280483</id>
+    <published>2019-10-12T10:52:10-07:00</published>
+    <updated>2019-10-12T10:52:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-n-blue-sar-lg-xpower-3"/>
+    <title>N BLUE SAR LG XPOWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/xpower_3_n_blue_56bfba20-23ba-4842-b3c4-14d58d7546bc.jpg?v=1555449311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>N BLUE SAR LG XPOWER 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505547280483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505544462435</id>
+    <published>2019-09-16T11:15:30-07:00</published>
+    <updated>2019-09-16T11:15:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-sar-lg-xpower-3"/>
+    <title>BLACK SAR LG XPOWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_a56a37f7-69d2-4878-97cd-019c0ab2afcc.JPG?v=1555449223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SLIM RUGGED CASE FOR LG XPOWER 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505544462435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505548853347</id>
+    <published>2019-04-29T15:22:56-07:00</published>
+    <updated>2019-04-29T15:22:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-purple-sar-lg-xpower-3"/>
+    <title>PURPLE SAR LG XPOWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_d1cf92fc-19e7-454a-aca1-d380988a1e3a.JPG?v=1555449368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SLIM RUGGED CASE FOR LG XPOWER 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505548853347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505549934691</id>
+    <published>2019-04-16T14:16:34-07:00</published>
+    <updated>2019-04-16T14:16:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-r-gold-sar-lg-xpower-3"/>
+    <title>R GOLD SAR LG XPOWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSE_GOLD_02e02006-903f-40b4-a3f0-4357681ca01e.JPG?v=1555449394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SLIM RUGGED CASE FOR LG XPOWER 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505549934691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505548034147</id>
+    <published>2019-04-16T14:15:39-07:00</published>
+    <updated>2019-04-16T14:15:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-pink-sar-lg-xpower-3"/>
+    <title>PINK SAR LG XPOWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/xpower3_pink_0be69567-b5d5-48e8-84de-b059c118f085.jpg?v=1555449339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SLIM RUGGED CASE FOR LG XPOWER 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505548034147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505545805923</id>
+    <published>2019-04-16T14:14:24-07:00</published>
+    <updated>2019-04-16T14:14:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-grey-sar-lg-xpower-3"/>
+    <title>GREY SAR LG XPOWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/xpower_3_grey_b8eb7579-f6d0-4ebf-8c20-097f0455197e.jpg?v=1555449265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SLIM RUGGED CASE FOR LG XPOWER 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505545805923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430787227747</id>
+    <published>2019-02-15T10:26:23-08:00</published>
+    <updated>2019-02-15T10:26:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-copy-of-lg-q6-tempered-glass-loose"/>
+    <title>LG XPOWER 2 TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_3214a691-e112-4693-b2f4-6562cca020f1.jpg?v=1611078464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER 2 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:tag>LG XPOWER2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430787227747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1515946639459</id>
+    <published>2018-04-06T12:24:56-07:00</published>
+    <updated>2018-04-06T12:24:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-shiny-wlt-lg-x-power-2"/>
+    <title>TEAL SHINY WLT LG X POWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_grande_974f6fbf-8dab-415f-aaa6-0f8c601d60d4.jpg?v=1611083418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL SHINY WLT LG X POWER 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1515946639459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1515945689187</id>
+    <published>2018-04-06T12:24:56-07:00</published>
+    <updated>2018-04-06T12:24:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-shiny-wlt-lg-x-power-2"/>
+    <title>PINK SHINY WLT LG X POWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_grande_08e3866b-57eb-4865-b93c-e3343636e4ea.jpg?v=1551287408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SHINY WLT LG X POWER 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1515945689187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744620261475</id>
+    <published>2018-04-06T12:24:51-07:00</published>
+    <updated>2018-04-06T12:24:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/tpu_lgxpower2_blk"/>
+    <title>BLACK  TPU FOR LG X POWER 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tpu_lgxpower2_blk.jpg?v=1523042692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK  TPU FOR LG X POWER 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG X POWER 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744620261475</id>
+      <title>Precision Cut / LG X POWER 2 / LG X POWER 2</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>tpu_lgxpower2_blk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/sam-tab-a-8-0-t385.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-09-13T10:36:56-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485244555363</id>
+    <published>2019-09-13T10:36:56-07:00</published>
+    <updated>2019-09-13T10:36:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-t110-tab-3-lite-7-0-tempered-glass"/>
+    <title>SAMSUNG T380/385 (TAB A 8.0 2017) TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SAM_TABLET_ffc103bd-4a4d-44f7-bffc-21528638ed52.jpg?v=1555095045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAMSUNG T380/385 (TAB A 8.0 2017) TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 8.0/T385</s:tag>
+    <s:tag>SAMSUNG TAB TEMPERED</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485244555363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489641308259</id>
+    <published>2019-02-08T15:14:38-08:00</published>
+    <updated>2019-02-08T15:14:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sam-tab-a-8-0-t380-385-cover"/>
+    <title>N BLUE SAM TAB A 8.0/(T380/385) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tgk-tgk-4113-original-imafpfnzqhuwcjeh.jpg?v=1615408315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 8.0/T385</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489641308259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489640685667</id>
+    <published>2019-02-08T15:14:38-08:00</published>
+    <updated>2019-02-08T15:14:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sam-tab-a-8-0-t380-385-cover"/>
+    <title>RED SAM TAB A 8.0/(T380/385) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_533f40f4-f52f-4360-8636-9ca9e4d04d9c.jpg?v=1615408362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 8.0/T385</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489640685667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489639932003</id>
+    <published>2019-02-08T15:14:38-08:00</published>
+    <updated>2019-02-08T15:14:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sam-tab-a-8-0-t380-385-cover"/>
+    <title>R GOLD SAM TAB A 8.0/(T380/385) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RRGOLD_5665480d-5f6f-429f-bcf6-24b81e38a720.jpg?v=1615408350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 8.0/T385</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489639932003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489639571555</id>
+    <published>2019-02-08T15:14:38-08:00</published>
+    <updated>2019-02-08T15:14:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-sam-tab-a-8-0-t380-385-cover"/>
+    <title>PURPLE SAM TAB A 8.0/(T380/385) 360 ROTATING COVER</title>
+    <s:type>SAMSUNG TABLET CASES</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tgk-tgk-4116-original-imafpfnzrfaumyah.jpg?v=1615408339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>SAMSUNG TABLET CASES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 8.0/T385</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489639571555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1489638916195</id>
+    <published>2019-02-08T15:14:38-08:00</published>
+    <updated>2019-02-08T15:14:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sam-tab-a-8-0-t380-385-cover"/>
+    <title>PINK SAM TAB A 8.0/(T380/385) 360 ROTATING COVER</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tgk-tgk-4115-original-imafpfnzqzvz3zgt.jpg?v=1615408324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 8.0/T385</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1489638916195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1428921057379</id>
+    <published>2019-02-08T15:14:38-08:00</published>
+    <updated>2019-02-08T15:14:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-sam-tab-a-7-0-t285-cover"/>
+    <title>BLACK SAM TAB A 8.0/(T380/385) 360 ROTATING COVER</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tgk-tgk-4111-original-imafpfnzy44gmdnz.jpg?v=1615408306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM TAB A 8.0/T385</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1428921057379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

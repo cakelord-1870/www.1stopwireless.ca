@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/moto-g7.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-10-09T11:09:01-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4720252911715</id>
+    <published>2020-10-09T11:09:01-07:00</published>
+    <updated>2020-10-09T11:09:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-moto-g7"/>
+    <title>BLACK BLUEVISION WLT MOTO G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_2c1e09dd-f794-4c14-b949-81dcda595df8.png?v=1609367844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4720252911715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167174750307</id>
+    <published>2019-10-10T11:59:37-07:00</published>
+    <updated>2019-10-10T11:59:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-matte-case-moto-g7"/>
+    <title>N BLUE MATTE CASE MOTO G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_ae1020eb-5b04-4414-9db3-9640c0b30651.png?v=1611159697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE MATTE CASE MOTO G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167174750307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167174357091</id>
+    <published>2019-10-10T11:59:37-07:00</published>
+    <updated>2019-10-10T11:59:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-matte-case-moto-g7"/>
+    <title>BLACK MATTE CASE MOTO G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_bb98d56d-f162-46e3-9456-9c064c8895fd.png?v=1611159687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK MATTE CASE MOTO G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167174357091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167174127715</id>
+    <published>2019-10-07T08:23:27-07:00</published>
+    <updated>2019-10-07T08:23:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/white-matte-case-moto-g7"/>
+    <title>WHITE MATTE CASE MOTO G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/white_0512688a-d492-46d6-b737-7b10827724ed.png?v=1611159722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">WHITE MATTE CASE MOTO G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167174127715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4167174455395</id>
+    <published>2019-10-07T08:23:06-07:00</published>
+    <updated>2019-10-07T08:23:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-matte-case-moto-g7"/>
+    <title>RED MATTE CASE MOTO G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_8b4008cb-6de6-448d-aba2-8e219cdbee8e.png?v=1611159707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED MATTE CASE MOTO G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4167174455395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4030257430627</id>
+    <published>2019-09-16T07:55:35-07:00</published>
+    <updated>2019-09-16T07:55:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-incy-moto-g7"/>
+    <title>PINK INCY MOTO G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_3777dc20-1f54-4bab-a3ee-1be963eb861c.png?v=1611160452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK INCY MOTO G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4030257430627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579668602979</id>
+    <published>2019-09-16T07:50:51-07:00</published>
+    <updated>2019-09-16T07:50:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-moto-g7"/>
+    <title>CLEAR TPU MOTO G7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71_2Br0PfsppL._AC_SX522_bf172931-1a71-4687-8146-623bdd27491c.jpg?v=1611160326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR TPU MOTO G7</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MOTO G7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579668602979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

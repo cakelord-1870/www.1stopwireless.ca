@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-x-power-3.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-19T14:33:42-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433060835427</id>
+    <published>2020-05-19T14:33:42-07:00</published>
+    <updated>2020-05-19T14:33:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-purple-slim-rugged-case-for-lg-xpower-3"/>
+    <title>RED SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_9f7c0698-0924-47cf-8c92-7ba4db562d89.JPG?v=1555444873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SLIM RUGGED CASE FOR LG XPOWER 3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433060835427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489178419299</id>
+    <published>2019-10-29T14:19:19-07:00</published>
+    <updated>2019-10-29T14:19:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-lg-xpower-3"/>
+    <title>PURPLE BLUEVISION WLT LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_d4e637ca-67a1-46a8-ae6e-f64aa6450bd0.png?v=1609369010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT LG XPOWER 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489178419299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1512492630115</id>
+    <published>2019-10-12T10:52:09-07:00</published>
+    <updated>2019-10-12T10:52:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sar-lg-xpower-3"/>
+    <title>N BLUE SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/xpower_3_n_blue_db79db05-b4a0-4128-8d0c-9e0ba456fe6c.jpg?v=1555446012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>N BLUE SAR LG XPOWER 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1512492630115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433060704355</id>
+    <published>2019-10-12T10:52:09-07:00</published>
+    <updated>2019-10-12T10:52:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-slim-rugged-case-for-lg-xpower-3"/>
+    <title>BLACK SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_fbb18bc3-299e-4286-aa10-45218aa2631a.JPG?v=1555444788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SLIM RUGGED CASE FOR LG XPOWER 3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433060704355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433060769891</id>
+    <published>2019-04-29T15:22:55-07:00</published>
+    <updated>2019-04-29T15:22:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-slim-rugged-case-for-lg-xpower-3"/>
+    <title>PURPLE SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_247d3cd1-13de-4527-a118-9d8da7d19075.JPG?v=1555444809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SLIM RUGGED CASE FOR LG XPOWER 3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433060769891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489174126691</id>
+    <published>2019-04-22T12:53:15-07:00</published>
+    <updated>2019-04-22T12:53:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-lg-xpower-3"/>
+    <title>BROWN BLUEVISION WLT LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_7daa5f5c-6469-4d85-abf8-47ef46448067.png?v=1609368543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT LG XPOWER 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489174126691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489173176419</id>
+    <published>2019-04-22T12:53:15-07:00</published>
+    <updated>2019-04-22T12:53:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-lg-xpower-3"/>
+    <title>RED BLUEVISION WLT LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_7bb66fc2-d3c9-4469-859e-ce0b72a80fce.png?v=1609369460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT LG XPOWER 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489173176419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489172619363</id>
+    <published>2019-04-22T12:53:15-07:00</published>
+    <updated>2019-04-22T12:53:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-lg-xpower-3"/>
+    <title>PINK BLUEVISION WLT LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_ba80022b-84ee-4240-af28-ce31ccf80e5a.png?v=1609368795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT LG XPOWER 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489172619363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489172029539</id>
+    <published>2019-04-22T12:53:14-07:00</published>
+    <updated>2019-04-22T12:53:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-lg-xpower-3"/>
+    <title>R GOLD BLUEVISION WLT LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_7b9f7db2-1f2d-4c07-a8fb-6251debf6d48.png?v=1609368248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT LG XPOWER 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489172029539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489169178723</id>
+    <published>2019-04-22T12:53:14-07:00</published>
+    <updated>2019-04-22T12:53:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-lg-xpower-3"/>
+    <title>BLACK BLUEVISION WLT LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_3e114338-a1a3-4eff-a48f-4776c0f36584.png?v=1609367799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT LG XPOWER 3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489169178723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485672800355</id>
+    <published>2019-04-12T14:42:35-07:00</published>
+    <updated>2019-04-12T14:42:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-xpower-3-tempered-glass-packed"/>
+    <title>LG XPOWER 3 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_41451175-83d9-4e72-a030-e489fdc9a0be.jpeg?v=1558995185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER 3 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485672800355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1512483717219</id>
+    <published>2019-02-25T14:18:51-08:00</published>
+    <updated>2019-02-25T14:18:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-lg-xpower-3"/>
+    <title>PINK SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/xpower3_pink_8ef33085-e99c-4309-84b2-026b6e3e2244.jpg?v=1555446025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SLIM RUGGED CASE FOR LG XPOWER 3 </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1512483717219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433061392483</id>
+    <published>2019-02-25T14:16:58-08:00</published>
+    <updated>2019-02-25T14:16:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-gold-slim-rugged-case-for-lg-xpower-3"/>
+    <title>TEAL SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_38a77d15-078f-4663-a0af-1347c06d48de.JPG?v=1555444896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SLIM RUGGED CASE FOR LG XPOWER 3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433061392483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495731044451</id>
+    <published>2019-02-15T10:26:23-08:00</published>
+    <updated>2019-02-15T10:26:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-xpower-3-tempered-glass-loose"/>
+    <title>LG XPOWER 3 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_95b6772d-294b-4755-8d98-856947da2eea.jpg?v=1611078470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG XPOWER 3 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495731044451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456283877475</id>
+    <published>2018-11-16T10:39:07-08:00</published>
+    <updated>2018-11-16T10:39:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sar-lg-xpower-3"/>
+    <title>R GOLD SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSE_GOLD_8a223521-e467-479d-b8e4-32b9dd00d260.JPG?v=1555444827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SLIM RUGGED CASE FOR LG XPOWER 3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456283877475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1433060966499</id>
+    <published>2018-11-16T10:39:07-08:00</published>
+    <updated>2018-11-16T10:39:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-slim-rugged-case-for-lg-xpower-3"/>
+    <title>GREY SAR LG XPOWER 3</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/xpower_3_grey_e86258c6-884a-4c32-af3b-80658b49c145.jpg?v=1555445990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SLIM RUGGED CASE FOR LG XPOWER 3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG XPOWER3</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1433060966499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

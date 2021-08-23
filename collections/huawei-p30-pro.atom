@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/huawei-p30-pro.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-11-21T12:21:23-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3510746939491</id>
+    <published>2020-11-21T12:21:23-08:00</published>
+    <updated>2020-11-21T12:21:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-huawei-p30-pro"/>
+    <title>BLACK BLUEVISION WLT HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_3a97918b-f270-42f5-91da-d64f2413be73.png?v=1609367811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3510746939491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4702984929379</id>
+    <published>2020-09-14T08:55:21-07:00</published>
+    <updated>2020-09-14T08:55:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-triangle-huawei-p30-pro"/>
+    <title>TEAL TRIANGLE HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/huawei-P30Pro-1-mint.jpg?v=1600209390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4702984929379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4702984798307</id>
+    <published>2020-09-14T08:48:40-07:00</published>
+    <updated>2020-09-14T08:48:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-triangle-huawei-p30-pro-1"/>
+    <title>PINK TRIANGLE HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/huawei-P30Pro-1-pink.jpg?v=1600209318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4702984798307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4702984700003</id>
+    <published>2020-09-14T08:48:40-07:00</published>
+    <updated>2020-09-14T08:48:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-triangle-huawei-p30-pro"/>
+    <title>SILVER TRIANGLE HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/huawei-P30Pro-1-silver.jpg?v=1600209376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4702984700003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3927933550691</id>
+    <published>2020-09-14T08:25:38-07:00</published>
+    <updated>2020-09-14T08:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-triangle-huawei-p30-pro"/>
+    <title>R GOLD TRIANGLE HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/huawei-P30Pro-1-rosegold.jpg?v=1600209350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD TRIANGLE HUAWEI P30 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3927933550691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3927933288547</id>
+    <published>2020-09-14T08:25:38-07:00</published>
+    <updated>2020-09-14T08:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-triangle-huawei-p30-pro"/>
+    <title>BLACK TRIANGLE HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/huawei-P30Pro-1-black.jpg?v=1600209302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3927933288547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555727769699</id>
+    <published>2020-09-08T10:50:53-07:00</published>
+    <updated>2020-09-08T10:50:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-huawei-mate-20-pro-black-full-tempered-glass"/>
+    <title>HUAWEI P30 PRO SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/protector_de_cristal_templado_huawei_p20_01_negro_l.jpg?v=1611096434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:tag>HUAWEI TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555727769699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1582704427107</id>
+    <published>2020-05-21T10:57:29-07:00</published>
+    <updated>2020-05-21T10:57:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-huawei-p30-pro"/>
+    <title>CLEAR TPU HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_TPU_bb0aa578-390d-43a9-9742-a11e08345ba8.jpg?v=1557009004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR TPU HUAWEI P30 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1582704427107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364206014563</id>
+    <published>2019-11-22T17:05:02-08:00</published>
+    <updated>2019-11-22T17:05:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-feeling-tpu-p30-pro"/>
+    <title>RED LIKE SOFT FEELING TPU P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_8558b782-5189-41cc-8dbe-fea2d0bd1bca.png?v=1611095136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364206014563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364205555811</id>
+    <published>2019-11-22T17:05:01-08:00</published>
+    <updated>2019-11-22T17:05:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-feeling-tpu-p30-pro"/>
+    <title>TEAL LIKE SOFT FEELING TPU P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_5be6d0f5-ee04-49a6-9d17-5d34826d59ad.png?v=1611095165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364205555811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364203425891</id>
+    <published>2019-11-22T17:05:01-08:00</published>
+    <updated>2019-11-22T17:05:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-like-soft-feeling-tpu-p30-pro"/>
+    <title>R GOLD LIKE SOFT FEELING TPU P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_8254289b-382f-4f4a-979e-88b1f8c242ca.png?v=1611095123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364203425891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364205785187</id>
+    <published>2019-11-22T16:59:24-08:00</published>
+    <updated>2019-11-22T16:59:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-feeling-tpu-p30-pro"/>
+    <title>PURPLE LIKE SOFT FEELING TPU P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_ca7df6f2-72ff-4ff7-bdcc-33876191743d.png?v=1611095114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364205785187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364204834915</id>
+    <published>2019-11-22T16:59:24-08:00</published>
+    <updated>2019-11-22T16:59:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-like-soft-feeling-tpu-p30-pro"/>
+    <title>PINK LIKE SOFT FEELING TPU P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_83a48f98-0f1b-4d3d-80a8-b9eb7d6f90df.png?v=1611095104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364204834915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364205195363</id>
+    <published>2019-11-22T16:52:13-08:00</published>
+    <updated>2019-11-22T16:52:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-like-soft-feeling-tpu-p30-pro"/>
+    <title>N BLUE LIKE SOFT FEELING TPU P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_e5670427-4d63-449d-8034-7a2fb8a107c3.png?v=1611095098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364205195363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364202967139</id>
+    <published>2019-11-22T16:52:13-08:00</published>
+    <updated>2019-11-22T16:52:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-like-soft-feeling-tpu-p30-pro"/>
+    <title>BLACK LIKE SOFT FEELING TPU P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_2a0df224-72c2-4c0e-b119-1117d674276f.png?v=1611095079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364202967139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4343714775139</id>
+    <published>2019-11-18T18:20:26-08:00</published>
+    <updated>2019-11-18T18:20:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-rugged-marble-airbag-huawei-p30-pro"/>
+    <title>PURPLE RUGGED MARBLE AIRBAG HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_fa946728-6a9b-4b06-8efa-1030cfe9676a.png?v=1612901096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE RUGGED MARBLE AIRBAG HUAWEI P30 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4343714775139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4343714447459</id>
+    <published>2019-11-18T18:20:26-08:00</published>
+    <updated>2019-11-18T18:20:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-rugged-marble-airbag-huawei-p30-pro"/>
+    <title>WHITE RUGGED MARBLE AIRBAG HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WHITE_457aab92-a1d4-4480-aa9b-3335d9fb764b.png?v=1612901162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">WHITE RUGGED MARBLE AIRBAG HUAWEI P30 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4343714447459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4343714152547</id>
+    <published>2019-11-18T18:20:26-08:00</published>
+    <updated>2019-11-18T18:20:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-marble-airbag-huawei-p30-pro"/>
+    <title>BLACK RUGGED MARBLE AIRBAG HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_b6697338-a83a-48f6-a5ed-646581977926.png?v=1612901045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK RUGGED MARBLE AIRBAG HUAWEI P30 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4343714152547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4343713628259</id>
+    <published>2019-11-18T18:20:01-08:00</published>
+    <updated>2019-11-18T18:20:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-rugged-marble-airbag-huawei-p30-pro"/>
+    <title>R GOLD RUGGED MARBLE AIRBAG HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_142f2a8e-630c-44c3-8995-2740b9229851.png?v=1612901117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD RUGGED MARBLE AIRBAG HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4343713628259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165410324579</id>
+    <published>2019-10-23T08:27:02-07:00</published>
+    <updated>2019-10-23T08:27:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-feather-puff-wlt-huawei-p30-pro"/>
+    <title>PURPLE FEATHER PUFF WLT HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/123PURPLE_EDIT_c076fa08-c9c1-462e-8e30-92e840083ac6.jpg?v=1572468309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE FEATHER PUFF WLT HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165410324579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165408030819</id>
+    <published>2019-10-23T08:27:01-07:00</published>
+    <updated>2019-10-23T08:27:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flower-puff-wlt-huawei-p30-pro"/>
+    <title>PINK FLOWER PUFF WLT HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_FLOWERS_144059f6-2e90-49bf-b1de-ef3b985a7ed1.PNG?v=1569609053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK FLOWER PUFF WLT HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165408030819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165409964131</id>
+    <published>2019-10-23T08:26:34-07:00</published>
+    <updated>2019-10-23T08:26:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/peach-flower-puff-wlt-huawei-p30-pro"/>
+    <title>PINK ROSE PUFF WLT HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_ROSE_FINAL_250595fd-1c8b-4789-8216-66053509111d.png?v=1572471995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK ROSE PUFF WLT HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165409964131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165406949475</id>
+    <published>2019-10-23T08:26:33-07:00</published>
+    <updated>2019-10-23T08:26:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flower-puff-wlt-huawei-p30-pro"/>
+    <title>GREY FLOWER PUFF WLT HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_FLOWERS_a9c126ef-b41b-4c16-9cb2-ae2e7e5be69c.PNG?v=1569608949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREY FLOWER PUFF WLT HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165406949475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165409046627</id>
+    <published>2019-10-23T08:25:35-07:00</published>
+    <updated>2019-10-23T08:25:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-flower-puff-wlt-huawei-p30-pro"/>
+    <title>BLACK ROSE PUFF WLT HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_FLOWER_f02565cd-f980-425a-9c9c-bfdeb8a90a12.PNG?v=1569609100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK ROSE PUFF WLT HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165409046627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4165407375459</id>
+    <published>2019-10-23T08:25:34-07:00</published>
+    <updated>2019-10-23T08:25:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-flower-puff-wlt-huawei-p30-pro"/>
+    <title>BLUE FLOWER PUFF WLT HUAWEI P30 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLUE_FLOWERS_69814719-fd3b-4fe6-b6a4-d78a1232b5c2.PNG?v=1569609013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLUE FLOWER PUFF WLT HUAWEI P30 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HUAWEI P30 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4165407375459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

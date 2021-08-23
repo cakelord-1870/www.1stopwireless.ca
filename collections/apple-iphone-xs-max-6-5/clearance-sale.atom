@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/apple-iphone-xs-max-6-5.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-07-23T15:33:43-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481507307619</id>
+    <published>2021-07-23T15:33:43-07:00</published>
+    <updated>2021-07-23T15:33:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-detach-wlt-ip-xs-max"/>
+    <title>R GOLD DETACH WLT IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSE_GOLD_86d35c6a-7f96-40dd-bfa2-177de12c8ef0.png?v=1582920794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD DETACH WLT IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481507307619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>ELDWiPXSMaxRSGD</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481507209315</id>
+    <published>2021-07-23T15:33:42-07:00</published>
+    <updated>2021-07-23T15:33:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-detach-wlt-ip-xs-max"/>
+    <title>RED DETACH WLT IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_4b3d8d99-3592-4290-8eaf-87a30585174c.png?v=1582920993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED DETACH WLT IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481507209315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077237133504</id>
+    <published>2020-11-16T16:02:07-08:00</published>
+    <updated>2020-11-16T16:02:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-rugged-hand-grip-kickstand-ip-xs-max"/>
+    <title>NAVY RUGGED HAND GRIP KICKSTAND IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_d5204397-3ad3-48ae-89c9-1fc5afd888c8.png?v=1609960070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077237133504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077237002432</id>
+    <published>2020-11-16T16:01:52-08:00</published>
+    <updated>2020-11-16T16:01:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-rugged-hand-grip-kickstand-ip-xs-max"/>
+    <title>SILVER RUGGED HAND GRIP KICKSTAND IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SILVER_269e3d6c-84da-450f-99e0-f21cf02af3f6.png?v=1609960088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077237002432</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077236805824</id>
+    <published>2020-11-16T16:01:39-08:00</published>
+    <updated>2020-11-16T16:01:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-rugged-hand-grip-kickstand-ip-xs-max"/>
+    <title>RED RUGGED HAND GRIP KICKSTAND IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_d2734ed7-18ab-457b-a5b9-92fdd5bf66b0.png?v=1609960079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077236805824</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077236609216</id>
+    <published>2020-11-16T16:01:23-08:00</published>
+    <updated>2020-11-16T16:01:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-rugged-hand-grip-kickstand-ip-xs-max"/>
+    <title>GREEN RUGGED HAND GRIP KICKSTAND IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_77b11da4-a62a-46d7-814a-8a792eb1e2d3.png?v=1609960055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077236609216</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077236379840</id>
+    <published>2020-11-16T16:01:05-08:00</published>
+    <updated>2020-11-16T16:01:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-hand-grip-kickstand-ip-xs-max"/>
+    <title>BLACK RUGGED HAND GRIP KICKSTAND IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_f63cbcaf-e649-4494-9bd3-19adcd1b3416.png?v=1609960040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK SOFT GLTR IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077236379840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3984157278307</id>
+    <published>2020-09-19T08:33:56-07:00</published>
+    <updated>2020-09-19T08:33:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/orange-silicon-blister-ip-xs-max"/>
+    <title>ORANGE SILICON BLISTER IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/orange_be62a20e-ba31-4c26-85c4-141dbd53d90c.png?v=1612977697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ORANGE SILICON-BLISTER FOR IPHONE XS MAX</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3984157278307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492180041827</id>
+    <published>2020-09-19T08:31:15-07:00</published>
+    <updated>2020-09-19T08:31:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-silicon-blister-ip-xs-max"/>
+    <title>TEAL SILICON BLISTER IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_a93fed55-108a-4eda-bbe2-20d9b533cd8e.png?v=1612977770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SILICON BLISTER IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492180041827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430518497379</id>
+    <published>2020-09-08T10:50:51-07:00</published>
+    <updated>2020-09-08T10:50:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-iphone-x-xs5-8-black-full-tempered-glass-1"/>
+    <title>IPHONE XS MAX/11 PRO MAX FULL TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_0c818394-4131-4044-904e-6935a13d6131.jpg?v=1609865652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL GLUE TEMPERED GLASS</s:tag>
+    <s:tag>IPHONE 11 PRO MAX (6.5)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>IPHONE XS MAX</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430518497379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492178272355</id>
+    <published>2020-08-17T13:08:33-07:00</published>
+    <updated>2020-08-17T13:08:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-silicon-blister-ip-xs-max"/>
+    <title>RED SILICON BLISTER IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_0d69a353-59bb-43b1-a8ab-426c00d10575.png?v=1612977731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SILICON BLISTER IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492178272355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1464191680611</id>
+    <published>2020-08-12T14:03:03-07:00</published>
+    <updated>2020-08-12T14:03:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/iphone-x-xs-max-black-full-matte-tempered-glass"/>
+    <title>IPHONE XS MAX/11 PRO MAX MATTE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l1600_482e4ab0-ea08-484f-9402-c6164ce3d8f9.jpg?v=1609887174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE 11 PRO MAX (6.5)</s:tag>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>IPHONE XS MAX</s:tag>
+    <s:tag>MATTE FINISH TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1464191680611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4490555949155</id>
+    <published>2020-02-19T07:53:19-08:00</published>
+    <updated>2020-02-19T07:53:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/we-the-north-metal-strip-ip-xs-max"/>
+    <title>WE THE NORTH METAL STRIP IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NORTH_c786b418-53b2-4136-b53a-0abe5f7419bc.png?v=1609871045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4490555949155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4465683791971</id>
+    <published>2020-01-21T15:16:28-08:00</published>
+    <updated>2020-01-21T15:16:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/army-green-silicon-blister-ip-xs-max"/>
+    <title>ARMY GREEN SILICON BLISTER IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/green_9f8e987f-6a63-4cce-8024-b31c34b0dd0a.png?v=1612977614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4465683791971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4405131083875</id>
+    <published>2019-11-30T14:20:23-08:00</published>
+    <updated>2019-11-30T14:20:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ip-xr-3d-plush-fur-owl-furry-phone-cases"/>
+    <title>IP XS MAX 3D Plush Fur Owl Furry Phone Cases</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/OWL_IP_X_12d1a257-b363-4c6e-ac4a-227e74cb1002.jpg?v=1575152489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IP XS MAX 3D Plush Fur Owl Furry Phone Cases</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4405131083875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4348409872483</id>
+    <published>2019-11-23T13:09:34-08:00</published>
+    <updated>2019-11-23T13:09:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-maple-mirror-wlt-ip-xs-max"/>
+    <title>GREEN MAPLE MIRROR WLT IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154809_495e63cd-3fe8-48a0-ab22-b3cf726f0ee7.png?v=1609615187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREEN MAPLE MIRROR WLT IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4348409872483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4348409184355</id>
+    <published>2019-11-23T13:09:34-08:00</published>
+    <updated>2019-11-23T13:09:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-maple-mirror-wlt-ip-xs-max"/>
+    <title>PURPLE MAPLE MIRROR WLT IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154744_4367e031-910d-47e8-91d8-c358087dffe9.png?v=1609615309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE MAPLE MIRROR WLT IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4348409184355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4348408201315</id>
+    <published>2019-11-23T13:09:34-08:00</published>
+    <updated>2019-11-23T13:09:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-maple-mirror-wlt-ip-xs-max"/>
+    <title>RED MAPLE MIRROR WLT IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154756_c528638b-9de9-42f7-a0cd-aa7b25ff16d9.png?v=1609615363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED MAPLE MIRROR WLT IP XS MAX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4348408201315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4356455530595</id>
+    <published>2019-11-22T17:15:29-08:00</published>
+    <updated>2019-11-22T17:15:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-zigzag-tpu-ip-xs-max"/>
+    <title>BROWN ZIGZAG TPU IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/zigbrown_1f3de0fd-3b1e-4662-a5f2-8c3249041328.jpg?v=1612999056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4356455530595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4356454940771</id>
+    <published>2019-11-22T17:15:29-08:00</published>
+    <updated>2019-11-22T17:15:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-grey-zigzag-tpu-ip-xs-max"/>
+    <title>BLACK/GREY ZIGZAG TPU IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ziggrey_afa6cf33-ea64-4275-ab68-1ac5e4af30b7.jpg?v=1612999033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4356454940771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364173934691</id>
+    <published>2019-11-22T17:04:55-08:00</published>
+    <updated>2019-11-22T17:04:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-feeling-tpu-ip-xs-max"/>
+    <title>TEAL LIKE SOFT FEELING TPU IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_abcbe2c2-a4d6-427b-8af1-770e84466fce.png?v=1609444420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364173934691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364173869155</id>
+    <published>2019-11-22T17:04:55-08:00</published>
+    <updated>2019-11-22T17:04:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-feeling-tpu-ip-xs-max"/>
+    <title>RED LIKE SOFT FEELING TPU IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_e3b40bc8-fde2-4634-b987-6dc484265bcb.png?v=1609444394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364173869155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364174164067</id>
+    <published>2019-11-22T16:59:17-08:00</published>
+    <updated>2019-11-22T16:59:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-feeling-tpu-ip-xs-max"/>
+    <title>PURPLE LIKE SOFT FEELING TPU IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE_e5e98768-812c-411d-9eeb-583113f2d5d8.png?v=1609444340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364174164067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364173639779</id>
+    <published>2019-11-22T16:59:17-08:00</published>
+    <updated>2019-11-22T16:59:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-like-soft-feeling-tpu-ip-xs-max"/>
+    <title>R GOLD LIKE SOFT FEELING TPU IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_515af8b7-a823-457d-a3ca-ff5f85866709.png?v=1609444360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364173639779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364173770851</id>
+    <published>2019-11-22T16:52:07-08:00</published>
+    <updated>2019-11-22T16:52:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-like-soft-feeling-tpu-ip-xs-max"/>
+    <title>N BLUE LIKE SOFT FEELING TPU IP XS MAX</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_a0712ccb-3333-4c20-957c-94d7e7b34561.png?v=1609444304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE Xs MAX (6.5)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364173770851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

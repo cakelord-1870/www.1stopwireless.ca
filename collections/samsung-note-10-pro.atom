@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-note-10-pro.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-06-05T10:36:51-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4030377361507</id>
+    <published>2021-06-05T10:36:51-07:00</published>
+    <updated>2021-06-05T10:36:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-sar-note-10-pro"/>
+    <title>TEAL SAR NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE10-PRO-_I-09.jpg?v=1568657558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SAR NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4030377361507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4030376771683</id>
+    <published>2021-06-05T10:36:51-07:00</published>
+    <updated>2021-06-05T10:36:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-note-10-pro"/>
+    <title>PINK SAR NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE10-PRO-_I-10.jpg?v=1568657481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4030376771683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4030376181859</id>
+    <published>2021-06-05T10:36:50-07:00</published>
+    <updated>2021-06-05T10:36:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-sar-note-10-pro"/>
+    <title>RED SAR NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE10-PRO-_I-01.jpg?v=1568657432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SAR NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4030376181859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4030375919715</id>
+    <published>2021-06-05T10:36:49-07:00</published>
+    <updated>2021-06-05T10:36:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-sar-note-10-pro"/>
+    <title>R GOLD SAR NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE10-PRO-_I-08.jpg?v=1568657384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SAR NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4030375919715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4027420082275</id>
+    <published>2020-11-21T12:30:36-08:00</published>
+    <updated>2020-11-21T12:30:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-def-note-10-pro"/>
+    <title>BLACK DEFEND NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/dc507eab6d16bd45fc8d25eef542194_4fd706d2-0d82-43cd-96a1-36028c7b50a6.jpg?v=1568401684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK DEF NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4027420082275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4699936161891</id>
+    <published>2020-09-08T14:17:00-07:00</published>
+    <updated>2020-09-08T14:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pmma-nano-sam-note-10-plus-loose"/>
+    <title>PMMA NANO SAM NOTE 10 PLUS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Hd81ffad2d76e489f9bd6e22f50d56e74F_4b123e4d-3fd1-41b6-9501-f12d2005e400.jpg?v=1608674609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>POLYMER NANO TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4699936161891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4027427618915</id>
+    <published>2020-05-28T13:18:36-07:00</published>
+    <updated>2020-05-28T13:18:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-def-note-10-pro"/>
+    <title>N BLUE DEFEND NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/6b23c756b35132dd8eff9472003cbfd_cf08c318-7cd0-4c76-89d9-5d8782e27841.jpg?v=1568401863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE DEF NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4027427618915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4027424702563</id>
+    <published>2020-05-28T13:18:36-07:00</published>
+    <updated>2020-05-28T13:18:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-white-def-note-10-pro"/>
+    <title>GREY/WHITE DEFEND NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/06feb4354c10359142459e00c0f5137.jpg?v=1568401964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY/WHITE DEF NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4027424702563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4027499479139</id>
+    <published>2020-05-21T10:58:36-07:00</published>
+    <updated>2020-05-21T10:58:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-note-10-pro"/>
+    <title>CLEAR TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s-l300_3ba16421-61f3-4738-acf2-3c02ea1a8c23.jpg?v=1568405627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR TPU NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4027499479139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3976913059939</id>
+    <published>2020-05-19T14:51:55-07:00</published>
+    <updated>2020-05-19T14:51:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samsung-note-10-pro-black-full-tempered-glass"/>
+    <title>SAMSUNG NOTE 10 PRO SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE_463dbfdc-dacd-4b22-a267-ad5184e9ef42.jpg?v=1565631311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3976913059939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3977137487971</id>
+    <published>2019-12-20T16:36:36-08:00</published>
+    <updated>2019-12-20T16:36:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-note-10-pro"/>
+    <title>BLACK BLUEVISION WLT NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_951377c3-7d1a-4860-9962-0d49d72e92fd.png?v=1609367818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT NOTE 10 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3977137487971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351525912675</id>
+    <published>2019-11-23T14:17:50-08:00</published>
+    <updated>2019-11-23T14:17:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-glitter-butrfly-wlt-note-10-pro"/>
+    <title>R GOLD GLITTER BUTRFLY WLT NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154727_3487327a-c499-49ff-8ed5-d92258eeeac8.png?v=1574547784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD GLITTER BUTRFLY WLT NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351525912675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351525322851</id>
+    <published>2019-11-23T14:17:49-08:00</published>
+    <updated>2019-11-23T14:17:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-glitter-butrfly-wlt-note-10-pro"/>
+    <title>SILVER GLITTER BUTRFLY WLT NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154641_588a6df8-477c-49d3-aef7-ec465c5dbe35.png?v=1609615657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SILVER GLITTER BUTRFLY WLT NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351525322851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351524569187</id>
+    <published>2019-11-23T14:17:49-08:00</published>
+    <updated>2019-11-23T14:17:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-glitter-wlt-note-10-pro"/>
+    <title>BLACK GLITTER BUTRFLY WLT NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154624_f64f2059-5b4c-40a9-9e37-e174d3d4294e.png?v=1609615627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK GLITTER BUTRFLY WLT NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351524569187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351421513827</id>
+    <published>2019-11-23T13:09:37-08:00</published>
+    <updated>2019-11-23T13:09:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-maple-mirror-wlt-note-10-pro-2"/>
+    <title>GREEN MAPLE MIRROR WLT NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154809_6cbf180b-846d-4549-99e8-d35c1bcd648b.png?v=1609615212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREEN MAPLE MIRROR WLT NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351421513827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351421022307</id>
+    <published>2019-11-23T13:09:37-08:00</published>
+    <updated>2019-11-23T13:09:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-maple-mirror-wlt-note-10-pro"/>
+    <title>PURPLE MAPLE MIRROR WLT NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154744_18c74a60-6d07-455e-9364-6a1f92280ced.png?v=1609615413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE MAPLE MIRROR WLT NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351421022307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4351420563555</id>
+    <published>2019-11-23T13:09:37-08:00</published>
+    <updated>2019-11-23T13:09:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-maple-mirror-wlt-note-10-pro"/>
+    <title>RED MAPLE MIRROR WLT NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/20191123_154756_5254513e-6f05-465d-8023-e80045601586.png?v=1609615375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED MAPLE MIRROR WLT NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4351420563555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4356464672867</id>
+    <published>2019-11-22T17:15:32-08:00</published>
+    <updated>2019-11-22T17:15:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-zigzag-tpu-note-10-pro"/>
+    <title>BROWN ZIGZAG TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN2_cebfc440-6608-44b6-b54b-47d596344c8b.png?v=1610989656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BROWN ZIGZAG TPU NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4356464672867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4356464017507</id>
+    <published>2019-11-22T17:15:32-08:00</published>
+    <updated>2019-11-22T17:15:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-grey-zigzag-tpu-note-10-pro"/>
+    <title>BLACK/GREY ZIGZAG TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grey.png?v=1610989649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK/GREY ZIGZAG TPU NOTE 10 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4356464017507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364187664483</id>
+    <published>2019-11-22T17:04:58-08:00</published>
+    <updated>2019-11-22T17:04:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-like-soft-feeling-tpu-note-10-pro"/>
+    <title>TEAL LIKE SOFT FEELING TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/teal_5d8d9cfd-9ac8-453c-bfe7-26ca52b20c31.png?v=1610988599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364187664483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364187500643</id>
+    <published>2019-11-22T17:04:58-08:00</published>
+    <updated>2019-11-22T17:04:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-like-soft-feeling-tpu-note-10-pro"/>
+    <title>RED LIKE SOFT FEELING TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_f7c541f2-fc9f-4a43-8533-3f562d1d0735.png?v=1610988593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364187500643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364187762787</id>
+    <published>2019-11-22T16:59:21-08:00</published>
+    <updated>2019-11-22T16:59:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-like-soft-feeling-tpu-note-10-pro"/>
+    <title>PURPLE LIKE SOFT FEELING TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_14f84a42-2a0e-4aba-8c8b-276aef9a4e21.png?v=1610988580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364187762787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364187435107</id>
+    <published>2019-11-22T16:59:21-08:00</published>
+    <updated>2019-11-22T16:59:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-like-soft-feeling-tpu-note-10-pro"/>
+    <title>PINK LIKE SOFT FEELING TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_5115f545-890a-44b0-97ab-a1bfffe3260a.png?v=1610988577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364187435107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364187369571</id>
+    <published>2019-11-22T16:59:20-08:00</published>
+    <updated>2019-11-22T16:59:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-like-soft-feeling-tpu-note-10-pro"/>
+    <title>R GOLD LIKE SOFT FEELING TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/rgold_b1599753-41f4-4895-b232-cde95a08a32c.png?v=1610988586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364187369571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4364187631715</id>
+    <published>2019-11-22T16:52:10-08:00</published>
+    <updated>2019-11-22T16:52:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-like-soft-feeling-tpu-note-10-pro"/>
+    <title>N BLUE LIKE SOFT FEELING TPU NOTE 10 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_66723fb9-1826-42a9-9136-7d34d501cbf8.png?v=1610988570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 10 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4364187631715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

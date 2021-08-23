@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-j1.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-11-15T15:09:32-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744475852899</id>
+    <published>2019-11-15T15:09:32-08:00</published>
+    <updated>2019-11-15T15:09:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/samj1_candy_blk"/>
+    <title>BLACK CANDY SAM J1</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/335232102441208668_1024x1024_2x_a96a6e1d-a5ff-4bb3-a068-6c74e0e98431.jpg?v=1560965965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK CANDY SAM J1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J1</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744475852899</id>
+      <title>Precision Cut / SAMSUNG J1 / SAMSUNG J1</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>samj1_candy_blk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744477491299</id>
+    <published>2019-11-15T15:09:14-08:00</published>
+    <updated>2019-11-15T15:09:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_j1_shinywalletgusbry_rosegold"/>
+    <title>R GOLD SHINY WLT SAM J1</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_b2171ba8-de7f-4ed4-9260-a1f206e3d8ce.jpg?v=1542061825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD SHINY WLT SAM J1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J1</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744477491299</id>
+      <title>Precision Cut / SAMSUNG J1 / SAMSUNG J1</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744477360227</id>
+    <published>2019-11-15T15:08:37-08:00</published>
+    <updated>2019-11-15T15:08:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/verus_purp_samj1"/>
+    <title>BLACK VERTO SAMJ1</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/blkujhfy_00aca946-584c-4565-83ef-2a9c45ace4d0.PNG?v=1542133432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK VERTO CASE SAMSUNG J1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG J1</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744477360227</id>
+      <title>Precision Cut / SAMSUNG J1 / SAMSUNG J1</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1452671598691</id>
+    <published>2019-11-15T15:08:21-08:00</published>
+    <updated>2019-11-15T15:08:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-rose-gold-gooseberry-style-shiny-wallet-for-samsung-galaxy-j1"/>
+    <title>PINK HARD GLITTER SAM J1</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/5_7_089e7b83-fe10-4b5a-b4f5-2ba098675bd6.jpg?v=1541635671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK HARD GLITTER SAM J1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG J1</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1452671598691</id>
+      <title>Precision Cut / SAMSUNG J1 / SAMSUNG J1</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>sam_j1_shinywalletgusbry_rosegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

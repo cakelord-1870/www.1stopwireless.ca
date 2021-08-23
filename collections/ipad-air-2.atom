@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/ipad-air-2.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-01-27T15:06:58-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839072867</id>
+    <published>2021-01-27T15:06:58-08:00</published>
+    <updated>2021-01-27T15:06:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>YELLOW 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/YELLOW.png?v=1611788646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839072867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839367779</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>GREEN 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_3285728e-66ef-4f63-ae81-d3e113f363f9.png?v=1611788601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839367779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839203939</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/orange-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>ORANGE 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ORANGE_47dc07a4-2bfe-40a7-9969-4f53a374b721.png?v=1611788627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839203939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430528819299</id>
+    <published>2019-09-13T12:28:27-07:00</published>
+    <updated>2019-09-13T12:28:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-ipad-air-tempered-glass"/>
+    <title>IPAD AIR 2 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPAD_TEMPERED_GLASS_1ace8131-5032-4b62-a7ce-1eb338d90c9c.jpg?v=1537291650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPAD AIR 2 TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430528819299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430015672419</id>
+    <published>2018-04-09T14:10:24-07:00</published>
+    <updated>2018-04-09T14:10:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-ipad-air-2-360-rotatable-case"/>
+    <title>GOLD IPAD AIR 2 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD11_fefc1dff-078a-4084-be3b-d14228984e1f.jpg?v=1615325992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430015672419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430015246435</id>
+    <published>2018-04-09T14:10:24-07:00</published>
+    <updated>2018-04-09T14:10:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-purple-ipad-air-2-360-rotatable-case"/>
+    <title>RED IPAD AIR 2 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61GEtsX2bJL._AC_SL1164_bd7dd0bf-44da-48f1-af2e-7066439ffe55.jpg?v=1615326125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430015246435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430013902947</id>
+    <published>2018-04-09T14:10:24-07:00</published>
+    <updated>2018-04-09T14:10:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-ipad-air-2-360-rotatable-case"/>
+    <title>PINK IPAD AIR 2 CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/610xDLKZkPL._AC_SL1164_b06d46f4-f29a-4b6c-8b7b-1bb193145590.jpg?v=1615326031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430013902947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430016393315</id>
+    <published>2018-04-09T14:00:44-07:00</published>
+    <updated>2018-04-09T14:00:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-pink-defender-style-back-case-for-ipad-2-3-4"/>
+    <title>PINK DEFENDER STYLE BACK CASE FOR IPAD AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/624604818236198212_581fa85c-eb7b-494e-a3ce-cdd92a6dac04.jpg?v=1539205472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK DEFENDER STYLE BACK CASE FOR IPAD AIR 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430016393315</id>
+      <title>Precision Cut / IPAD AIR 2 / IPAD AIR 2</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>IPAD AIR 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430010789987</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-rugged-heavy-duty-case-for-ipad-pro-10-5"/>
+    <title>RUGGED HEAVY DUTY CASE FOR IPAD AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/OTTER_TYPE_b0015db0-945d-418b-921a-5beaff5ed89a.jpg?v=1537220213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Case covers your entire iPad with three layers of rugged protection. And, it includes a shield stand for added screen protection and hands-free use everywhere.</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430010789987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430010036323</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-baby-blue-ipad-smart-case-for-ipad-air-2"/>
+    <title>BEIGE IPAD-SMART-CASE FOR IPAD AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BEIGE_54b008f1-2b29-4e78-b7d8-b2dec54e0b6f.jpg?v=1615325873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430010036323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>IPAD AIR 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430009675875</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-gold-ipad-smart-case-for-ipad-air-2"/>
+    <title>BABY BLUE IPAD-SMART-CASE FOR IPAD AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61Aclyh1chL._AC_SL1500_5031eb58-360a-47ac-ae49-7f0e83f84a51.jpg?v=1615325849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430009675875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>IPAD AIR 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430009380963</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-raspberry-ipad-smart-case-for-ipad-air-2"/>
+    <title>GOLD IPAD-SMART-CASE FOR IPAD AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_aef3c6c5-5cae-4234-805d-1cfb710be78d.jpg?v=1615326004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430009380963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430008922211</id>
+    <published>2018-04-06T11:38:41-07:00</published>
+    <updated>2018-04-06T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-ipad-smart-case-for-ipad-air-2"/>
+    <title>RED RASPBERRY IPAD-SMART-CASE FOR IPAD AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_ab2395d3-e5b1-44e7-a0df-c477ca814d17.JPG?v=1556995193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Super Slim Purple Cover with Rubberized back and Smart Feature (Built-in magnet for sleep/wake feature)</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430008922211</id>
+      <title>Precision Cut / IPAD AIR / IPAD AIR</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>IPAD AIR 2</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

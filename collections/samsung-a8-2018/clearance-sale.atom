@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-a8-2018.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-02-18T14:28:10-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492062503011</id>
+    <published>2021-02-18T14:28:10-08:00</published>
+    <updated>2021-02-18T14:28:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-sam-a8"/>
+    <title>BLACK BLUEVISION WLT SAM A8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_f785c44a-d3dd-480b-bda4-fa8462175564.png?v=1609367954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492062503011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430506045539</id>
+    <published>2020-12-15T13:11:36-08:00</published>
+    <updated>2020-12-15T13:11:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/a8-2018-tempered-glass-loose"/>
+    <title>A8 (2018) TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ae903fe4a9bb51e1344ebe2c06f7efe003e35f0b_square2884597_1.jpg?v=1610643258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430506045539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481561800803</id>
+    <published>2019-11-14T08:56:01-08:00</published>
+    <updated>2019-11-14T08:56:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/cycle-uv-design-wlt-sam-a8"/>
+    <title>CYCLE UV DESIGN WLT SAM A8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capturereal_8527ff3d-2ebd-42a2-947d-fbb6185123b7.jpg?v=1612997300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481561800803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157888823395</id>
+    <published>2019-10-23T08:26:58-07:00</published>
+    <updated>2019-10-23T08:26:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-feather-puff-wlt-sam-a8-2018"/>
+    <title>PURPLE FEATHER PUFF WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/123PURPLE_EDIT_96170282-be16-47a0-8ad5-2d9db7e270e9.jpg?v=1572468359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE FEATHER PUFF WLT SAM A8 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157888823395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157886791779</id>
+    <published>2019-10-23T08:26:58-07:00</published>
+    <updated>2019-10-23T08:26:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flower-puff-wlt-sam-a8-2018"/>
+    <title>PINK FLOWER PUFF WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_FLOWERS_a85e676f-9296-4ecd-b580-912752f8ffaf.PNG?v=1569349580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLOWER PUFF WLT SAM A8 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157886791779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157888102499</id>
+    <published>2019-10-23T08:26:29-07:00</published>
+    <updated>2019-10-23T08:26:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/peach-flower-puff-wlt-sam-a8-2018"/>
+    <title>PINK ROSE PUFF WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_ROSE_FINAL_17d36f4c-3cdb-4afa-a59e-018f02ae9fdb.png?v=1572472763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK ROSE PUFF WLT SAM A8 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157888102499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157884989539</id>
+    <published>2019-10-23T08:26:29-07:00</published>
+    <updated>2019-10-23T08:26:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-flower-puff-wlt-sam-a8-2018"/>
+    <title>PEACH FLOWER PUFF WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_FLOWERS_6f515dab-b37e-4e89-9bf2-38e650b878fa.PNG?v=1569349520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PEACH</span> FLOWER PUFF WLT SAM A8 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157884989539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157883187299</id>
+    <published>2019-10-23T08:26:29-07:00</published>
+    <updated>2019-10-23T08:26:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-flower-puff-wlt-sam-s9"/>
+    <title>GREY FLOWER PUFF WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_FLOWERS_6d342061-4d56-4d74-ad07-b670c5527aeb.PNG?v=1569349443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY FLOWER PUFF WLT SAM A8 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157883187299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4157885907043</id>
+    <published>2019-10-23T08:25:29-07:00</published>
+    <updated>2019-10-23T08:25:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-flower-puff-wlt-sam-a8-2018"/>
+    <title>BLUE FLOWER PUFF WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLUE_FLOWERS_aa0817c8-bf13-47fc-afa1-6cda242fe121.PNG?v=1569349551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLUE FLOWER PUFF WLT SAM A8 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4157885907043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429594734691</id>
+    <published>2019-05-09T10:10:19-07:00</published>
+    <updated>2019-05-09T10:10:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-teel-shiny-wallet-for-samsung-galaxy-a8-2018"/>
+    <title>MULTI FLWR NATR WLT SAM A8 (2018)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/flowerR_55d2f08f-f186-4ebe-b73f-4dc7993e3f73.jpg?v=1557421813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">MULTI FLWR NATURE WALLET FOR SAMSUNG GALAXY A8 (2018)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429594734691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505195974755</id>
+    <published>2019-05-04T17:33:24-07:00</published>
+    <updated>2019-05-04T17:33:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/stamp-eiffel-natr-wlt-sam-a8-2018"/>
+    <title>STAMP EIFFEL NATR WLT SAM A8 (2018)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/stamp_effiel1_d2384193-c07b-4071-9bc0-5e12782fbc0f.jpg?v=1557421214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">STAMP EIFFEL NATR WLT SAM A8 (2018)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505195974755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3505197219939</id>
+    <published>2019-05-04T17:31:41-07:00</published>
+    <updated>2019-05-04T17:31:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/la-tour-eiffel-natr-wlt-sam-a8-2018"/>
+    <title>LA TOUR NATR WLT SAM A8 (2018)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/la_tour1_22a51f5c-c085-488c-b1a1-23da52fae3ee.jpg?v=1557420998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">LA TOUR EIFFEL NATR WLT SAM A8 (2018)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3505197219939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555184902243</id>
+    <published>2019-05-03T14:07:38-07:00</published>
+    <updated>2019-05-03T14:07:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/beige-plaid-wlt-sam-a8-2018"/>
+    <title>BEIGE PLAID WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/beige_plaid_6cf7d7b4-d275-4bfc-a272-9480b0f37a7f.jpg?v=1574120515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BEIGE PLAID WLT SAM A8 2018</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555184902243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555184836707</id>
+    <published>2019-05-03T14:07:24-07:00</published>
+    <updated>2019-05-03T14:07:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-checker-wlt-sam-a8-2018"/>
+    <title>BROWN CHECKER WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/brown_plaid_dd86522d-e95f-41a4-9161-930fb3732cf5.jpg?v=1574120949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN CHECKER WLT SAM A8 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555184836707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1460781121635</id>
+    <published>2019-04-29T15:31:13-07:00</published>
+    <updated>2019-04-29T15:31:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-inside-flap-wlt-sam-a8-2018"/>
+    <title>RED EXTRA FLAP WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RRED_c846547b-732b-444a-a344-91eb9c2ce073.png?v=1610406440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED INSIDE FLAP WLT SAM A8 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1460781121635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1460782366819</id>
+    <published>2019-04-29T14:55:38-07:00</published>
+    <updated>2019-04-29T14:55:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-inside-flap-wlt-sam-a8-2018"/>
+    <title>GOLD EXTRA FLAP WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_818bb740-dfb2-4fcb-b4ac-29c57667f2e7.png?v=1610405332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD INSIDE FLAP WLT SAM A8 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1460782366819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1460782137443</id>
+    <published>2019-04-29T14:52:51-07:00</published>
+    <updated>2019-04-29T14:52:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-inside-flap-wlt-sam-a8-2018"/>
+    <title>BROWN EXTRA FLAP WLT SAM A8 2018</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RBROWN_49347b44-b4c3-4a1c-88d5-302c0aa8de8b.png?v=1610405232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN INSIDE FLAP WLT SAM A8 2018</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1460782137443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481562554467</id>
+    <published>2019-04-29T14:37:48-07:00</published>
+    <updated>2019-04-29T14:37:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-detach-wlt-sam-a8"/>
+    <title>BLACK DETACH WLT SAM A8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_681826d7-2d42-40d2-902a-178e81904095.png?v=1610641804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">BLACK DETACH WLT SAM A8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481562554467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488984563811</id>
+    <published>2019-04-15T10:40:26-07:00</published>
+    <updated>2019-04-15T10:40:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-a8"/>
+    <title>PURPLE BLUEVISION WLT SAM A8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_eb016303-e4b4-48e6-b089-fa5c9a2a516d.png?v=1609369092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">PURPLE BLUEVISION WLT SAM A8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488984563811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481559310435</id>
+    <published>2019-04-15T08:30:55-07:00</published>
+    <updated>2019-04-15T08:30:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-c-hybrid-sam-a8-2018"/>
+    <title>TEAL C-HYBRID SAM A8 (2018)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a8_teal_caseoloy.jpg?v=1555348273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL C-HYBRID SAM A8 (2018)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481559310435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429588377699</id>
+    <published>2019-02-11T09:43:32-08:00</published>
+    <updated>2019-02-11T09:43:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-hard-glitter-samsung-galaxy-a8-2018"/>
+    <title>BLACK HARD GLTR SAM A8 (2018)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_ca0ac518-0618-40a5-9db6-fe6c241d6817.jpg?v=1610642756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">BLACK HARD GLITTER SAMSUNG GALAXY A8 (2018)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429588377699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429588181091</id>
+    <published>2019-02-11T09:43:31-08:00</published>
+    <updated>2019-02-11T09:43:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-rose-gold-hard-glitter-samsung-galaxy-a8-2018"/>
+    <title>RED HARD GLTR SAM A8 (2018)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_d4e40f48-e059-42bd-8c01-d263466c0e88.jpg?v=1610642783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">RED HARD GLITTER SAMSUNG GALAXY A8 (2018)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429588181091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1520378740835</id>
+    <published>2018-09-15T11:01:45-07:00</published>
+    <updated>2018-09-15T11:01:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-soft-feeling-tpu-sam-a8"/>
+    <title>RED SOFT FEELING TPU SAM A8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/softred_1024x1024_2x_2cf4329a-da4c-4a38-9069-0626e4bd1266.jpg?v=1551459749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SOFT FEELING TPU SAM A8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1520378740835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1520376479843</id>
+    <published>2018-09-15T11:01:45-07:00</published>
+    <updated>2018-09-15T11:01:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/beige-soft-feeling-tpu-sam-a8"/>
+    <title>BEIGE SOFT FEELING TPU SAM A8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/soft_beige_1024x1024_2x_76ff455e-55c4-4a49-bced-db529f1d13b7.jpg?v=1551459644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BEIGE SOFT FEELING TPU SAM A8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1520376479843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492063125603</id>
+    <published>2018-09-15T11:01:45-07:00</published>
+    <updated>2018-09-15T11:01:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-sam-a8"/>
+    <title>BROWN BLUEVISION WLT SAM A8</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_42db3fb8-5847-4579-871f-530742074980.png?v=1609368629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="h2" itemprop="name">BROWN BLUEVISION WLT SAM A8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY A8 (2018)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492063125603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-s7-edge-1.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-19T14:51:53-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430553690211</id>
+    <published>2020-05-19T14:51:53-07:00</published>
+    <updated>2020-05-19T14:51:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-samsung-s7-black-full-tempered-glass"/>
+    <title>SAMSUNG S7 EDGE SIDE GLUE TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/UV-LIGHT-LIQUID-TEMPERED-GLASS-FOR-SAMSUNG-GALAXY-S7-EDGE-3D-CURVED-CASE-_E2_80_93-FRIENDLY-CLEAR-SERIES-2.jpg?v=1611173764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Protect the entire iPhone display with top-notch quality using our Full Cover tempered glass screen protector. It offers full coverage of the front screen with a colored frame that mimics the original iPhone design. The rounded edges offer comfort in the hand and compatibility with case.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FULL TEMPERED GLASS</s:tag>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430553690211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744515600483</id>
+    <published>2019-11-15T14:31:23-08:00</published>
+    <updated>2019-11-15T14:31:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/slmarmr_sams7edg_r-gold"/>
+    <title>R GOLD SAR SAM S7 EDGE (MATTE)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9441_360x_df1bc2a0-11fc-4edb-b98c-3e85048dc7fc.jpg?v=1550522657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SAM S7 EDGE SLIM RUGGED CASE (MATTE)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744515600483</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744515436643</id>
+    <published>2019-11-15T14:31:23-08:00</published>
+    <updated>2019-11-15T14:31:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/slmarmr_sams7edg_blue"/>
+    <title>BLUE SAR SAM S7 EDGE (MATTE)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9311_1024x1024_2x_a02e6286-ed9e-4bbd-94ab-efc81d49361c.jpg?v=1610567161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLUE SAM S7 EDGE SLIM RUGGED CASE (MATTE)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744515436643</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744513536099</id>
+    <published>2019-11-15T14:31:22-08:00</published>
+    <updated>2019-11-15T14:31:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/slmarmr_sams7edg_gold"/>
+    <title>GOLD SAR SAM S7 EDGE (MATTE)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9439_360x_d40b4ccf-f764-4008-8123-c4524632a53b.jpg?v=1610567139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SAM S7 EDGE SLIM RUGGED CASE (MATTE)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744513536099</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744517075043</id>
+    <published>2019-11-15T14:29:39-08:00</published>
+    <updated>2019-11-15T14:29:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s7e_shinywalletgusbry_rosegold"/>
+    <title>R GOLD SHINY WLT SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_de2be1bd-0aab-403c-b19b-07e90c1367a2.jpg?v=1542062031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD SHINY WLT SAM S7 EDGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744517075043</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744517009507</id>
+    <published>2019-11-15T14:29:39-08:00</published>
+    <updated>2019-11-15T14:29:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s7e_shinywalletgusbry_black"/>
+    <title>BLACK SHINY WLT SAM S7E</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_82424544-9edb-4d33-ad7d-ce859100db2a.jpg?v=1610566937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SHINY WLT SAM S7E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744517009507</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744516157539</id>
+    <published>2019-11-15T14:29:31-08:00</published>
+    <updated>2019-11-15T14:29:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wlt_metalflap_sam_s7edge_rgold"/>
+    <title>R GOLD METAL FLAP WLT SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD_90fbe4c7-ae57-479c-a70f-bc4f26d23b6f.jpg?v=1610566952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SAM S7 EDGE GOOSPERY METAL FLAP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744516157539</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744516124771</id>
+    <published>2019-11-15T14:29:30-08:00</published>
+    <updated>2019-11-15T14:29:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wlt_metalflap_sam_s7edge_gold"/>
+    <title>GOLD METAL FLAP WLT SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_7fcd172b-91cd-44ca-ac9e-5a586749c04c.jpg?v=1610566943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SAM S7 EDGE METAL FLAP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744516124771</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744516059235</id>
+    <published>2019-11-15T14:29:30-08:00</published>
+    <updated>2019-11-15T14:29:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wlt_metalflap_sam_s7edge_mint"/>
+    <title>TEAL METAL FLAP WLT SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MINT_8281fc86-7833-4f7f-9cf4-40626086f58e.jpg?v=1610566956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MINT SAM S7 EDGE METAL FLAP WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744516059235</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744516976739</id>
+    <published>2019-11-15T14:29:02-08:00</published>
+    <updated>2019-11-15T14:29:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7e_caseology_blk"/>
+    <title>BLACK C-HYBRID SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9290_360x_288ccb6b-e32e-4689-93de-e0b598f61909.jpg?v=1610567073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CASEOLOGY BLACK HARD RUGGED CASE FOR SAMSUNG GALAXY S7E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744516976739</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744513831011</id>
+    <published>2019-11-15T14:27:21-08:00</published>
+    <updated>2019-11-15T14:27:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7edg_clear_tpu"/>
+    <title>CLEAR TPU SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_TPU_SAM_S8_497b17a9-8e4f-42b1-85a7-942d8769d05f.jpg?v=1550521536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR/TRANSPARENT TPU SAM S7 EDGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744513831011</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744513437795</id>
+    <published>2019-11-15T14:27:21-08:00</published>
+    <updated>2019-11-15T14:27:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7edge_matte_black_tpu"/>
+    <title>BLACK TPU SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_TPU_94415a74-7428-45c6-b9e1-91d990ab6693.jpg?v=1610566264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MATTE BLACK TPU SAM S7 EDGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744513437795</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744514388067</id>
+    <published>2019-11-15T14:26:36-08:00</published>
+    <updated>2019-11-15T14:26:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltnature_s7_edge_butterfly_eiffel"/>
+    <title>BUTRFLY EIFFEL NATR WLT S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_EFFIEL_5179ae70-bbd9-4395-83c0-c6f48b2809ed.jpg?v=1542069303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BUTTERFLY EIFFEL S7 EDGE NATURE WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744514388067</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744516485219</id>
+    <published>2019-11-15T14:26:20-08:00</published>
+    <updated>2019-11-15T14:26:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/case_hardglittter_sam_s7edge_gold"/>
+    <title>GOLD HARD GLTR SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/2_4943b97b-16a7-43e4-a30d-a43c78d2edb2.jpg?v=1610567101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SAM S7 EDGE HARD GLITTER CASE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744516485219</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744516452451</id>
+    <published>2019-11-15T14:26:19-08:00</published>
+    <updated>2019-11-15T14:26:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/case_hardglittter_sam_s7edge_r-gold"/>
+    <title>PINK HARD GLTR SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/1_cf1b81d6-a041-4323-be5e-8412ad574b43.jpg?v=1537396903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ROSE GOLD SAM S7 EDGE HARD GLITTER CASE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744516452451</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744516419683</id>
+    <published>2019-11-15T14:26:19-08:00</published>
+    <updated>2019-11-15T14:26:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/case_hardglittter_sam_s7edge_silver"/>
+    <title>SILVER HARD GLTR SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/4_daf9582f-a8b0-43d1-93b0-11d2510b58b9.jpg?v=1537397177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER SAM S7 EDGE HARD GLITTER CASE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744516419683</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744518090851</id>
+    <published>2019-11-15T14:26:05-08:00</published>
+    <updated>2019-11-15T14:26:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7e_otterstyle_black"/>
+    <title>BLACK DEF SAM S7 EDGE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/417842795292679199_1024x1024_2x_016bc5b2-46ce-41d0-bb93-92c925b51d5c.jpg?v=1542047857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK DEF SAM S7 EDGE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7 EDGE</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744518090851</id>
+      <title>Precision Cut / SAMSUNG S7 EDGE / SAMSUNG S7 EDGE</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>s7e_otterstyle_black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

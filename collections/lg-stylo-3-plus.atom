@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-stylo-3-plus.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-01-19T10:04:04-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6157117423808</id>
+    <published>2021-01-19T10:04:04-08:00</published>
+    <updated>2021-01-19T10:04:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-verto-lg-stylo-3-plus"/>
+    <title>GREY VERTO LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREYVERTO.jpg?v=1611079619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6157117423808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495667605603</id>
+    <published>2018-09-19T11:08:13-07:00</published>
+    <updated>2018-09-19T11:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-stylo-3-tempered-glass-loose"/>
+    <title>LG STYLO 3 PLUS TEMPERED GLASS LOOSE</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/a238cd4c5b2730c0c5a390762a6377d61d4b2ec6_square2963833_1_1dc84fca-cf2f-4c1d-b992-477408bbc9be.jpg?v=1611078429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG STYLO 3 PLUS TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495667605603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1439584354403</id>
+    <published>2018-04-06T12:25:08-07:00</published>
+    <updated>2018-04-06T12:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-lg-stylo-3-plus"/>
+    <title>BLACK TPU LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/61vhyQNr0iL._AC_SY550.jpg?v=1611079688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK TPU LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1439584354403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1439583469667</id>
+    <published>2018-04-06T12:25:08-07:00</published>
+    <updated>2018-04-06T12:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-verto-lg-stylo-3-plus"/>
+    <title>GOLD VERTO LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/goldverto.jpg?v=1611079283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD VERTO LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1439583469667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1439583404131</id>
+    <published>2018-04-06T12:25:08-07:00</published>
+    <updated>2018-04-06T12:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-verto-lg-stylo-3-plus"/>
+    <title>B PINK VERTO LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/baby_pink_460x_1.jpg?v=1611079280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>B PINK VERTO LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1439583404131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1439582290019</id>
+    <published>2018-04-06T12:25:08-07:00</published>
+    <updated>2018-04-06T12:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-verto-lg-stylo-3-plus"/>
+    <title>MTLC BLUE VERTO LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/blueverto.jpg?v=1611079292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>N BLUE VERTO LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1439582290019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1439582027875</id>
+    <published>2018-04-06T12:25:08-07:00</published>
+    <updated>2018-04-06T12:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-c-hybrid-lg-stylo-3-plus"/>
+    <title>PURPLE C-HYBRID LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/6_meitu_6_f30ec851-96b3-46a4-8bbd-a0488ae2f818.jpg?v=1611079825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE C-HYBRID LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1439582027875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1439578718307</id>
+    <published>2018-04-06T12:25:08-07:00</published>
+    <updated>2018-04-06T12:25:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-gold-gooseberry-style-shiny-wallet-for-lg-stylo-3-plus"/>
+    <title>R GOLD HARD GLITTER LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_640c9dad-4ce7-421a-b940-b56c5f432ce1.jpg?v=1611079413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD HARD GLITTER LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1439578718307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744620949603</id>
+    <published>2018-04-06T12:25:07-07:00</published>
+    <updated>2018-04-06T12:25:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-stylo-3-plus_shinywalletgusbry_pink"/>
+    <title>PINK SHINY WLT LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_26e5866a-b8dc-4cd8-b20c-543abb399ef9.jpg?v=1542060239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN SHINY WLT LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744620949603</id>
+      <title>Precision Cut / LG STYLO 3 PLUS / LG STYLO 3 PLUS</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744620916835</id>
+    <published>2018-04-06T12:25:06-07:00</published>
+    <updated>2018-04-06T12:25:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-stylo-3-plus_shinywalletgusbry_rosegold"/>
+    <title>R GOLD SHINY WLT LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_1c266c30-57ad-419c-b80b-6020d5a2748e.jpg?v=1542061343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD SHINY WLT LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744620916835</id>
+      <title>Precision Cut / LG STYLO 3 PLUS / LG STYLO 3 PLUS</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744620884067</id>
+    <published>2018-04-06T12:25:06-07:00</published>
+    <updated>2018-04-06T12:25:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-stylo-3-plus_shinywalletgusbry_teal"/>
+    <title>TEAL SHINY WLT LG STYLO 3 PLUS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_8a5cd177-40d8-47db-a9d9-bca902a809e3.jpg?v=1542066724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL SHINY WLT LG STYLO 3 PLUS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG STYLO 3 PLUS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744620884067</id>
+      <title>Precision Cut / LG STYLO 3 PLUS / LG STYLO 3 PLUS</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

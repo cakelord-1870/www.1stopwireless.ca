@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-galaxy-s7.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-06-18T17:14:08-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744502362211</id>
+    <published>2021-06-18T17:14:08-07:00</published>
+    <updated>2021-06-18T17:14:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7_otterstyle_black"/>
+    <title>BLACK DEF SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/417842795292679199_1024x1024_2x_057b4d46-3d37-41b9-b9af-4d5f15af1a44.jpg?v=1542047915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744502362211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>s7_otterstyle_black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6167656497344</id>
+    <published>2021-01-27T15:25:02-08:00</published>
+    <updated>2021-01-27T15:25:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-sar-sam-s7"/>
+    <title>BLACK SAR SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9300_grande_1024x1024_2x_f6777f3b-69e4-46e8-95c7-65946fbaf11f.jpg?v=1611789908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SAR SAM S6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6167656497344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744496431203</id>
+    <published>2019-11-15T14:51:03-08:00</published>
+    <updated>2019-11-15T14:51:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7_matte_black_tpu"/>
+    <title>BLACK TPU SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_TPU.jpg?v=1610566261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MATTE BLACK TPU SAM S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744496431203</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746711449699</id>
+    <published>2019-11-15T14:50:55-08:00</published>
+    <updated>2019-11-15T14:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7_p-tpu_-clear"/>
+    <title>CLEAR TPU SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/s7_p_tpu_clear.jpg?v=1523307622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PREMIUM CRYSTAL CLEAR CANDY SAMSUNG S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746711449699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481545416803</id>
+    <published>2019-11-15T14:50:30-08:00</published>
+    <updated>2019-11-15T14:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-plaid-wlt-sam-s7"/>
+    <title>BLACK PLAID WLT SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_grande_f98d7eba-7e03-4d25-b845-5ed143d627f2.jpg?v=1550351364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SAM S7 PLAID WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481545416803</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>wlt_burbry_sam_s7_brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744500133987</id>
+    <published>2019-11-15T14:50:30-08:00</published>
+    <updated>2019-11-15T14:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wlt_burbry_sam_s7_brown"/>
+    <title>BROWN PLAID WLT SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN_0bc2f66b-e1f4-4c32-a880-bb16893fc96e.jpg?v=1610565908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN SAM S7 PLAID WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744500133987</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>wlt_burbry_sam_s7_brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744500101219</id>
+    <published>2019-11-15T14:50:30-08:00</published>
+    <updated>2019-11-15T14:50:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wlt_burbry_sam_s7_pink"/>
+    <title>PINK PLAID WLT SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_01195526-997d-4bb5-82e0-0c2f90ae8b1a.jpg?v=1610565910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SAM S7 PLAID WALLET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744500101219</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>wlt_burbry_sam_s7_pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744501149795</id>
+    <published>2019-11-15T14:50:19-08:00</published>
+    <updated>2019-11-15T14:50:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s7_shinywalletgusbry_pink"/>
+    <title>PINK SHINY WLT SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_adf37a2d-98c3-4a10-97fe-52cac67e835e.jpg?v=1542060917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SHINY WLT SAM S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744501149795</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744501084259</id>
+    <published>2019-11-15T14:50:19-08:00</published>
+    <updated>2019-11-15T14:50:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam_s7_shinywalletgusbry_teal"/>
+    <title>TEAL SHINY WLT SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_d7844db3-aeed-4565-9b9a-2d9571ed6a24.jpg?v=1542066968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL SHINY WLT SAM S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744501084259</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1438501142627</id>
+    <published>2019-11-15T14:49:51-08:00</published>
+    <updated>2019-11-15T14:49:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hard-clear-sam-s7"/>
+    <title>HARD CLEAR CLEAR SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CLEAR_5934a68c-f34d-40c4-b356-76d429febc86.jpg?v=1550522729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HARD CLEAR CLEAR SAM S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1438501142627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744500494435</id>
+    <published>2019-11-15T14:49:09-08:00</published>
+    <updated>2019-11-15T14:49:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/case_hardglittter_sam_s7_gold"/>
+    <title>GOLD HARD GLTR SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/2_6042e934-3fa9-4b96-923a-9e5a32e63ce6.jpg?v=1537397387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SAM S7 HARD GLITTER CASE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744500494435</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744500428899</id>
+    <published>2019-11-15T14:49:08-08:00</published>
+    <updated>2019-11-15T14:49:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/case_hardglittter_sam_s7_silver"/>
+    <title>SILVER HARD GLTR SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/4_f12f4591-d54c-4c4e-a8c7-3a752b85df22.jpg?v=1537397193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER SAM S7 HARD GLITTER CASE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744500428899</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1438481612899</id>
+    <published>2019-11-15T14:48:17-08:00</published>
+    <updated>2019-11-15T14:48:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-verus-inserter-for-sam-s7"/>
+    <title>R GOLD CARD INSRTR-SIDE SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9219_360x_fb1776c1-a009-4d5e-9665-5097d09e7912.jpg?v=1549922693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD VERUS-INSERTER FOR SAM S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1438481612899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744501313635</id>
+    <published>2019-11-15T14:48:01-08:00</published>
+    <updated>2019-11-15T14:48:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7_slimverses_hotpink"/>
+    <title>PINK VERTO SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_540x_85e7b98a-6cc4-4cd4-ab5e-9c2c45450628.jpg?v=1610566734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744501313635</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744501182563</id>
+    <published>2019-11-15T14:48:01-08:00</published>
+    <updated>2019-11-15T14:48:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7_slimverses_gold"/>
+    <title>GOLD VERTO SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_VERTO_540x_dfb28f04-39c2-4871-8437-e19439fce8fc.jpg?v=1610566839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD SLIM VERSES CASE FOR SAMSUNG GALAXY S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744501182563</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1438421450851</id>
+    <published>2019-11-15T14:45:55-08:00</published>
+    <updated>2019-11-15T14:45:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-blst-sam-s7"/>
+    <title>PINK BLST SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_78ab0717-cd8d-4eb0-ab8e-916584cb99c3.png?v=1610566478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK SAM S7 BALLISTIC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1438421450851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1438421155939</id>
+    <published>2019-11-15T14:45:54-08:00</published>
+    <updated>2019-11-15T14:45:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-blst-sam-s7"/>
+    <title>PURPLE BLST SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_8bb3acc8-e4c7-4b08-8c15-d2b673959c61.png?v=1610566500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE SAM S7 BALLISTIC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1438421155939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744501674083</id>
+    <published>2019-11-15T14:43:38-08:00</published>
+    <updated>2019-11-15T14:43:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/s7_marblewalletgusbry_white"/>
+    <title>MARBLE WLT SAM S7</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MARBLE_9f017109-fd0f-4233-b17f-31d6035e0730.jpg?v=1541864583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MARBLE WLT SAM S7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744501674083</id>
+      <title>Precision Cut / SAMSUNG S7 / SAMSUNG S7</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>s7_marblewalletgusbry_white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430554312803</id>
+    <published>2018-09-18T08:12:08-07:00</published>
+    <updated>2018-09-18T08:12:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-a5-2017-tempered-glass-loose"/>
+    <title>S7 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/c44b7246-9fd9-4d1c-b6e2-766ab8d1538b.a4fbdba4b8502f28c077521b79a76156.jpg?v=1611169770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">S7 TEMPERED GLASS LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG S7</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430554312803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

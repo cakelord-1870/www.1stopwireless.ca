@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/new-ipad-9-7-2018-2017-air.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-06-19T16:16:35-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4367758262371</id>
+    <published>2021-06-19T16:16:35-07:00</published>
+    <updated>2021-06-19T16:16:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/blue-handheld-survivor-new-ipad-9-7-2017-2018"/>
+    <title>BLUE HANDHELD SURVIVOR NEW IPAD 9.7 (2017/2018)/PRO 9.7/AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLK_BLUE.png?v=1573840087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4367758262371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4367758032995</id>
+    <published>2021-06-19T16:16:34-07:00</published>
+    <updated>2021-06-19T16:16:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-handheld-survivor-new-ipad-9-7-2017-2018"/>
+    <title>RED HANDHELD SURVIVOR NEW IPAD 9.7 (2017/2018)/PRO 9.7/AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_BLK.png?v=1573840149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4367758032995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4367757672547</id>
+    <published>2021-06-19T16:16:34-07:00</published>
+    <updated>2021-06-19T16:16:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-handheld-survivor-new-ipad-9-7-2017-2018"/>
+    <title>R GOLD HANDHELD SURVIVOR NEW IPAD 9.7 (2017/2018)/PRO 9.7/AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSEGOLD.png?v=1573840137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4367757672547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4365488881763</id>
+    <published>2021-06-19T16:16:34-07:00</published>
+    <updated>2021-06-19T16:16:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-handheld-survivor-new-ipad-9-7-2017-2018"/>
+    <title>BLACK HANDHELD SURVIVOR NEW IPAD 9.7 (2017/2018)/PRO 9.7/AIR 2</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLK_BLK.png?v=1574122766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4365488881763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456536617059</id>
+    <published>2021-03-08T13:26:32-08:00</published>
+    <updated>2021-03-08T13:26:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-new-ipad-9-72018-2017-360-rotatable-case"/>
+    <title>NAVY NEW IPAD 9.7(2018/2017) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71IOXXtNkyL._AC_SL1500.jpg?v=1615238546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456536617059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429484011619</id>
+    <published>2021-03-08T13:24:33-08:00</published>
+    <updated>2021-03-08T13:24:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-black-new-ipad-9-72018-2017-360-rotatable-case"/>
+    <title>B BLUE NEW IPAD 9.7(2018/2017) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/710eh6jQvqL._AC_SL1500.jpg?v=1615238466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429484011619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839072867</id>
+    <published>2021-01-27T15:06:58-08:00</published>
+    <updated>2021-01-27T15:06:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>YELLOW 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/YELLOW.png?v=1611788646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839072867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839367779</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>GREEN 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_3285728e-66ef-4f63-ae81-d3e113f363f9.png?v=1611788601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839367779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3514839203939</id>
+    <published>2021-01-27T13:46:40-08:00</published>
+    <updated>2021-01-27T13:46:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/orange-3d-silicon-kids-case-new-ipad-9-72018-2017"/>
+    <title>ORANGE 3D SILICON KID&apos;S CASE NEW IPAD 9.7(2018/2017)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ORANGE_47dc07a4-2bfe-40a7-9969-4f53a374b721.png?v=1611788627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ORANGE 3D SILICON KID'S CASE NEW IPAD 9.7(2018/2017)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD AIR</s:tag>
+    <s:tag>IPAD AIR 2</s:tag>
+    <s:tag>IPAD AIR 3 10.5 (2019)</s:tag>
+    <s:tag>IPAD PRO 9.7-INCH</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3514839203939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1456536191075</id>
+    <published>2020-10-07T13:49:08-07:00</published>
+    <updated>2020-10-07T13:49:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-new-ipad-9-72018-2017-360-rotatable-case"/>
+    <title>GREEN NEW IPAD 9.7(2018/2017) CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/712g_O4-1rL._AC_SL1500.jpg?v=1615238531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1456536191075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1495663476835</id>
+    <published>2019-07-30T09:43:45-07:00</published>
+    <updated>2019-07-30T09:43:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipad-9-7-2017-2018-tempered-glass"/>
+    <title>IPAD 9.7 2017/2018 TEMPERED GLASS</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPAD_TEMPERED_GLASS_a077e2df-ae3f-4ddb-ac7e-379f23b560fd.jpg?v=1550250743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPAD 9.7 2017/2018 TEMPERED GLASS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPAD TEMPERED GLASS</s:tag>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:tag>TABLET TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1495663476835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1429484240995</id>
+    <published>2018-04-09T14:10:24-07:00</published>
+    <updated>2018-04-09T14:10:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-red-new-ipad-9-72018-2017-360-rotatable-case"/>
+    <title>PINK NEW IPAD 9.7 (2018/2017) 360 ROTATING CASE</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71T6LtoKIZL._AC_SL1500.jpg?v=1615238581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW IPAD 9.7 (2018/2017)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1429484240995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

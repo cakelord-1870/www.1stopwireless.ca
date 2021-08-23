@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/apple-iphone-x.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-06-19T16:21:08-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6733654360256</id>
+    <published>2021-06-19T16:21:08-07:00</published>
+    <updated>2021-06-19T16:21:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-ip-x-xs"/>
+    <title>BLACK BLUEVISION WLT IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_de8b88c1-b717-456f-82df-d0242675b946.png?v=1624033804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6733654360256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432372576355</id>
+    <published>2021-06-19T16:04:12-07:00</published>
+    <updated>2021-06-19T16:04:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-hard-silicon-blister-for-iphone-x"/>
+    <title>RED SILICON BLISTER IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/red_bdb01f01-618e-40c7-ac44-72ad0a7acbf6.png?v=1612977719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED HARD-SILICON-BLISTER FOR IPHONE X</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432372576355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492174930019</id>
+    <published>2021-06-19T16:03:43-07:00</published>
+    <updated>2021-06-19T16:03:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-silicon-blister-ip-x-xs"/>
+    <title>BLACK SILICON BLISTER IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/black_6adfa146-adb0-4bdf-8ccd-ebd99df4e232.png?v=1612977619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK SILICON BLISTER IP X/XS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492174930019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432373362787</id>
+    <published>2021-06-19T16:03:41-07:00</published>
+    <updated>2021-06-19T16:03:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-hard-silicon-blister-for-iphone-x"/>
+    <title>PURPLE SILICON BLISTER IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_d0b5dbfc-ff4b-475c-9e64-65a4083a61f5.png?v=1612977703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE HARD-SILICON-BLISTER FOR IPHONE X</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432373362787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1454608810083</id>
+    <published>2021-06-18T17:15:34-07:00</published>
+    <updated>2021-06-18T17:15:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-def-ip-x-xs"/>
+    <title>BLACK DEFEND IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/227160558193198381.jpg?v=1609794354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK DEF IP X/XS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1454608810083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432379621475</id>
+    <published>2021-04-30T14:51:53-07:00</published>
+    <updated>2021-04-30T14:51:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-gold-slim-rugged-case-for-iphone-x-xs"/>
+    <title>ROSE GOLD SAR IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPHONE8_03_900x_6f7bdc82-a594-40cc-a023-951b0e823047.jpg?v=1609873140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD SLIM RUGGED CASE FOR IPHONE X/XS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432379621475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRiPXXSRGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4365917913187</id>
+    <published>2021-01-06T09:29:01-08:00</published>
+    <updated>2021-01-06T09:29:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/paris-design-tpu-ip-x-xs"/>
+    <title>PARIS DESIGN TPU IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/EIFFEL.png?v=1584721025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4365917913187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432379523171</id>
+    <published>2020-12-19T08:30:27-08:00</published>
+    <updated>2020-12-19T08:30:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-slim-rugged-case-for-iphone-x-xs-1"/>
+    <title>GREY SAR IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREY_SAR_1024x1024_2x_900x_b355d7c6-4e1c-4775-8dfd-3e2fc17e8b4a.jpg?v=1609873236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY SLIM RUGGED CASE FOR IPHONE X/XS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432379523171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRiPXXSGR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432379424867</id>
+    <published>2020-12-19T08:30:07-08:00</published>
+    <updated>2020-12-19T08:30:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-slim-rugged-case-for-iphone-x-xs"/>
+    <title>RED SAR IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPHONE8_01_900x_7cd75e81-c513-419c-9d0e-883d55cc9034.jpg?v=1609873120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED SLIM RUGGED CASE FOR IPHONE X/XS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432379424867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRiPXXSRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/5963920310464</id>
+    <published>2020-12-15T15:39:49-08:00</published>
+    <updated>2020-12-15T15:39:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grape-fruit-silicon-blister-ip-x-xs"/>
+    <title>GRAPE FRUIT SILICON BLISTER IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grapefruit.png?v=1612977638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:tag>Silicon Blister</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/5963920310464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109877534912</id>
+    <published>2020-12-11T15:48:22-08:00</published>
+    <updated>2020-12-11T15:48:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-yellow-rose-ip-x-xs"/>
+    <title>CLR 2PC YELLOW ROSE IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/yellowrose_d3fe79e5-a9ef-4a45-8f33-44c283900938.png?v=1624308863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109877534912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109877338304</id>
+    <published>2020-12-11T15:47:57-08:00</published>
+    <updated>2020-12-11T15:47:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-rose-b-ip-x-xs"/>
+    <title>CLR 2PC ROSE B IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CaptuDFDre_8b660b43-ae7e-4541-a7bc-27b89d4f9f30.png?v=1612225111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109877338304</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109877141696</id>
+    <published>2020-12-11T15:47:12-08:00</published>
+    <updated>2020-12-11T15:47:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-nt-sky-ip-x-xs"/>
+    <title>CLR 2PC NT SKY IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Cap23ture_fb405571-cee2-4499-8fdf-8184442bd41f.png?v=1612225095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109877141696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109876584640</id>
+    <published>2020-12-11T15:46:07-08:00</published>
+    <updated>2020-12-11T15:46:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-lily-ip-x-xs"/>
+    <title>CLR 2PC LILY IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CaptureG67_a41729fd-7895-4b2b-80bf-dc386c04249c.png?v=1612225076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109876584640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109876191424</id>
+    <published>2020-12-11T15:44:55-08:00</published>
+    <updated>2020-12-11T15:44:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-et-ip-xr-1"/>
+    <title>CLR 2PC ET IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RTCapture_b2fa3489-4c50-4486-93ef-0ac922b3fa91.png?v=1612225057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109876191424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109875536064</id>
+    <published>2020-12-11T15:44:27-08:00</published>
+    <updated>2020-12-11T15:44:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-chry-leaf-ip-x-xs"/>
+    <title>CLR 2PC CHRY LEAF IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capture1_6c6431b9-e61e-4e25-9fec-2dd0ab1b68a3.png?v=1612225048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109875536064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6109871636672</id>
+    <published>2020-12-11T15:34:51-08:00</published>
+    <updated>2020-12-11T15:34:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clr-2pc-blue-flower-ip-x-xs"/>
+    <title>CLR 2PC BLUE FLOWER IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/CaDF3pture_1a05210a-e32c-478a-ade4-04aef1e1b657.png?v=1612225016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6109871636672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6089044590784</id>
+    <published>2020-11-27T13:34:21-08:00</published>
+    <updated>2020-11-27T13:34:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rugged-sym-black-ip-11-x-xs-5-8"/>
+    <title>RUGGED SYM BLACK IP X/XS (5.8)</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IPHONEXBLK.png?v=1606513418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6089044590784</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6072332681408</id>
+    <published>2020-11-21T10:57:26-08:00</published>
+    <updated>2020-11-21T10:57:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-ring-ip-x-xs"/>
+    <title>BLACK RUGGED RING IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/14_1024x1024_2x_94b381a4-d997-48a5-8077-eae0905474e7.jpg?v=1605206480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6072332681408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1454609006691</id>
+    <published>2020-11-21T10:49:33-08:00</published>
+    <updated>2020-11-21T10:49:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-def-ip-x-xs"/>
+    <title>GREY DEFEND IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/810377129368177034_1c54cba1-225a-45a3-9b12-bb0ca7631a5c.jpg?v=1609794881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREY DEF IP X/XS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1454609006691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077235331264</id>
+    <published>2020-11-16T15:59:23-08:00</published>
+    <updated>2020-11-16T15:59:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/navy-rugged-hand-grip-kickstand-ip-x-xs"/>
+    <title>NAVY RUGGED HAND GRIP KICKSTAND IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NAVY_8df1e82c-fc8b-4b30-b20b-de81f4f27fdd.png?v=1609960061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077235331264</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077235167424</id>
+    <published>2020-11-16T15:59:13-08:00</published>
+    <updated>2020-11-16T15:59:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-rugged-hand-grip-kickstand-ip-x-xs"/>
+    <title>SILVER RUGGED HAND GRIP KICKSTAND IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/SILVER_0cae2cf7-fa9b-405f-96c3-e64f373c08bf.png?v=1609960085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077235167424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077235101888</id>
+    <published>2020-11-16T15:59:02-08:00</published>
+    <updated>2020-11-16T15:59:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-rugged-hand-grip-kickstand-ip-x-xs"/>
+    <title>RED RUGGED HAND GRIP KICKSTAND IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_be150859-d0ce-4547-931c-112d2f92eefd.png?v=1609960073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077235101888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077235069120</id>
+    <published>2020-11-16T15:58:46-08:00</published>
+    <updated>2020-11-16T15:58:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-rugged-hand-grip-kickstand-ip-x-xs"/>
+    <title>GREEN RUGGED HAND GRIP KICKSTAND IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GREEN_363fbd17-29d7-4f6b-86c5-a518823b8275.png?v=1609960052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077235069120</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/6077234970816</id>
+    <published>2020-11-16T15:58:33-08:00</published>
+    <updated>2020-11-16T15:58:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-rugged-hand-grip-kickstand-ip-x-xs"/>
+    <title>BLACK RUGGED HAND GRIP KICKSTAND IP X/XS</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_357f6931-0e07-4ec4-b87d-7ffd872559c0.png?v=1609960022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE iPHONE X (10)</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/6077234970816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

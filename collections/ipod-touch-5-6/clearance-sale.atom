@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/ipod-touch-5-6.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-05-19T14:51:53-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1430551330915</id>
+    <published>2020-05-19T14:51:53-07:00</published>
+    <updated>2020-05-19T14:51:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-iphone-4-4s-tempered-glass-loose"/>
+    <title>IPOD TOUCH 5/6 TEMPERED GLASS LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipodtouchtemperedglass.jpg?v=1611459518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPHONE TEMPERED GLASS</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1430551330915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492073059</id>
+    <published>2019-02-14T12:00:38-08:00</published>
+    <updated>2019-02-14T12:00:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_gold_cheta_blk"/>
+    <title>GOLD CHEETAH BLACK SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_gold_cheta_blk.jpg?v=1523039454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD CHEETAH BLACK SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492073059</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746710433891</id>
+    <published>2018-04-09T14:00:03-07:00</published>
+    <updated>2018-04-09T14:00:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_gold_blue-heart"/>
+    <title>GOLD BLUE HEART SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_slvr_blueheart_a8dd3d8e-5c04-435a-af56-6104db950783.jpg?v=1523307604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD BLUE HEART SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746710433891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746710204515</id>
+    <published>2018-04-09T13:59:57-07:00</published>
+    <updated>2018-04-09T13:59:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_slvr_blue-heart"/>
+    <title>SILVER BLUE HEART SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_slvr_blueheart.jpg?v=1523307598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER BLUE HEART SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746710204515</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746708566115</id>
+    <published>2018-04-09T13:59:36-07:00</published>
+    <updated>2018-04-09T13:59:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/3d_ipod-4_caset_bpnk"/>
+    <title>B PINK 3D CASSETTE IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3d_ipod4_caset_bpnk.jpg?v=1523307577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BABY PINK IPOD 4 3D CASSETTE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746708566115</id>
+      <title>Precision Cut / IPOD TOUCH 4 / IPOD TOUCH 4</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746708467811</id>
+    <published>2018-04-09T13:59:35-07:00</published>
+    <updated>2018-04-09T13:59:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/3d_ipod-4_caset_grn"/>
+    <title>GREEN 3D CASSETTE IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3d_ipod4_caset_grn.jpg?v=1523307576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREEN IPOD 4 3D CASSETTE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746708467811</id>
+      <title>Precision Cut / IPOD TOUCH 4 / IPOD TOUCH 4</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746708402275</id>
+    <published>2018-04-09T13:59:34-07:00</published>
+    <updated>2018-04-09T13:59:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/3d_ipod-4_caset_bblu"/>
+    <title>B BLUE 3D CASSETTE IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3d_ipod4_caset_bblu.jpg?v=1523307575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BABY BLUE IPOD 4 3D CASSETTE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746708402275</id>
+      <title>Precision Cut / IPOD TOUCH 4 / IPOD TOUCH 4</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746708303971</id>
+    <published>2018-04-09T13:59:33-07:00</published>
+    <updated>2018-04-09T13:59:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/3d_ipod-4_caset_purp"/>
+    <title>PURPLE 3D CASSETTE IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3d_ipod4_caset_purp.jpg?v=1523307574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE IPOD 4 3D CASSETTE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746708303971</id>
+      <title>Precision Cut / IPOD TOUCH 4 / IPOD TOUCH 4</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746708271203</id>
+    <published>2018-04-09T13:59:32-07:00</published>
+    <updated>2018-04-09T13:59:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/3d_ipod-4_caset_red"/>
+    <title>RED 3D CASSETTE IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3d_ipod4_caset_red.jpg?v=1523307573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED IPOD 4 3D CASSETTE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746708271203</id>
+      <title>Precision Cut / IPOD TOUCH 4 / IPOD TOUCH 4</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746708205667</id>
+    <published>2018-04-09T13:59:30-07:00</published>
+    <updated>2018-04-09T13:59:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/3d_ipod-4_caset_blue"/>
+    <title>BLUE 3D CASSETTE IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3d_ipod4_caset_blue.jpg?v=1523307571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLUE IPOD 4 3D CASSETTE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746708205667</id>
+      <title>Precision Cut / IPOD TOUCH 4 / IPOD TOUCH 4</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/746708140131</id>
+    <published>2018-04-09T13:59:29-07:00</published>
+    <updated>2018-04-09T13:59:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/3d_ipod-4_caset_hpnk"/>
+    <title>HOT PINK 3D CASSETTE IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3d_ipod4_caset_hpnk.jpg?v=1523307570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOT PINK IPOD 4 3D CASSETTE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/746708140131</id>
+      <title>Precision Cut / IPOD TOUCH 4 / IPOD TOUCH 4</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744493219939</id>
+    <published>2018-04-06T11:31:22-07:00</published>
+    <updated>2018-04-06T11:31:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltmrqry_ipod_red"/>
+    <title>RED MQRY WLT TOUCH 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/redfinal2_7c482283-530a-4aee-95bb-7d29141cda3b.png?v=1611175816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744493219939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744493088867</id>
+    <published>2018-04-06T11:31:19-07:00</published>
+    <updated>2018-04-06T11:31:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_slvr_kip_calm"/>
+    <title>SILVER KEEP CALM SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_slvr_kip_calm.jpg?v=1523039479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER KEEP CALM SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744493088867</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744493056099</id>
+    <published>2018-04-06T11:31:18-07:00</published>
+    <updated>2018-04-06T11:31:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_gold_prpl_diamnd"/>
+    <title>GOLD PURPLE DIAMOND SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_slvr_prpl_diamnd_c8ec4d11-b2dd-40f8-a4d2-7f31e8eba311.jpg?v=1523039479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD PURPLE DIAMOND SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744493056099</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492990563</id>
+    <published>2018-04-06T11:31:17-07:00</published>
+    <updated>2018-04-06T11:31:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod5_mattecandy_blk"/>
+    <title>BLACK TPU IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/335232102441208668_grande_a3098184-9f1f-4bbe-82fe-f4872da0c57f.jpg?v=1610133724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK TPU IPOD 5/6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492990563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492826723</id>
+    <published>2018-04-06T11:31:12-07:00</published>
+    <updated>2018-04-06T11:31:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/wltmrqry_ipod_purp"/>
+    <title>PURPLE MQRY WLT TOUCH 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purplefinal_ca4d3197-2324-4c83-bd6b-8bde1e9c5396.png?v=1611176957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492826723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492761187</id>
+    <published>2018-04-06T11:31:10-07:00</published>
+    <updated>2018-04-06T11:31:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_heart_pink"/>
+    <title>PINK HEART SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_heart_pink.jpg?v=1523039471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK HEART SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492761187</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492728419</id>
+    <published>2018-04-06T11:31:09-07:00</published>
+    <updated>2018-04-06T11:31:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_s_duck"/>
+    <title>S DUCK SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_s_duck.jpg?v=1523039470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>S DUCK SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492728419</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492695651</id>
+    <published>2018-04-06T11:31:09-07:00</published>
+    <updated>2018-04-06T11:31:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_heart_grn"/>
+    <title>GREEN HEART SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_heart_grn.jpg?v=1523039469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREEN HEART SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492695651</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492630115</id>
+    <published>2018-04-06T11:31:07-07:00</published>
+    <updated>2018-04-06T11:31:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_slvr_prpl_diamnd"/>
+    <title>SILVER PURPLE DIAMOND SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_slvr_prpl_diamnd.jpg?v=1523039468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER PURPLE DIAMOND SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492630115</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492597347</id>
+    <published>2018-04-06T11:31:06-07:00</published>
+    <updated>2018-04-06T11:31:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_teddyber_purp"/>
+    <title>PURPLE TEDDY BEAR SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_teddyber_purp.jpg?v=1523039467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE TEDDY BEAR SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492597347</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492564579</id>
+    <published>2018-04-06T11:31:05-07:00</published>
+    <updated>2018-04-06T11:31:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_stky_brwn_lepord"/>
+    <title>STICKY BROWN LEOPARD SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_stky_brwn_lepord.jpg?v=1523039466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>STICKY BROWN LEOPARD SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492564579</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492204131</id>
+    <published>2018-04-06T11:30:57-07:00</published>
+    <updated>2018-04-06T11:30:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_gold_zebra_blk"/>
+    <title>GOLD ZEBRA BLACK SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_gold_zebra_blk.jpg?v=1523039457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD ZEBRA BLACK SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492204131</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744492138595</id>
+    <published>2018-04-06T11:30:55-07:00</published>
+    <updated>2018-04-06T11:30:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/ipod_stky_pnk_zebra"/>
+    <title>STICKY PINK ZEBRA SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ipod_stky_pnk_zebra.jpg?v=1523039456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>STICKY PINK ZEBRA SNAP ON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744492138595</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1442336145507</id>
+    <published>2018-04-06T11:30:53-07:00</published>
+    <updated>2018-04-06T11:30:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/cocacola-snap-on"/>
+    <title>ZEBRA SNAP ON IPOD 5/6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ip5c_stky_blk_zebra_grande_9a14820a-21b5-4745-93d0-8dbb800413c2.jpg?v=1550181626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ZEBRA SNAP ON IPOD 5/6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>IPOD TOUCH 5/6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1442336145507</id>
+      <title>Precision Cut / IPOD TOUCH 5/6 / IPOD TOUCH 5/6</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

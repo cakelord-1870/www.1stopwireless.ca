@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/huawei-mate-20-pro.atom"/>
+  <title>1StopWireless</title>
+  <updated>2019-04-22T12:45:52-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489091223651</id>
+    <published>2019-04-22T12:45:52-07:00</published>
+    <updated>2019-04-22T12:45:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-mate-20-pro"/>
+    <title>PURPLE BLUEVISION WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_4f4dde7e-5c9e-43c0-968f-e66bce75a8e4.png?v=1609369007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489091223651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489090732131</id>
+    <published>2019-04-22T12:45:52-07:00</published>
+    <updated>2019-04-22T12:45:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-mate-20-pro"/>
+    <title>TEAL BLUEVISION WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_65a94843-a113-413f-9187-cd84d250f6be.png?v=1609369191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489090732131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489089486947</id>
+    <published>2019-04-22T12:45:51-07:00</published>
+    <updated>2019-04-22T12:45:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-bluevision-wlt-mate-20-pro"/>
+    <title>BROWN BLUEVISION WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BROWN1_32a2ddce-346b-41c2-b799-3f4ee95d3483.png?v=1609368540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN BLUEVISION WLT MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489089486947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489082900579</id>
+    <published>2019-04-22T12:45:51-07:00</published>
+    <updated>2019-04-22T12:45:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-mate-20-pro-3"/>
+    <title>RED BLUEVISION WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_8f410762-9a1b-42a4-a823-f6770dcd3d77.png?v=1609369457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489082900579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489079427171</id>
+    <published>2019-04-22T12:45:51-07:00</published>
+    <updated>2019-04-22T12:45:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-mate-20-pro"/>
+    <title>PINK BLUEVISION WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_30db2160-8c87-4368-9f5f-783e232e2826.png?v=1609368792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489079427171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489079033955</id>
+    <published>2019-04-22T12:45:51-07:00</published>
+    <updated>2019-04-22T12:45:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-mate-20-pro"/>
+    <title>R GOLD BLUEVISION WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_3a61f4b3-a379-4caf-9dc9-5ab266d47749.png?v=1609368245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489079033955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489078640739</id>
+    <published>2019-04-22T12:45:50-07:00</published>
+    <updated>2019-04-22T12:45:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-mate-20-pro"/>
+    <title>BLACK BLUEVISION WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_d83e79cf-d7be-4f4a-acf5-798d2eec62d5.png?v=1609367798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489078640739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488705577059</id>
+    <published>2019-04-15T08:11:00-07:00</published>
+    <updated>2019-04-15T08:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-tpu-mate-20-pro"/>
+    <title>BLACK TPU MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MATE_20_PRO.jpg?v=1561069661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK TPU MATE 20 PRO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488705577059</id>
+      <title>Precision Cut / LG X POWER 2 / LG X POWER 2</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku>tpu_lgxpower2_blk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485720608867</id>
+    <published>2019-04-12T15:01:05-07:00</published>
+    <updated>2019-04-12T15:01:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-mate-20-pro"/>
+    <title>CLEAR TPU MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/10251ab-1527784721_532ec99a-e312-4f3a-9ff1-340c1bd7a418.jpg?v=1555106466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CLEAR TPU MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485720608867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1501023240291</id>
+    <published>2019-01-30T14:53:07-08:00</published>
+    <updated>2019-01-30T14:53:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/copy-of-grey-verto-mate-20-pro"/>
+    <title>PINK VERTO MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pinklft_1024x1024_2x_1024x1024_2x_574af5af-2f84-41c7-bbf3-049595057ac5.png?v=1550954066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK VERTO MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1501023240291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481575497827</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/zebra-snap-on-mate-20-pro"/>
+    <title>ZEBRA SNAP ON MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9453_360x_ccbeda4a-1548-4c74-afc3-ca692043b9e2.jpg?v=1550601742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZEBRA SNAP ON MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481575497827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481575366755</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/tiger-snap-on-mate-20-pro"/>
+    <title>TIGER SNAP ON MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9204_1024x1024_2x_grande_b656cbac-18e8-40ec-b24b-1de8f7b9e4de.jpg?v=1550601952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TIGER SNAP ON MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481575366755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481575235683</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/snake-snap-on-mate-20-pro"/>
+    <title>SNAKE SNAP ON MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9206_1024x1024_2x_1024x1024_2x_b833911f-856a-4875-a623-3049b3945727.jpg?v=1550601659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SNAKE SNAP ON MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481575235683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481575104611</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/smal-leoprd-snap-on-mate-20-pro"/>
+    <title>SMAL LEOPRD SNAP ON MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9207_1024x1024_2x_a02f0564-8565-49d3-9c55-e037e531210c.jpg?v=1549303138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SMAL LEOPRD SNAP ON MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481575104611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481574908003</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/big-leoprd-snap-on-mate-20-pro"/>
+    <title>BIG LEOPRD SNAP ON MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9205_1024x1024_2x_56723374-c1dd-4752-b747-91035cda802f.jpg?v=1549303106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BIG LEOPRD SNAP ON MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CLEARANCE SALE</s:tag>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481574908003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481573662819</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/prpl-flwr-uv-design-wlt-mate-20-pro"/>
+    <title>PRPL FLWR UV DESIGN WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/prplflower_99909652-9335-4e2c-be8a-ba1a6ac8118c.jpg?v=1612998356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481573662819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481573498979</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-flwr-uv-design-wlt-mate-20-pro"/>
+    <title>PINK FLWR UV DESIGN WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9167_360x_bff06c08-9e80-4041-b2b8-2726187f5688.jpg?v=1611097305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK FLWR UV DESIGN WLT MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481573498979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481573433443</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/green-marble-uv-design-wlt-mate-20-pro"/>
+    <title>GREEN MARBLE UV DESIGN WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/IMG_9163_1024x1024_2x_b53d6b9d-72de-4629-8de0-b7468b1edcae.jpg?v=1611097302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GREEN MARBLE UV DESIGN WLT MATE 20 PRO</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481573433443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481572941923</id>
+    <published>2018-10-11T10:44:05-07:00</published>
+    <updated>2018-10-11T10:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/cycle-uv-design-wlt-mate-20-pro"/>
+    <title>CYCLE UV DESIGN WLT MATE 20 PRO</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Capturereal_00b8a830-58cd-45f9-8d5b-00203ddb6f9f.jpg?v=1612997694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MATE 20 PRO</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481572941923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

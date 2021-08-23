@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/google-pixel-xl-2.atom"/>
+  <title>1StopWireless</title>
+  <updated>2018-09-27T16:19:56-07:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441432141923</id>
+    <published>2018-09-27T16:19:56-07:00</published>
+    <updated>2018-09-27T16:19:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-shiny-wlt-pixel-2xl"/>
+    <title>TEAL SHINY WLT PIXEL 2XL</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_68bbcbee-276a-4e16-b0aa-329c6eda0d57.jpg?v=1542057296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SHINY WLT PIXEL 2XL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXELXL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441432141923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441431945315</id>
+    <published>2018-09-27T16:19:56-07:00</published>
+    <updated>2018-09-27T16:19:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-shiny-wlt-pixel-2xl"/>
+    <title>R GOLD SHINY WLT PIXEL 2XL</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/R_GOLD_9739cc72-772a-4c80-be17-da75ff60a3da.jpg?v=1611167071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD SHINY WLT PIXEL 2XL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXELXL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441431945315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441431650403</id>
+    <published>2018-09-27T16:19:56-07:00</published>
+    <updated>2018-09-27T16:19:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-shiny-wlt-pixel-2xl"/>
+    <title>PINK SHINY WLT PIXEL 2XL</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_3b36d3c3-10f3-4b63-9c34-284e4a52873c.jpg?v=1542056659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SHINY WLT PIXEL 2XL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PIXELXL2</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441431650403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/lg-g6.atom"/>
+  <title>1StopWireless</title>
+  <updated>2020-11-21T12:22:26-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488976207971</id>
+    <published>2020-11-21T12:22:26-08:00</published>
+    <updated>2020-11-21T12:22:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-lg-g6"/>
+    <title>BLACK BLUEVISION WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_c24b0c9f-41f0-42a5-bc26-542b39fb7283.png?v=1609367797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488976207971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555152035939</id>
+    <published>2019-05-03T13:31:26-07:00</published>
+    <updated>2019-05-03T13:31:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/beige-plaid-wlt-lg-g6"/>
+    <title>BEIGE PLAID WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/beige_plaid_228f4a06-588d-42a8-8bdc-353c8b42fde8.jpg?v=1574120496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BEIGE PLAID WLT LG G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555152035939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3555151544419</id>
+    <published>2019-05-03T13:30:50-07:00</published>
+    <updated>2019-05-03T13:30:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/brown-checker-wlt-lg-g6"/>
+    <title>BROWN CHECKER WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/brown_plaid_abf909a3-4ed6-43ef-b38c-f44f7a89f546.jpg?v=1574120970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BROWN CHECKER WLT LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3555151544419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432792563811</id>
+    <published>2019-04-29T15:39:30-07:00</published>
+    <updated>2019-04-29T15:39:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-slim-rugged-for-lg-g6"/>
+    <title>TEAL SAR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/07.jpg?v=1555446579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">TEAL SLIM RUGGED FOR LG G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432792563811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432791941219</id>
+    <published>2019-04-29T15:22:54-07:00</published>
+    <updated>2019-04-29T15:22:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-slim-rugged-for-lg-g6"/>
+    <title>PURPLE SAR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_lg_g6.jpg?v=1555446658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE SLIM RUGGED FOR LG G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432791941219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744528281699</id>
+    <published>2019-04-29T15:00:57-07:00</published>
+    <updated>2019-04-29T15:00:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lgg6_marblewalletgusbry_white"/>
+    <title>MARBLE WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/MARBLE_d667951c-b60b-4880-806f-5bfad5542f10.jpg?v=1541864477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MARBLE WALLET FOR LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744528281699</id>
+      <title>Precision Cut / LG G6 / LG G6</title>
+      <s:price currency="CAD">4.25</s:price>
+      <s:sku>lgg6_marblewalletgusbry_white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488982106211</id>
+    <published>2019-04-15T10:39:26-07:00</published>
+    <updated>2019-04-15T10:39:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-lg-g6"/>
+    <title>PURPLE BLUEVISION WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_dd4713bf-d79d-4bf4-ab40-ed9d4e41f10c.png?v=1609369005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488982106211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488981549155</id>
+    <published>2019-04-15T10:38:51-07:00</published>
+    <updated>2019-04-15T10:38:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-lg-g6"/>
+    <title>TEAL BLUEVISION WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_34d6fd5c-f7d6-4883-8d5b-460b1dfed25d.png?v=1609369187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488981549155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488979386467</id>
+    <published>2019-04-15T10:37:57-07:00</published>
+    <updated>2019-04-15T10:37:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-lg-g6"/>
+    <title>RED BLUEVISION WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_066fbe5c-d668-4735-9aa6-f8d549917b79.png?v=1609369452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488979386467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488978665571</id>
+    <published>2019-04-15T10:37:28-07:00</published>
+    <updated>2019-04-15T10:37:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-lg-g6"/>
+    <title>PINK BLUEVISION WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_5b869c57-3a49-4406-ae38-aafbab5300f2.png?v=1609368790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488978665571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3488977780835</id>
+    <published>2019-04-15T10:37:07-07:00</published>
+    <updated>2019-04-15T10:37:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-lg-g6"/>
+    <title>R GOLD BLUEVISION WLT LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_24027cde-d420-47f5-bbcc-05cadfa8502a.png?v=1609368243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3488977780835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573789859939</id>
+    <published>2019-04-15T08:36:18-07:00</published>
+    <updated>2019-04-15T08:36:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-c-hybrid-lg-g6"/>
+    <title>R GOLD C-HYBRID LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/6_be3a15af-63c3-4f39-985c-0d3cd3aaee36.jpg?v=1554244659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD C-HYBRID LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573789859939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573787795555</id>
+    <published>2019-04-15T08:36:17-07:00</published>
+    <updated>2019-04-15T08:36:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-c-hybrid-lg-g6"/>
+    <title>PURPLE C-HYBRID LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/2_aed14ec8-1f45-4eb3-927a-de380b52866c.jpg?v=1554244603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE C-HYBRID LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573787795555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573787009123</id>
+    <published>2019-04-15T08:36:17-07:00</published>
+    <updated>2019-04-15T08:36:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-c-hybrid-lg-g6"/>
+    <title>PINK C-HYBRID LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/3_b09cea6e-09ef-4c6b-aa68-404aabf66197.jpg?v=1554244568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK C-HYBRID LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573787009123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1512526741603</id>
+    <published>2019-04-12T14:58:19-07:00</published>
+    <updated>2019-04-12T14:58:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/clear-tpu-for-lg-g6"/>
+    <title>CLEAR TPU FOR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/xbase-soft-tpu-airpillow-case-for-lg-g6.jpg?v=1611081257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CLEAR TPU FOR LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1512526741603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485658185827</id>
+    <published>2019-04-12T14:37:03-07:00</published>
+    <updated>2019-04-12T14:37:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lg-g6-tempered-glass-packed"/>
+    <title>LG G6 TEMPERED GLASS PACKED</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/file-5_1_1b1202b2-2c42-4d5e-a5ba-bc7d2e29f475.jpeg?v=1558995162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 TEMPERED GLASS PACKED</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:tag>LG TEMPERED GLASS</s:tag>
+    <s:tag>PACKED TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485658185827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1579091558499</id>
+    <published>2019-04-12T14:03:59-07:00</published>
+    <updated>2019-04-12T14:03:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-hard-gltr-lg-g6"/>
+    <title>PINK HARD GLTR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_14d34d5d-8240-4927-8997-24ab94322958.jpg?v=1560981912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK HARD GLITTER CASE FOR LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1579091558499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744528543843</id>
+    <published>2019-04-12T14:03:59-07:00</published>
+    <updated>2019-04-12T14:03:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lgg6_hardglitter_silver"/>
+    <title>SILVER HARD GLTR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/glitter_silver_2.jpg?v=1560981998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SILVER HARD GLITTER CASE FOR LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744528543843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492055130211</id>
+    <published>2019-02-11T07:51:20-08:00</published>
+    <updated>2019-02-11T07:51:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-lg-g6"/>
+    <title>PINK SAR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/08_aff85b5f-c6cc-4307-9892-463b51d596ff.jpg?v=1551136661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK SAR LG G6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492055130211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744528478307</id>
+    <published>2018-04-09T14:10:16-07:00</published>
+    <updated>2018-04-09T14:10:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lgg6_hardglitter_gold"/>
+    <title>GOLD HARD GLTR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/glitter_silver.jpg?v=1560981852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD HARD GLITTER CASE FOR LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744528478307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744528707683</id>
+    <published>2018-04-06T11:45:22-07:00</published>
+    <updated>2018-04-06T11:45:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lgg6_waterglitter_blue"/>
+    <title>BLUE WATER GLITTER LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WG_BLUE.JPG?v=1551137834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLUE WATER GLITTER LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744528707683</id>
+      <title>Precision Cut / LG G6 / LG G6</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>lgg6_waterglitter_blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744528609379</id>
+    <published>2018-04-06T11:45:21-07:00</published>
+    <updated>2018-04-06T11:45:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lgg6_waterglitter_gold"/>
+    <title>GOLD  WATER GLITTER LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/WG_GOLD.JPG?v=1551137860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GOLD  WATER GLITTER LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744528609379</id>
+      <title>Precision Cut / LG G6 / LG G6</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>lgg6_waterglitter_gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/744526970979</id>
+    <published>2018-04-06T11:44:41-07:00</published>
+    <updated>2018-04-06T11:44:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/lgg6_black_tpu"/>
+    <title>BLACK MATTE TPU FOR LG G6</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/71zQEfqRi0L._AC_SY550.jpg?v=1611081240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK MATTE TPU FOR LG G6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/744526970979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

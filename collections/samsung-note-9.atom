@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.1stopwireless.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.1stopwireless.ca/collections/samsung-note-9.atom"/>
+  <title>1StopWireless</title>
+  <updated>2021-02-18T14:16:20-08:00</updated>
+  <author>
+    <name>1StopWireless</name>
+  </author>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489275478115</id>
+    <published>2021-02-18T14:16:20-08:00</published>
+    <updated>2021-02-18T14:16:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-bluevision-wlt-sam-note-9"/>
+    <title>RED BLUEVISION WLT SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RED_5ed93792-3ab3-442f-a5e8-8e3e3c568e7f.png?v=1609369565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RED BLUEVISION WLT SAM NOTE 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489275478115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489274724451</id>
+    <published>2021-02-18T14:16:07-08:00</published>
+    <updated>2021-02-18T14:16:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-bluevision-wlt-sam-note-9"/>
+    <title>BLACK BLUEVISION WLT SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_6a88f612-73cf-4573-932c-5c4b2809541c.png?v=1609367970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLACK BLUEVISION WLT SAM NOTE 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489274724451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583086796899</id>
+    <published>2021-01-18T10:12:58-08:00</published>
+    <updated>2021-01-18T10:12:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/def-clip-sam-note-9"/>
+    <title>DEF CLIP SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/otter_clip_1024x1024_2x_f2efeadd-a569-43f8-97af-c65ddb4b1053.jpg?v=1555100736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DEF CLIP SAM NOTE 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583086796899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441437679715</id>
+    <published>2021-01-18T09:22:08-08:00</published>
+    <updated>2021-01-18T09:22:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/gold-hard-glitter-note-9"/>
+    <title>GOLD HARD GLTR NOTE 9</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/GOLD_b0f5d4f7-b507-4e68-a4d6-dc51c47609b3.png?v=1610993062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GOLD HARD GLITTER NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441437679715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432823890019</id>
+    <published>2020-12-19T08:31:11-08:00</published>
+    <updated>2020-12-19T08:31:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/grey-hard-rugged-for-sam-note-9"/>
+    <title>BLACK SAR SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/grey_note_9.jpg?v=1555444314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK HARD RUGGED FOR SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432823890019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRN9GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492060438627</id>
+    <published>2020-12-19T08:31:05-08:00</published>
+    <updated>2020-12-19T08:31:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/n-blue-sar-for-sam-note-9"/>
+    <title>N BLUE SAR SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/navy_blue_note_9.jpg?v=1555444331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">N BLUE HARD RUGGED FOR SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492060438627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRN9NBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432824512611</id>
+    <published>2020-12-19T08:31:05-08:00</published>
+    <updated>2020-12-19T08:31:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/rose-gold-hard-rugged-for-sam-note-9"/>
+    <title>R GOLD SAR SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE9_-12.jpg?v=1555444376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ROSE GOLD HARD RUGGED FOR SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432824512611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRN9RGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1432823464035</id>
+    <published>2020-12-19T08:31:04-08:00</published>
+    <updated>2020-12-19T08:31:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/red-hard-rugged-for-sam-note-9"/>
+    <title>RED SAR SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/NOTE9_-09.jpg?v=1555444369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RED HARD RUGGED FOR SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1432823464035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRN9RD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/4657775870051</id>
+    <published>2020-12-15T13:07:44-08:00</published>
+    <updated>2020-12-15T13:07:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pmma-nano-sam-note-9-loose"/>
+    <title>PMMA NANO SAM NOTE 8/9 LOOSE</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/Hd81ffad2d76e489f9bd6e22f50d56e74F_0e7201d7-8b17-4f49-9739-b4ce6cc96fc3.jpg?v=1608674540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PMMA NANO SAM NOTE 9 LOOSE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>POLYMER NANO TEMPERED GLASS</s:tag>
+    <s:tag>SAM NOTE 9</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 8</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/4657775870051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1454579875939</id>
+    <published>2020-11-20T14:06:13-08:00</published>
+    <updated>2020-11-20T14:06:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-def-sam-note-9"/>
+    <title>BLACK DEFEND SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/221885294687472306.jpg?v=1610993486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK DEF SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1454579875939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1583111700579</id>
+    <published>2019-11-23T16:26:55-08:00</published>
+    <updated>2019-11-23T16:26:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/space-clear-sam-note-9"/>
+    <title>SPACE CLEAR SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note9space.png?v=1627071189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SPACE CLEAR SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1583111700579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481597419619</id>
+    <published>2019-05-04T15:44:04-07:00</published>
+    <updated>2019-05-04T15:44:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/black-detach-wlt-sam-note-9"/>
+    <title>BLACK DETACH WLT SAM NOTE 9</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/BLACK_8574c6d5-9b4f-4fbe-82a0-66f4b4216d40.png?v=1582917067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLACK DETACH WLT SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481597419619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489275805795</id>
+    <published>2019-04-22T13:30:55-07:00</published>
+    <updated>2019-04-22T13:30:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-bluevision-wlt-sam-note-9"/>
+    <title>PURPLE BLUEVISION WLT SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PURPLE1_d717aca5-da56-4ce7-988f-c9d304605af2.png?v=1609369108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PURPLE BLUEVISION WLT SAM NOTE 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489275805795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489275609187</id>
+    <published>2019-04-22T13:30:55-07:00</published>
+    <updated>2019-04-22T13:30:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/teal-bluevision-wlt-sam-note-9"/>
+    <title>TEAL BLUEVISION WLT SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/TEAL_540x_78e82793-ea4b-4005-8563-98a288e0f77a.png?v=1609789523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TEAL BLUEVISION WLT SAM NOTE 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489275609187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489275084899</id>
+    <published>2019-04-22T13:30:54-07:00</published>
+    <updated>2019-04-22T13:30:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-bluevision-wlt-sam-note-9"/>
+    <title>PINK BLUEVISION WLT SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/PINK_260b9067-425a-4d82-ad15-d5e251c40881.png?v=1609368895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PINK BLUEVISION WLT SAM NOTE 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489275084899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3489274888291</id>
+    <published>2019-04-22T13:30:54-07:00</published>
+    <updated>2019-04-22T13:30:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-bluevision-wlt-sam-note-9"/>
+    <title>R GOLD BLUEVISION WLT SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/RGOLD1_540x_380d2773-4df4-4350-b7dd-8cdb7fe60a19.png?v=1609368351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>R GOLD BLUEVISION WLT SAM NOTE 9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3489274888291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1573857198179</id>
+    <published>2019-04-12T13:35:38-07:00</published>
+    <updated>2019-04-12T13:35:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-hard-gltr-note-9"/>
+    <title>PURPLE HARD GLTR NOTE 9</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/purple_a451ae81-39cd-4581-a97a-0e7d19fbe453.png?v=1610993052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE HARD GLTR NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1573857198179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1441438105699</id>
+    <published>2019-04-12T13:35:38-07:00</published>
+    <updated>2019-04-12T13:35:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/silver-hard-glitter-note-9"/>
+    <title>SILVER HARD GLTR NOTE 9</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/silver_85f4199c-e1bc-4c90-afc6-fec0e8d9f1a8.png?v=1610993056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SILVER HARD GLITTER NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1441438105699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/3485292593251</id>
+    <published>2019-04-12T12:09:11-07:00</published>
+    <updated>2019-04-12T12:09:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/sam-note-9-tpu-screen-protector"/>
+    <title>SAM NOTE 9 TPU SCREEN PROTECTOR</title>
+    <s:type>TEMPERED GLASS</s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/tpu_screen_fe651b22-4fb2-4392-9c28-f7035dd3eaae.jpg?v=1560900470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong>TEMPERED GLASS<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">SAM NOTE 9 TPU SCREEN PROTECTOR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAM NOTE 9</s:tag>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:tag>SAMSUNG TEMPERED GLASS</s:tag>
+    <s:tag>TPU SCREEN PROTECTOR</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/3485292593251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1492060668003</id>
+    <published>2019-02-11T08:01:40-08:00</published>
+    <updated>2019-02-11T08:01:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/pink-sar-for-sam-note-9"/>
+    <title>PINK SAR SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/note_9_pink.jpg?v=1555444344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PINK HARD RUGGED FOR SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1492060668003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>ELCRN9PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1481597747299</id>
+    <published>2018-09-27T15:40:26-07:00</published>
+    <updated>2018-09-27T15:40:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/r-gold-detach-wlt-sam-note-9"/>
+    <title>R GOLD DETACH WLT SAM NOTE 9</title>
+    <s:type></s:type>
+    <s:vendor>1StopWireless</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/ROSE_GOLD_f310bba9-0c20-4c40-bced-025697d54c46.png?v=1582920879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1StopWireless<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">R GOLD DETACH WLT SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1481597747299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1454583152739</id>
+    <published>2018-09-25T19:42:50-07:00</published>
+    <updated>2018-09-25T19:42:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/purple-def-sam-note-9"/>
+    <title>PURPLE DEFEND SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/755434845017570621.jpg?v=1610993502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PURPLE DEF SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1454583152739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.1stopwireless.ca/products/1454582693987</id>
+    <published>2018-09-25T19:42:50-07:00</published>
+    <updated>2018-09-25T19:42:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.1stopwireless.ca/products/hot-pink-def-sam-note-9"/>
+    <title>PINK DEFEND SAM NOTE 9</title>
+    <s:type>MOBILE CASE</s:type>
+    <s:vendor>1STOPWIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0003/4242/5619/products/pink_0f951a80-60c7-449a-9ac9-788981621cba.jpg?v=1610993493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1STOPWIRELESS<br>
+        <strong>Type: </strong>MOBILE CASE<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">HOT PINK DEF SAM NOTE 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAMSUNG GALAXY NOTE 9</s:tag>
+    <s:variant>
+      <id>https://www.1stopwireless.ca/products/1454582693987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
